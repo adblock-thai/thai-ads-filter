@@ -4,4 +4,5 @@
 ##.banner
 ##.img-ads
 ##.img-bt-ads
+##.imgbanner
 ##.text-center-ads
