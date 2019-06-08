@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201906081153
+! Version: 201906081202
 ! Title: Thai Adblock List
-! Last modified: 08 Jun 2019 11:53 UTC
+! Last modified: 08 Jun 2019 12:02 UTC
 ! Expires: 3 days
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
 ! 
@@ -22,6 +22,7 @@
 ||cdn.sagame66.com^$third-party
 ||ft99.b-cdn.net^$third-party
 ||ssnn.site^$third-party
+||cdn.foxwood168.com^$third-party
 ! *** filterlist:filters/thai_thirdparty_popup.txt ***
 ! -----------------------Whitelists to fix broken sites------------------------!
 ! *** filterlist:filters/thai_whitelist.txt ***
