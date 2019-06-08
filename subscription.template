@@ -1,0 +1,12 @@
+[Adblock Plus 2.0]
+! Title: Thai Adblock List
+! Last modified: %timestamp%
+! Expires: 3 days (update frequency)
+!
+!
+!-----------------------General advert blocking filters-----------------------!
+%include filterlist:filters/thai_adservers.txt%
+%include filterlist:filters/thai_general_hide.txt%
+%include filterlist:filters/thai_general_block_popup.txt%
+!-----------------------Whitelists to fix broken sites------------------------!
+%include filterlist:filters/thai_whitelist.txt%
