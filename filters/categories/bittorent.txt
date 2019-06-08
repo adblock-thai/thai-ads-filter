@@ -1,3 +1,4 @@
 dedbit.com##a[target="_blank"] > img[src*=banner]
 dedbit.com##a[target="_blank"] > img[src*=colo]
+siambit.me##tr:nth-of-type(4):-abp-contains(Advertising)
 siambit.me##tr:nth-of-type(5):-abp-contains(Advertising)
