@@ -1,0 +1,26 @@
+[Adblock Plus 2.0]
+! Version: 201906081139
+! Title: Thai Adblock List
+! Last modified: 08 Jun 2019 11:39 UTC
+! Expires: 3 days (update frequency)
+! 
+! 
+! -----------------------General advert blocking filters-----------------------!
+! *** filterlist:filters/thai_adservers.txt ***
+! *** filterlist:filters/thai_general_hide.txt ***
+###ads_fox_bottom
+###bt-ads
+##.adcontainer.container
+##.banner
+##.img-ads
+##.img-bt-ads
+##.text-center-ads
+! *** filterlist:filters/thai_general_block_popup.txt ***
+! *** filterlist:filters/thai_thirdparty.txt ***
+||adforbet.com^$third-party
+||cdn.sagame66.com^$third-party
+||ft99.b-cdn.net^$third-party
+||ssnn.site^$third-party
+! *** filterlist:filters/thai_thirdparty_popup.txt ***
+! -----------------------Whitelists to fix broken sites------------------------!
+! *** filterlist:filters/thai_whitelist.txt ***
