@@ -8,5 +8,7 @@
 %include filterlist:filters/thai_adservers.txt%
 %include filterlist:filters/thai_general_hide.txt%
 %include filterlist:filters/thai_general_block_popup.txt%
+%include filterlist:filters/thai_thirdparty.txt%
+%include filterlist:filters/thai_thirdparty_popup.txt%
 !-----------------------Whitelists to fix broken sites------------------------!
 %include filterlist:filters/thai_whitelist.txt%

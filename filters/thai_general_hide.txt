@@ -1,0 +1,7 @@
+###ads_fox_bottom
+###bt-ads
+##.adcontainer.container
+##.banner
+##.img-ads
+##.img-bt-ads
+##.text-center-ads

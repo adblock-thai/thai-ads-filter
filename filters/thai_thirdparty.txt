@@ -1,0 +1,4 @@
+||adforbet.com^$third-party
+||cdn.sagame66.com^$third-party
+||ft99.b-cdn.net^$third-party
+||ssnn.site^$third-party
