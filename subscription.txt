@@ -1,8 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 201906081150
+! Version: 201906081153
 ! Title: Thai Adblock List
-! Last modified: 08 Jun 2019 11:50 UTC
-! Expires: 3 days (update frequency)
+! Last modified: 08 Jun 2019 11:53 UTC
+! Expires: 3 days
+! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
 ! 
 ! 
 ! -----------------------General advert blocking filters-----------------------!
