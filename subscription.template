@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Thai Adblock List
 ! Last modified: %timestamp%
-! Expires: 3 days
+! Expires: 1 days
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
 !
 !
@@ -11,5 +11,7 @@
 %include filterlist:filters/thai_general_block_popup.txt%
 %include filterlist:filters/thai_thirdparty.txt%
 %include filterlist:filters/thai_thirdparty_popup.txt%
+!-----------------------Catagorize blocking filters-----------------------!
+%include filterlist:filters/categories/bittorent.txt%
 !-----------------------Whitelists to fix broken sites------------------------!
 %include filterlist:filters/thai_whitelist.txt%

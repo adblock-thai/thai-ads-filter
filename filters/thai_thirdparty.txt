@@ -2,5 +2,8 @@
 ||cdn.foxwood168.com^$third-party
 ||cdn.sagame66.com^$third-party
 ||ft99.b-cdn.net^$third-party
+||movies-x.com^$third-party
 ||ssnn.site^$third-party
+||ufa191.com^$third-party
+||ufabet678.com^$third-party
 ||www.goalclub.tv^$third-party

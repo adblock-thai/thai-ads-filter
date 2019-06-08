@@ -1,8 +1,10 @@
 ###ads_fox_bottom
 ###bt-ads
 ##.adcontainer.container
+##.ads-tabloid
 ##.banner
 ##.img-ads
 ##.img-bt-ads
 ##.imgbanner
+##.post-pick-ads
 ##.text-center-ads
