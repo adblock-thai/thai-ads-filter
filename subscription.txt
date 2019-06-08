@@ -1,21 +1,25 @@
 [Adblock Plus 2.0]
-! Version: 201906081531
+! Version: 201906081755
 ! Title: Thai Adblock List
-! Last modified: 08 Jun 2019 15:31 UTC
-! Expires: 3 days
+! Last modified: 08 Jun 2019 17:55 UTC
+! Expires: 1 days
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
 ! 
 ! 
 ! -----------------------General advert blocking filters-----------------------!
 ! *** filterlist:filters/thai_adservers.txt ***
+||ads.pantip.com^
+||ads.pramool.com^
 ! *** filterlist:filters/thai_general_hide.txt ***
 ###ads_fox_bottom
 ###bt-ads
 ##.adcontainer.container
+##.ads-tabloid
 ##.banner
 ##.img-ads
 ##.img-bt-ads
 ##.imgbanner
+##.post-pick-ads
 ##.text-center-ads
 ! *** filterlist:filters/thai_general_block_popup.txt ***
 ! *** filterlist:filters/thai_thirdparty.txt ***
@@ -23,8 +27,11 @@
 ||cdn.foxwood168.com^$third-party
 ||cdn.sagame66.com^$third-party
 ||ft99.b-cdn.net^$third-party
+||movies-x.com^$third-party
 ||ssnn.site^$third-party
+||ufa191.com^$third-party
+||ufabet678.com^$third-party
 ||www.goalclub.tv^$third-party
 ! *** filterlist:filters/thai_thirdparty_popup.txt ***
-! -----------------------Whitelists to fix broken sites------------------------!
-! *** filterlist:filters/thai_whitelist.txt ***
+! -----------------------Catagorize blocking filters-----------------------!
+! *** filterlist:filters/categories/bittorent.txt ***
