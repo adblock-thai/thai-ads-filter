@@ -1,6 +1,7 @@
 ||adforbet.com^$third-party
 ||cdn.foxwood168.com^$third-party
 ||cdn.sagame66.com^$third-party
+||cdn.sagame88cdn.com^$third-party
 ||ft99.b-cdn.net^$third-party
 ||movies-x.com^$third-party
 ||ssnn.site^$third-party
