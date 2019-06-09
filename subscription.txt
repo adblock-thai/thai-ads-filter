@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201906090720
+! Version: 201906090721
 ! Title: Thai Adblock List
-! Last modified: 09 Jun 2019 07:20 UTC
+! Last modified: 09 Jun 2019 07:21 UTC
 ! Expires: 1 days
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
 ! 
@@ -37,3 +37,16 @@
 ! *** filterlist:filters/thai_thirdparty_popup.txt ***
 ! -----------------------Catagorize blocking filters-----------------------!
 ! *** filterlist:filters/categories/movies.txt ***
+037hdd.com##.sidebar-right.widget_text > .custom-html-widget.textwidget
+037hdd.com##a[rel*=nofollow] > img
+movie2free.com##a[target="_blank"] > img
+movie2free.com##a[target="_blank"] > strong
+movie2free.com##a[target="_new"] > img
+movie2free.com##div[style*="position: fixed; bottom: 0px;"]
+! *** filterlist:filters/categories/bittorent.txt ***
+dedbit.com##a[target="_blank"] > img[src*=banner]
+dedbit.com##a[target="_blank"] > img[src*=colo]
+siambit.me##tr:nth-of-type(4):-abp-contains(Advertising)
+siambit.me##tr:nth-of-type(5):-abp-contains(Advertising)
+! -----------------------Whitelists to fix broken sites------------------------!
+! *** filterlist:filters/thai_whitelist.txt ***
