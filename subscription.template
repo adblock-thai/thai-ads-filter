@@ -16,5 +16,9 @@
 %include filterlist:filters/categories/anime.txt%
 %include filterlist:filters/categories/movies.txt%
 %include filterlist:filters/categories/bittorent.txt%
+%include filterlist:filters/categories/game.txt%
+%include filterlist:filters/categories/tech.txt%
+%include filterlist:filters/categories/common.txt%
+%include filterlist:filters/categories/shop.txt%
 !-----------------------Whitelists to fix broken sites------------------------!
 %include filterlist:filters/thai_whitelist.txt%
