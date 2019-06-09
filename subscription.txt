@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201906090758
+! Version: 201906090807
 ! Title: Thai Adblock List
-! Last modified: 09 Jun 2019 07:58 UTC
+! Last modified: 09 Jun 2019 08:07 UTC
 ! Expires: 1 days
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
 ! 
@@ -15,6 +15,7 @@
 ###ads
 ###ads_fox_bottom
 ###bt-ads
+##.ad-box-widget
 ##.adcontainer.container
 ##.ads-tabloid
 ##.banner
@@ -28,6 +29,7 @@
 ! *** filterlist:filters/thai_general_block_popup.txt ***
 ! *** filterlist:filters/thai_thirdparty.txt ***
 ||adforbet.com^$third-party
+||cache*.biasdo.com^$third-party
 ||cdn.foxwood168.com^$third-party
 ||cdn.sagame66.com^$third-party
 ||cdn.sagame88cdn.com^$third-party
@@ -42,6 +44,7 @@
 ! -----------------------Catagorize blocking filters-----------------------!
 ! *** filterlist:filters/categories/movies.txt ***
 bugaboo.tv##.bp-survey-overlay
+pannung.com##.custom-html-widget.textwidget
 movie2z.com##.mainbtn img
 037hdd.com##.sidebar-right.widget_text > .custom-html-widget.textwidget
 037hdd.com##a[rel*=nofollow] > img
