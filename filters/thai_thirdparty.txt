@@ -1,4 +1,5 @@
 ||adforbet.com^$third-party
+||cache*.biasdo.com^$third-party
 ||cdn.foxwood168.com^$third-party
 ||cdn.sagame66.com^$third-party
 ||cdn.sagame88cdn.com^$third-party

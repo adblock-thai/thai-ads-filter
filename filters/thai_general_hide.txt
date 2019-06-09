@@ -1,6 +1,7 @@
 ###ads
 ###ads_fox_bottom
 ###bt-ads
+##.ad-box-widget
 ##.adcontainer.container
 ##.ads-tabloid
 ##.banner

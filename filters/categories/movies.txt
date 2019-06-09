@@ -1,4 +1,5 @@
 bugaboo.tv##.bp-survey-overlay
+pannung.com##.custom-html-widget.textwidget
 movie2z.com##.mainbtn img
 037hdd.com##.sidebar-right.widget_text > .custom-html-widget.textwidget
 037hdd.com##a[rel*=nofollow] > img
