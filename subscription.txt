@@ -1,16 +1,38 @@
 [Adblock Plus 2.0]
-! Version: 201906090925
+! Version: 201906091022
 ! Title: Thai Adblock List
-! Last modified: 09 Jun 2019 09:25 UTC
+! Last modified: 09 Jun 2019 10:22 UTC
 ! Expires: 1 days
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
 ! 
 ! 
 ! -----------------------General advert blocking filters-----------------------!
 ! *** filterlist:filters/thai_adservers.txt ***
-||ads.pantip.com^
-||ads.pramool.com^
+||35.193.89.147
+||35.193.89.147^$popup
+||ads.bumq.com
+||ads.pantip.com
+||ads.pramool.com
+||cdn.popcash.net
+||cdn.popmyads.com
+||code.nytive.com
+||code.yengo.com
+||comenu.ais.co.th
+||digital.ais.co.th/file/common/js/sub-store.js
+||mds.nipa.co.th
+||metrics.brightcove.com
+||netdna-ssl.com/*/advanced-ads/
+||netdna-ssl.com/*/easy-social-share-buttons3/
+||saxp.zedo.com
+||sistacafe.com/scripts/nytive
+||sistacafe.com/scripts/truehits
+||sistacafe.com/scripts/yengo
+||srf.ais.co.th
 ||stream.osami.xyz/templates/jwplayer/assets/video.js
+||thaiza.com/nodo.html
+||viu.com/ott/*/tracking/
+||wp.com/media.go2*.*/
+||ws-adv.ais.co.th
 ! *** filterlist:filters/thai_general_hide.txt ***
 ###ads
 ###ads_fox_bottom
@@ -45,9 +67,11 @@
 ! *** filterlist:filters/thai_thirdparty_popup.txt ***
 ! -----------------------Catagorize blocking filters-----------------------!
 ! *** filterlist:filters/categories/anime.txt ***
+box-manga.com,mangasubthai.com## + js(addEventListener-defuser.js, mousedown, tabUnder)
 animeloli.com###link_h_movie_ad
 gg-anime.com###main > center
 gg-anime.com###top-section center
+godcat-manga.com##.text-center.m-t-20.row
 gg-anime.com##a[href*=bet] > img
 anime-sugoi.com##a[target="_blank"] > img
 ||stream.marimo.me/marimo/video$third-party,domain=animeloli.com
