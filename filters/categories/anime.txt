@@ -1,0 +1,6 @@
+animeloli.com###link_h_movie_ad
+gg-anime.com###main > center
+gg-anime.com###top-section center
+gg-anime.com##a[href*=bet] > img
+anime-sugoi.com##a[target="_blank"] > img
+||stream.marimo.me/marimo/video$third-party,domain=animeloli.com

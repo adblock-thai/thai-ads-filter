@@ -12,6 +12,7 @@
 %include filterlist:filters/thai_thirdparty.txt%
 %include filterlist:filters/thai_thirdparty_popup.txt%
 !-----------------------Catagorize blocking filters-----------------------!
+%include filterlist:filters/categories/anime.txt%
 %include filterlist:filters/categories/movies.txt%
 %include filterlist:filters/categories/bittorent.txt%
 !-----------------------Whitelists to fix broken sites------------------------!
