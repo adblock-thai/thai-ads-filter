@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201906081812
+! Version: 201906090716
 ! Title: Thai Adblock List
-! Last modified: 08 Jun 2019 18:12 UTC
+! Last modified: 09 Jun 2019 07:16 UTC
 ! Expires: 1 days
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
 ! 
@@ -16,6 +16,7 @@
 ##.adcontainer.container
 ##.ads-tabloid
 ##.banner
+##.bireklam
 ##.img-ads
 ##.img-bt-ads
 ##.imgbanner
@@ -34,10 +35,4 @@
 ||www.goalclub.tv^$third-party
 ! *** filterlist:filters/thai_thirdparty_popup.txt ***
 ! -----------------------Catagorize blocking filters-----------------------!
-! *** filterlist:filters/categories/bittorent.txt ***
-dedbit.com##a[target="_blank"] > img[src*=banner]
-dedbit.com##a[target="_blank"] > img[src*=colo]
-siambit.me##tr:nth-of-type(4):-abp-contains(Advertising)
-siambit.me##tr:nth-of-type(5):-abp-contains(Advertising)
-! -----------------------Whitelists to fix broken sites------------------------!
-! *** filterlist:filters/thai_whitelist.txt ***
+! *** filterlist:filters/categories/movies.txt ***
