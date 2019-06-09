@@ -4,6 +4,7 @@
 ##.ads-tabloid
 ##.banner
 ##.bireklam
+##.boxads
 ##.img-ads
 ##.img-bt-ads
 ##.imgbanner
