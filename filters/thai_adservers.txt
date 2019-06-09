@@ -1,2 +1,3 @@
 ||ads.pantip.com^
 ||ads.pramool.com^
+||stream.osami.xyz/templates/jwplayer/assets/video.js
