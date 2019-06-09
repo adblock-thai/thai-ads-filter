@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201906090807
+! Version: 201906090814
 ! Title: Thai Adblock List
-! Last modified: 09 Jun 2019 08:07 UTC
+! Last modified: 09 Jun 2019 08:14 UTC
 ! Expires: 1 days
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
 ! 
@@ -35,6 +35,7 @@
 ||cdn.sagame88cdn.com^$third-party
 ||ft99.b-cdn.net^$third-party
 ||movies-x.com^$third-party
+||publish.iptvz.net^$third-party
 ||sagame36.com^$third-party
 ||ssnn.site^$third-party
 ||ufa191.com^$third-party
@@ -48,7 +49,7 @@ pannung.com##.custom-html-widget.textwidget
 movie2z.com##.mainbtn img
 037hdd.com##.sidebar-right.widget_text > .custom-html-widget.textwidget
 037hdd.com##a[rel*=nofollow] > img
-movie2free.com,movie2z.com,new-mastermovie.com##a[target="_blank"] > img
+donung.me,movie2free.com,movie2z.com,new-mastermovie.com##a[target="_blank"] > img
 movie2free.com##a[target="_blank"] > strong
 movie2free.com##a[target="_new"] > img
 movie2free.com##div[style*="position: fixed; bottom: 0px;"]
