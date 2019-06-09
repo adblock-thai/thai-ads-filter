@@ -3,8 +3,10 @@
 ###bt-ads
 ###sct_top_banner
 ##.ad-box-widget
+##.ad_foot
 ##.adcontainer.container
 ##.ads-tabloid
+##.ads300s
 ##.banner
 ##.banner_h
 ##.bireklam
