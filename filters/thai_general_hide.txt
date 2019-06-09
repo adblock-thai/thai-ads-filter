@@ -3,6 +3,7 @@
 ##.adcontainer.container
 ##.ads-tabloid
 ##.banner
+##.bireklam
 ##.img-ads
 ##.img-bt-ads
 ##.imgbanner
