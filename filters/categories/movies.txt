@@ -3,7 +3,7 @@ pannung.com##.custom-html-widget.textwidget
 movie2z.com##.mainbtn img
 037hdd.com##.sidebar-right.widget_text > .custom-html-widget.textwidget
 037hdd.com##a[rel*=nofollow] > img
-donung.me,movie2free.com,movie2z.com,new-mastermovie.com##a[target="_blank"] > img
+donung.me,movie2free.com,movie2z.com,nanamovies.com,new-mastermovie.com##a[target="_blank"] > img
 movie2free.com##a[target="_blank"] > strong
 movie2free.com##a[target="_new"] > img
 movie2free.com##div[style*="position: fixed; bottom: 0px;"]
