@@ -1,59 +1,209 @@
 [Adblock Plus 2.0]
-! Version: 201906091408
+! Version: 201906091725
 ! Title: Thai Adblock List
-! Last modified: 09 Jun 2019 14:08 UTC
+! Last modified: 09 Jun 2019 17:25 UTC
 ! Expires: 1 days
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
 ! 
 ! 
 ! -----------------------General advert blocking filters-----------------------!
 ! *** filterlist:filters/thai_adservers.txt ***
+||*-adnow.com$third-party
+||24x7th.com
 ||35.193.89.147
 ||35.193.89.147^$popup
+||accesstrade.in.th
+||adasiaholdings.com
+||adok.asia
+||adop.cc
+||ads*.bangkokpost.co.th
+||ads*.matichon.co.th
+||ads.boxza.com
 ||ads.bumq.com
+||ads.gamemonday.com
+||ads.jarm.com
+||ads.os.co.th
 ||ads.pantip.com
+||ads.postjung.com
 ||ads.pramool.com
+||ads.siamza.com
+||ads.techxcite.com
+||adsniper.ru
+||adsoptimal.com
+||adtplatform.com
+||amung.us
+||anonymousdemographics.com
+||app-measurement.com
+||appsflyer.com
+||areyouahuman.com
+||atdmt.com
+||avd.innity.net
+||aviasales.ru
+||bluekai.com
+||btstatic.com
+||bumq.com
 ||cdn.popcash.net
 ||cdn.popmyads.com
+||clickadu.com
+||clicksgear.com
 ||code.nytive.com
 ||code.yengo.com
 ||comenu.ais.co.th
-||digital.ais.co.th/file/common/js/sub-store.js
+||connextra.com
+||crashlytics.com
+||crazyegg.com
+||criteo.com
+||criteo.net
+||crwdcntrl.net
+||cryptobrowser.site
+||csi.gstatic.com
+||cxense.com
+||d-stats.com
+||dtscout.com
+||edgesuite.net
+||effectivemeasure.net
+||exdynsrv.com
+||exoclick.com
+||exosrv.com
+||eyeota.net
+||feedjit.com
+||filadmir.site
+||fout.jp
+||gammaplatform.com
+||gbotvisit.com
+||gbox.sc
+||generaltagcom.ga
+||go2cloud.org
+||go2speed.org
+||heatmap.it
+||hilightad.kapook.com
+||histats.com
+||hotjar.com
+||imrworldwide.com
+||inmobi.com
+||innity.com
+||innity.net
+||inspectlet.com
+||iyfnzgb.com
+||izooto.com
+||joox-affiliate.sanook.com
+||kiosked.com
+||luckyorange.com
+||m88.com
 ||mds.nipa.co.th
 ||metrics.brightcove.com
-||netdna-ssl.com/*/advanced-ads/
-||netdna-ssl.com/*/easy-social-share-buttons3/
+||moatads.com
+||mtburn.com
+||mtburn.jp
+||newrelic.com
+||nr-data.com
+||nr-data.net
+||nuffnang.co.th
+||nuffnang.com
+||nytive.com
+||oclaserver.com
+||oilchange.website
+||onclasrv.com
+||onclickads.net
+||openxmarket.asia
+||padsdel.com
+||padstm.com
+||parkingcrew.com
+||parkingcrew.net
+||pc1ads.com
+||pc2ads.com
+||pc3ads.com
+||ping-fast.com
+||pingdom.net
+||pixeldigitalstudios.com
+||plista.com
+||popads.net
+||popcash.net
+||popclck.com
+||popclck.net
+||poptm.com
+||ptengine.com
+||puserving.com
+||pushnative.com
+||quicktask.xyz
+||reimageplus.com
+||replase.tk
+||report-uri.cloudflare.com
+||revsci.net
+||runtnc.net
+||ruu-dee.com
+||sales-frontier.com
 ||saxp.zedo.com
-||sistacafe.com/scripts/nytive
-||sistacafe.com/scripts/truehits
-||sistacafe.com/scripts/yengo
+||scorecardresearch.com
+||serving-sys.com
+||shinobi.jp
+||simba-digital.com
+||smemove.com
+||socdm.com
 ||srf.ais.co.th
+||stat.matichon.co.th
+||statmt.matichon.co.th
+||stats.in.th
+||stats.wp.com
 ||stream.osami.xyz/templates/jwplayer/assets/video.js
+||sumome.com
+||synergy-e.com
+||taboola.com
+||tagserve.asia
+||tapad.com
 ||thaiza.com/nodo.html
+||thstats.com
+||thtrackingap.com
+||tityx.com
+||travelpayouts.com
+||truehits.in.th
+||truehits.net
+||tynt.com
+||user-api.com
+||user-clicks.com
+||user-red.com
+||uustoughtonma.org
 ||viu.com/ott/*/tracking/
+||whatshelp.io
+||wmdstat.dev-sanook.com
 ||wp.com/media.go2*.*/
 ||ws-adv.ais.co.th
+||yengo.com
+||yu0123456.com
+||zemanta.com
 ! *** filterlist:filters/thai_track.txt ***
 ||stat.in.th^
 ||truehits.net^
-||trustmarkthai.com/callbackData/initialize.js$third-party
+||trustmarkthai.com/callbackData/$third-party
 ! *** filterlist:filters/thai_general_hide.txt ***
 ###ads
+###ads-overlay
+###ads-preload-popup
 ###ads_fox_bottom
+###ads_top_content
 ###bt-ads
+###overlay_ads
 ###sct_top_banner
+###yengo-inline-ads
+##.ad-box
 ##.ad-box-widget
 ##.ad_foot
 ##.adcontainer.container
+##.ads
 ##.ads-tabloid
 ##.ads300s
+##.ajax-banner
 ##.banner
+##.banner-left
+##.banner-right
+##.banner-side
 ##.banner_h
 ##.bireklam
 ##.boxads
 ##.img-ads
 ##.img-bt-ads
 ##.imgbanner
+##.mid_ads
 ##.post-pick-ads
 ##.text-center-ads
 ! *** filterlist:filters/thai_general_block_popup.txt ***
@@ -95,10 +245,26 @@ movie2free.com##a[target="_blank"] > strong
 movie2free.com##a[target="_new"] > img
 movie2free.com##div[style*="position: fixed; bottom: 0px;"]
 doonung-hd.com/wp-content/play/video11.mp4
+||viu.com/ott/*/tracking/
 ! *** filterlist:filters/categories/bittorent.txt ***
 dedbit.com##a[target="_blank"] > img[src*=banner]
 dedbit.com##a[target="_blank"] > img[src*=colo]
 siambit.me##tr:nth-of-type(4):-abp-contains(Advertising)
 siambit.me##tr:nth-of-type(5):-abp-contains(Advertising)
+! *** filterlist:filters/categories/game.txt ***
+||compgamer.com/mainpage/module/*/popup$script
+! *** filterlist:filters/categories/tech.txt ***
+||notebookspec.com/*/nbs_custom_ads.php$xmlhttprequest
+! *** filterlist:filters/categories/common.txt ***
+||isanook.com/*/ads$xmlhttprequest
+||isanook.com/*/beacon$script
+||kapook.com/*/track$script
+||kapook.com/ads/$script
+! *** filterlist:filters/categories/shop.txt ***
+||akamaihd.net/shopee/*/*TrackingRules$script,domain=shopee.co.th
+||akamaihd.net/shopee/*/TrackingRules$script,domain=shopee.co.th
+||shopee.co.th/__t__$xmlhttprequest
+||shopee.co.th/userstats_record$xmlhttprequest
+||shopeemobile.com/th/tr$xmlhttprequest
 ! -----------------------Whitelists to fix broken sites------------------------!
 ! *** filterlist:filters/thai_whitelist.txt ***
