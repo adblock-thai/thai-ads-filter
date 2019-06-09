@@ -5,6 +5,7 @@
 ##.adcontainer.container
 ##.ads-tabloid
 ##.banner
+##.banner_h
 ##.bireklam
 ##.boxads
 ##.img-ads
