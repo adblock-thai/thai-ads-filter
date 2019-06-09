@@ -4,6 +4,7 @@
 ||cdn.sagame88cdn.com^$third-party
 ||ft99.b-cdn.net^$third-party
 ||movies-x.com^$third-party
+||sagame36.com^$third-party
 ||ssnn.site^$third-party
 ||ufa191.com^$third-party
 ||ufabet678.com^$third-party

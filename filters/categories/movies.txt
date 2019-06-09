@@ -1,7 +1,7 @@
 bugaboo.tv##.bp-survey-overlay
 037hdd.com##.sidebar-right.widget_text > .custom-html-widget.textwidget
 037hdd.com##a[rel*=nofollow] > img
-movie2free.com##a[target="_blank"] > img
+movie2free.com,new-mastermovie.com##a[target="_blank"] > img
 movie2free.com##a[target="_blank"] > strong
 movie2free.com##a[target="_new"] > img
 movie2free.com##div[style*="position: fixed; bottom: 0px;"]
