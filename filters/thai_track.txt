@@ -1,0 +1,3 @@
+||stat.in.th^
+||truehits.net^
+||trustmarkthai.com/callbackData/initialize.js$third-party
