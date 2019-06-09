@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201906090854
+! Version: 201906090925
 ! Title: Thai Adblock List
-! Last modified: 09 Jun 2019 08:54 UTC
+! Last modified: 09 Jun 2019 09:25 UTC
 ! Expires: 1 days
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
 ! 
@@ -44,6 +44,13 @@
 ||www.goalclub.tv^$third-party
 ! *** filterlist:filters/thai_thirdparty_popup.txt ***
 ! -----------------------Catagorize blocking filters-----------------------!
+! *** filterlist:filters/categories/anime.txt ***
+animeloli.com###link_h_movie_ad
+gg-anime.com###main > center
+gg-anime.com###top-section center
+gg-anime.com##a[href*=bet] > img
+anime-sugoi.com##a[target="_blank"] > img
+||stream.marimo.me/marimo/video$third-party,domain=animeloli.com
 ! *** filterlist:filters/categories/movies.txt ***
 bugaboo.tv##.bp-survey-overlay
 pannung.com##.custom-html-widget.textwidget
