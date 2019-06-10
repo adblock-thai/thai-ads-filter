@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201906100317
+! Version: 201906100321
 ! Title: Thai Adblock List
-! Last modified: 10 Jun 2019 03:17 UTC
+! Last modified: 10 Jun 2019 03:21 UTC
 ! Expires: 1 days
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
 ! 
@@ -148,16 +148,16 @@
 ||stream.osami.xyz/templates/jwplayer/assets/video.js
 ||sumome.com
 ||synergy-e.com
-||taboola.com
+||taboola.com$third-party
 ||tagserve.asia
 ||tapad.com
 ||thaiza.com/nodo.html
-||thstats.com
+||thstats.com$third-party
 ||thtrackingap.com
 ||tityx.com
 ||travelpayouts.com
-||truehits.in.th
-||truehits.net
+||truehits.in.th$third-party
+||truehits.net$third-party
 ||tynt.com
 ||user-api.com
 ||user-clicks.com
@@ -168,10 +168,11 @@
 ||wmdstat.dev-sanook.com
 ||wp.com/media.go2*.*/
 ||ws-adv.ais.co.th
-||yengo.com
+||yengo.com$third-party
 ||yu0123456.com
 ||zemanta.com
 ! *** filterlist:filters/thai_track.txt ***
+||histat.com
 ||stat.in.th^
 ||truehits.net^
 ||trustmarkthai.com/callbackData/$third-party
@@ -224,11 +225,11 @@
 ! *** filterlist:filters/thai_thirdparty_popup.txt ***
 ! -----------------------Catagorize blocking filters-----------------------!
 ! *** filterlist:filters/categories/anime.txt ***
-box-manga.com,mangasubthai.com## + js(addEventListener-defuser.js, mousedown, tabUnder)
 animeloli.com###link_h_movie_ad
 gg-anime.com###main > center
 niceoppai.net###text-33
 gg-anime.com###top-section center
+box-manga.com,mangasubthai.com##+js(addEventListener-defuser.js, mousedown, tabUnder)
 kingsmanga.net##.new-kingsmanga-section
 godcat-manga.com##.text-center.m-t-20.row
 gg-anime.com##a[href*=bet] > img
