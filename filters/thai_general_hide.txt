@@ -17,7 +17,10 @@
 ##.ads
 ##.ads-group
 ##.ads-tabloid
+##.ads140s
+##.ads300m
 ##.ads300s
+##.ads800
 ##.adsbygoogle
 ##.ajax-banner
 ##.banner
@@ -36,4 +39,5 @@
 ##.mid_ads
 ##.post-pick-ads
 ##.text-center-ads
+##a[href="http://mobilesitexxx.com/reufa678.html"] > img
 ##div[id^=div-gpt-ad-]

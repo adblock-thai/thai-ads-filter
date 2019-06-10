@@ -5,7 +5,7 @@ movie2z.com##.mainbtn img
 037hdd.com##a[rel*=nofollow] > img
 donung.me,doonung-hd.com,movie2free.com,movie2z.com,nanamovies.com,new-mastermovie.com##a[target="_blank"] > img
 movie2free.com##a[target="_blank"] > strong
-movie2free.com##a[target="_new"] > img
+madooseries.com,movie2free.com##a[target="_new"] > img
+madooseries.com##a[target="blank"] > img
 movie2free.com##div[style*="position: fixed; bottom: 0px;"]
 doonung-hd.com/wp-content/play/video11.mp4
-||viu.com/ott/*/tracking/
