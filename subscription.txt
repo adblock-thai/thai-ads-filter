@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201906101341
+! Version: 201906101628
 ! Title: Thai Adblock List
-! Last modified: 10 Jun 2019 13:41 UTC
+! Last modified: 10 Jun 2019 16:28 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -260,6 +260,7 @@ godcat-manga.com##.text-center.m-t-20.row
 gg-anime.com##a[href*=bet] > img
 newb-anime.com##a[target*=blank][rel*=noopener] > img
 anime-sugoi.com,niceoppai.net##a[target="_blank"] > img
+||opuree.com/*/detector$script
 ||stream.marimo.me/marimo/video$third-party,domain=animeloli.com
 ! *** filterlist:filters/categories/movies.txt ***
 bugaboo.tv##.bp-survey-overlay
