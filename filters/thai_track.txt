@@ -1,3 +1,4 @@
+||histat.com
 ||stat.in.th^
 ||truehits.net^
 ||trustmarkthai.com/callbackData/$third-party
