@@ -307,3 +307,9 @@ thethaiger.com###pop-overlay
 ! *** filterlist:filters/categories/adult.txt ***
 xxxpostpic.org##a[rel^=nofollow] > img
 ! *** filterlist:filters/categories/sport.txt ***
+soccersuck.com###ssCoverBG
+soccersuck.com##a[rel=nofollow][target=_blank] > img
+! -----------------------Whitelists to fix broken sites------------------------!
+! *** filterlist:filters/thai_whitelist.txt ***
+! viu cant play without it
+@@||viu.com/ott/*/tracking/
