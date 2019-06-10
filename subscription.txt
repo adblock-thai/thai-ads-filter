@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201906100638
+! Version: 201906101149
 ! Title: Thai Adblock List
-! Last modified: 10 Jun 2019 06:38 UTC
+! Last modified: 10 Jun 2019 11:49 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -33,17 +33,21 @@
 ||adsniper.ru
 ||adsoptimal.com
 ||adtplatform.com
+||ais.co.th/digitalData/encrypt.js$third-party
 ||amung.us
 ||anonymousdemographics.com
 ||app-measurement.com
 ||appsflyer.com
 ||areyouahuman.com
+||assets.adnuntius.com$third-party
 ||atdmt.com
 ||avd.innity.net
 ||aviasales.ru
+||bcp.crwdcntrl.net
 ||bluekai.com
 ||btstatic.com
 ||bumq.com
+||cdn.adnuntius.com$third-party
 ||cdn.popcash.net
 ||cdn.popmyads.com
 ||clickadu.com
@@ -61,6 +65,7 @@
 ||csi.gstatic.com
 ||cxense.com
 ||d-stats.com
+||delivery.adnuntius.com$third-party
 ||dtscout.com
 ||edgesuite.net
 ||effectivemeasure.net
@@ -180,21 +185,26 @@
 ||trustmarkthai.com/callbackData/$third-party
 ! *** filterlist:filters/thai_general_hide.txt ***
 ###ads
+###ads-google-middle_rectangle-group
 ###ads-overlay
 ###ads-preload-popup
 ###ads_fox_bottom
 ###ads_top_content
 ###bt-ads
+###hilight-ads
 ###overlay_ads
 ###sct_top_banner
 ###yengo-inline-ads
 ##.ad-box
 ##.ad-box-widget
+##.adHide-Mobile
 ##.ad_foot
 ##.adcontainer.container
 ##.ads
+##.ads-group
 ##.ads-tabloid
 ##.ads300s
+##.adsbygoogle
 ##.ajax-banner
 ##.banner
 ##.banner-left
@@ -208,9 +218,11 @@
 ##.img-bt-ads
 ##.img-kosana
 ##.imgbanner
+##.inline-ads-box
 ##.mid_ads
 ##.post-pick-ads
 ##.text-center-ads
+##div[id^=div-gpt-ad-]
 ! *** filterlist:filters/thai_general_block_popup.txt ***
 ! *** filterlist:filters/thai_thirdparty.txt ***
 ||adforbet.com^$third-party
@@ -276,5 +288,10 @@ siambit.me##tr:nth-of-type(5):-abp-contains(Advertising)
 ||shopee.co.th/__t__$xmlhttprequest
 ||shopee.co.th/userstats_record$xmlhttprequest
 ||shopeemobile.com/th/tr$xmlhttprequest
+! *** filterlist:filters/categories/news.txt ***
+khaophuket.com##a[href^=banner_stat]
+khaophuket.com/*/banner/
+khaosod.co.th/wp-content/uploads/2017/02/gpsiam.gif
+thethaiger.com###pop-overlay
 ! -----------------------Whitelists to fix broken sites------------------------!
 ! *** filterlist:filters/thai_whitelist.txt ***
