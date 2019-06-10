@@ -1,0 +1,4 @@
+khaophuket.com##a[href^=banner_stat]
+khaophuket.com/*/banner/
+khaosod.co.th/wp-content/uploads/2017/02/gpsiam.gif
+thethaiger.com###pop-overlay

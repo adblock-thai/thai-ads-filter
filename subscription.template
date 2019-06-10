@@ -21,5 +21,6 @@
 %include filterlist:filters/categories/tech.txt%
 %include filterlist:filters/categories/common.txt%
 %include filterlist:filters/categories/shop.txt%
+%include filterlist:filters/categories/news.txt%
 !-----------------------Whitelists to fix broken sites------------------------!
 %include filterlist:filters/thai_whitelist.txt%
