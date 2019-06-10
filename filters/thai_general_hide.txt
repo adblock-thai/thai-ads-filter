@@ -23,7 +23,9 @@
 ##.bireklam
 ##.boxads
 ##.img-ads
+##.img-ads2
 ##.img-bt-ads
+##.img-kosana
 ##.imgbanner
 ##.mid_ads
 ##.post-pick-ads

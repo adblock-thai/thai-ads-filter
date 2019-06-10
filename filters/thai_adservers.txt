@@ -18,6 +18,7 @@
 ||ads.pramool.com
 ||ads.siamza.com
 ||ads.techxcite.com
+||adserver.juicyads.com
 ||adsniper.ru
 ||adsoptimal.com
 ||adtplatform.com
