@@ -1,1 +1,3 @@
+gamemonday.com##a[rel^=nofollow][target=_blank] > img
+||ads.gamemonday.com
 ||compgamer.com/mainpage/module/*/popup$script
