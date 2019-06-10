@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201906100537
+! Version: 201906100605
 ! Title: Thai Adblock List
-! Last modified: 10 Jun 2019 05:37 UTC
+! Last modified: 10 Jun 2019 06:05 UTC
 ! Expires: 1 days
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
 ! 
@@ -28,6 +28,7 @@
 ||ads.pramool.com
 ||ads.siamza.com
 ||ads.techxcite.com
+||adserver.juicyads.com
 ||adsniper.ru
 ||adsoptimal.com
 ||adtplatform.com
@@ -202,7 +203,9 @@
 ##.bireklam
 ##.boxads
 ##.img-ads
+##.img-ads2
 ##.img-bt-ads
+##.img-kosana
 ##.imgbanner
 ##.mid_ads
 ##.post-pick-ads
@@ -230,9 +233,14 @@ gg-anime.com###main > center
 niceoppai.net###text-33
 gg-anime.com###top-section center
 box-manga.com,king-anime.com,mangasubthai.com##+js(addEventListener-defuser.js, mousedown, tabUnder)
+flix-anime.com##.active-mobile.kosana-container-m
+flix-anime.com,misa-anime.com##.img-kosana
+airi-anime.com##.movie-container a[target="blank"] > img
+anime-super.com##.movie-container.container div.text-center
 kingsmanga.net##.new-kingsmanga-section
 godcat-manga.com##.text-center.m-t-20.row
 gg-anime.com##a[href*=bet] > img
+newb-anime.com##a[target*=blank][rel*=noopener] > img
 anime-sugoi.com,niceoppai.net##a[target="_blank"] > img
 ||stream.marimo.me/marimo/video$third-party,domain=animeloli.com
 ! *** filterlist:filters/categories/movies.txt ***
