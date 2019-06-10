@@ -21,7 +21,10 @@
 ##.ads300m
 ##.ads300s
 ##.ads800
+##.adsBottoms
 ##.adsbygoogle
+##.adsever
+##.adv_A
 ##.ajax-banner
 ##.banner
 ##.banner-left

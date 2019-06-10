@@ -23,5 +23,6 @@
 %include filterlist:filters/categories/shop.txt%
 %include filterlist:filters/categories/news.txt%
 %include filterlist:filters/categories/adult.txt%
+%include filterlist:filters/categories/sport.txt%
 !-----------------------Whitelists to fix broken sites------------------------!
 %include filterlist:filters/thai_whitelist.txt%
