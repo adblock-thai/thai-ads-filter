@@ -2,7 +2,7 @@ animeloli.com###link_h_movie_ad
 gg-anime.com###main > center
 niceoppai.net###text-33
 gg-anime.com###top-section center
-box-manga.com,mangasubthai.com##+js(addEventListener-defuser.js, mousedown, tabUnder)
+box-manga.com,king-anime.com,mangasubthai.com##+js(addEventListener-defuser.js, mousedown, tabUnder)
 kingsmanga.net##.new-kingsmanga-section
 godcat-manga.com##.text-center.m-t-20.row
 gg-anime.com##a[href*=bet] > img
