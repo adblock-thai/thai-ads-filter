@@ -22,6 +22,7 @@
 ##.ads300s
 ##.ads800
 ##.adsBottoms
+##.ads_zone
 ##.adsbygoogle
 ##.adsever
 ##.adv_A
