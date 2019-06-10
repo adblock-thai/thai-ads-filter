@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201906101149
+! Version: 201906101341
 ! Title: Thai Adblock List
-! Last modified: 10 Jun 2019 11:49 UTC
+! Last modified: 10 Jun 2019 13:41 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -9,6 +9,7 @@
 ! 
 ! -----------------------General advert blocking filters-----------------------!
 ! *** filterlist:filters/thai_adservers.txt ***
+xxemb.com/adsn.php
 ||*-adnow.com$third-party
 ||24x7th.com
 ||35.193.89.147
@@ -203,7 +204,10 @@
 ##.ads
 ##.ads-group
 ##.ads-tabloid
+##.ads140s
+##.ads300m
 ##.ads300s
+##.ads800
 ##.adsbygoogle
 ##.ajax-banner
 ##.banner
@@ -222,6 +226,7 @@
 ##.mid_ads
 ##.post-pick-ads
 ##.text-center-ads
+##a[href="http://mobilesitexxx.com/reufa678.html"] > img
 ##div[id^=div-gpt-ad-]
 ! *** filterlist:filters/thai_general_block_popup.txt ***
 ! *** filterlist:filters/thai_thirdparty.txt ***
@@ -264,10 +269,10 @@ movie2z.com##.mainbtn img
 037hdd.com##a[rel*=nofollow] > img
 donung.me,doonung-hd.com,movie2free.com,movie2z.com,nanamovies.com,new-mastermovie.com##a[target="_blank"] > img
 movie2free.com##a[target="_blank"] > strong
-movie2free.com##a[target="_new"] > img
+madooseries.com,movie2free.com##a[target="_new"] > img
+madooseries.com##a[target="blank"] > img
 movie2free.com##div[style*="position: fixed; bottom: 0px;"]
 doonung-hd.com/wp-content/play/video11.mp4
-||viu.com/ott/*/tracking/
 ! *** filterlist:filters/categories/bittorent.txt ***
 dedbit.com##a[target="_blank"] > img[src*=banner]
 dedbit.com##a[target="_blank"] > img[src*=colo]
@@ -293,5 +298,9 @@ khaophuket.com##a[href^=banner_stat]
 khaophuket.com/*/banner/
 khaosod.co.th/wp-content/uploads/2017/02/gpsiam.gif
 thethaiger.com###pop-overlay
+! *** filterlist:filters/categories/adult.txt ***
+xxxpostpic.org##a[rel^=nofollow] > img
 ! -----------------------Whitelists to fix broken sites------------------------!
 ! *** filterlist:filters/thai_whitelist.txt ***
+! viu cant play without it
+@@||viu.com/ott/*/tracking/
