@@ -14,7 +14,6 @@
 ##.adHide-Mobile
 ##.ad_foot
 ##.adcontainer.container
-##.ads
 ##.ads-group
 ##.ads-tabloid
 ##.ads140s
