@@ -1,5 +1,6 @@
 thethaiger.com###pop-overlay
 siamblockchain.com##+js(abort-on-property-write.js, adBlockDetected)
 khaophuket.com##a[href^=banner_stat]
+siamblockchain.com##article.ads
 khaophuket.com/*/banner/
 khaosod.co.th/wp-content/uploads/2017/02/gpsiam.gif
