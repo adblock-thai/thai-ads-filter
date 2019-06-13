@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201906120346
+! Version: 201906130602
 ! Title: Thai Adblock List
-! Last modified: 12 Jun 2019 03:46 UTC
+! Last modified: 13 Jun 2019 06:02 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -300,10 +300,11 @@ gamemonday.com##a[rel^=nofollow][target=_blank] > img
 ||shopee.co.th/userstats_record$xmlhttprequest
 ||shopeemobile.com/th/tr$xmlhttprequest
 ! *** filterlist:filters/categories/news.txt ***
+thethaiger.com###pop-overlay
+siamblockchain.com##+js(abort-on-property-write.js, adBlockDetected)
 khaophuket.com##a[href^=banner_stat]
 khaophuket.com/*/banner/
 khaosod.co.th/wp-content/uploads/2017/02/gpsiam.gif
-thethaiger.com###pop-overlay
 ! *** filterlist:filters/categories/adult.txt ***
 xxxpostpic.org##a[rel^=nofollow] > img
 ! *** filterlist:filters/categories/sport.txt ***
