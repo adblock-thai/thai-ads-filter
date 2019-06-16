@@ -2,6 +2,7 @@
 ###ads-google-middle_rectangle-group
 ###ads-overlay
 ###ads-preload-popup
+###ads_3
 ###ads_fox_bottom
 ###ads_top_content
 ###bt-ads
