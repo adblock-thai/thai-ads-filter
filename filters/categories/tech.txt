@@ -1,1 +1,2 @@
+windowssiam.com##.jinda-wrapper
 ||notebookspec.com/*/nbs_custom_ads.php$xmlhttprequest
