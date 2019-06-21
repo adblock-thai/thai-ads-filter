@@ -6,7 +6,7 @@ movie2z.com##.mainbtn img
 037hdd.com##.sidebar-right.widget_text > .custom-html-widget.textwidget
 seriesclubs.com##.twy-pubadban
 superseriesthai.com##a > img.img-fluid
-037hdd.com##a[rel*=nofollow] > img
+037hdd.com,utaseries.com##a[rel*=nofollow] > img
 series-nanime.com##a[rel=nofollow] > img
 donung.me,doonung-hd.com,movie2free.com,movie2z.com,nanamovies.com,new-mastermovie.com##a[target="_blank"] > img
 movie2free.com##a[target="_blank"] > strong
@@ -16,3 +16,4 @@ doofreeseries.com##a[target=_blank] > img.size-full
 movie2free.com##div[style*="position: fixed; bottom: 0px;"]
 doonung-hd.com/wp-content/play/video11.mp4
 series-nanime.com/adsvideo^
+||seriesfuture.co$third-party
