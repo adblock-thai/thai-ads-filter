@@ -7,6 +7,7 @@ xxemb.com/adsn.php
 ||adasiaholdings.com
 ||adok.asia
 ||adop.cc
+||adotai.co$third-party
 ||ads*.bangkokpost.co.th
 ||ads*.matichon.co.th
 ||ads.boxza.com
@@ -24,6 +25,7 @@ xxemb.com/adsn.php
 ||adsoptimal.com
 ||adtplatform.com
 ||ais.co.th/digitalData/encrypt.js$third-party
+||akhad.net$third-party
 ||amung.us
 ||anonymousdemographics.com
 ||app-measurement.com
