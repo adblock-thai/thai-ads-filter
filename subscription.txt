@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201906211409
+! Version: 201906211420
 ! Title: Thai Adblock List
-! Last modified: 21 Jun 2019 14:09 UTC
+! Last modified: 21 Jun 2019 14:20 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -235,6 +235,7 @@ xxemb.com/adsn.php
 ##a[href="http://mobilesitexxx.com/reufa678.html"] > img
 ##div[id^=div-gpt-ad-]
 ! *** filterlist:filters/thai_general_block_popup.txt ***
+##a[href*=macau-uta-popup]
 ! *** filterlist:filters/thai_thirdparty.txt ***
 ||adforbet.com^$third-party
 ||cache*.biasdo.com^$third-party
@@ -277,7 +278,7 @@ movie2z.com##.mainbtn img
 037hdd.com##.sidebar-right.widget_text > .custom-html-widget.textwidget
 seriesclubs.com##.twy-pubadban
 superseriesthai.com##a > img.img-fluid
-037hdd.com##a[rel*=nofollow] > img
+037hdd.com,utaseries.com##a[rel*=nofollow] > img
 series-nanime.com##a[rel=nofollow] > img
 donung.me,doonung-hd.com,movie2free.com,movie2z.com,nanamovies.com,new-mastermovie.com##a[target="_blank"] > img
 movie2free.com##a[target="_blank"] > strong
@@ -287,6 +288,7 @@ doofreeseries.com##a[target=_blank] > img.size-full
 movie2free.com##div[style*="position: fixed; bottom: 0px;"]
 doonung-hd.com/wp-content/play/video11.mp4
 series-nanime.com/adsvideo^
+||seriesfuture.co$third-party
 ! *** filterlist:filters/categories/bittorent.txt ***
 dedbit.com##a[target="_blank"] > img[src*=banner]
 dedbit.com##a[target="_blank"] > img[src*=colo]
