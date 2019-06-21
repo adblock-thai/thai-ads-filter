@@ -18,3 +18,4 @@ doofreeseries.com##a[target=_blank] > img.size-full
 movie2free.com##div[style*="position: fixed; bottom: 0px;"]
 doonung-hd.com/wp-content/play/video11.mp4
 series-nanime.com/adsvideo^
+||doofreeseries.com/vdo/
