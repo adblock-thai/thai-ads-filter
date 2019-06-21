@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201906211440
+! Version: 201906211447
 ! Title: Thai Adblock List
-! Last modified: 21 Jun 2019 14:40 UTC
+! Last modified: 21 Jun 2019 14:47 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -258,6 +258,7 @@ xxemb.com/adsn.php
 ! *** filterlist:filters/categories/anime.txt ***
 animeloli.com###link_h_movie_ad
 gg-anime.com###main > center
+opuree.com###modalads
 niceoppai.net###text-33
 gg-anime.com###top-section center
 box-manga.com,king-anime.com,mangasubthai.com##+js(addEventListener-defuser.js, mousedown, tabUnder)
@@ -266,10 +267,12 @@ flix-anime.com,misa-anime.com##.img-kosana
 airi-anime.com##.movie-container a[target="blank"] > img
 anime-super.com##.movie-container.container div.text-center
 kingsmanga.net##.new-kingsmanga-section
+opuree.com##.show.fade.modal-backdrop
 godcat-manga.com##.text-center.m-t-20.row
 gg-anime.com##a[href*=bet] > img
 newb-anime.com##a[target*=blank][rel*=noopener] > img
 anime-sugoi.com,niceoppai.net##a[target="_blank"] > img
+opuree.com##html:style(overflow: auto !important;)
 ||opuree.com/*/detector$script
 ||stream.marimo.me/marimo/video$third-party,domain=animeloli.com
 ! *** filterlist:filters/categories/movies.txt ***
