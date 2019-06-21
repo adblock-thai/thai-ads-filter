@@ -3,6 +3,7 @@ pannung.com##.custom-html-widget.textwidget
 movie2z.com##.mainbtn img
 037hdd.com##.sidebar-right.widget_text > .custom-html-widget.textwidget
 seriesclubs.com##.twy-pubadban
+superseriesthai.com##a > img.img-fluid
 037hdd.com##a[rel*=nofollow] > img
 donung.me,doonung-hd.com,movie2free.com,movie2z.com,nanamovies.com,new-mastermovie.com##a[target="_blank"] > img
 movie2free.com##a[target="_blank"] > strong
