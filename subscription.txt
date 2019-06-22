@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201906220345
+! Version: 201906220408
 ! Title: Thai Adblock List
-! Last modified: 22 Jun 2019 03:45 UTC
+! Last modified: 22 Jun 2019 04:08 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -298,10 +298,11 @@ doonung-hd.com/wp-content/play/video11.mp4
 series-nanime.com/adsvideo^
 ||doofreeseries.com/vdo/
 ! *** filterlist:filters/categories/bittorent.txt ***
+zbbit.com##a[href*=advertise] > img
+zbbit.com##a[rel=nofollow] > img
 dedbit.com##a[target="_blank"] > img[src*=banner]
 dedbit.com##a[target="_blank"] > img[src*=colo]
-siambit.me##tr:nth-of-type(4):-abp-contains(Advertising)
-siambit.me##tr:nth-of-type(5):-abp-contains(Advertising)
+siambit.me##table.mainouter table tr:-abp-contains(Advertising)
 ! *** filterlist:filters/categories/game.txt ***
 gamemonday.com##a[rel^=nofollow][target=_blank] > img
 ||ads.gamemonday.com
