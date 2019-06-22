@@ -1,0 +1,2 @@
+aplayer.xyz,bplayer.xyz##.popupfancy
+||blog-natta.com^$popup
