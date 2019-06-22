@@ -2,3 +2,5 @@
 @@||viu.com/ott/*/tracking/
 ! imgtrue not show picture
 imgtrue.com#@#.ad-banner
+! sine.tv cant load video
+@@||gplay.sine.tv/embed/
