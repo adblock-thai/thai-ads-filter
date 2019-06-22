@@ -1,2 +1,4 @@
 ! viu cant play without it
 @@||viu.com/ott/*/tracking/
+! imgtrue not show picture
+imgtrue.com#@#.ad-banner

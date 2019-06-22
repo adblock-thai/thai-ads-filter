@@ -1,3 +1,6 @@
+imgtrue.com###image_image-viewer_foot
+imgtrue.com##a[target=_blank] > img.image-viewer-main
+imgtrue.com##cloudflare-app[app=flashcard]
 ||isanook.com/*/ads$xmlhttprequest
 ||isanook.com/*/beacon$script
 ||kapook.com/*/track$script
