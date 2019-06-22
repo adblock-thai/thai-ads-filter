@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201906211943
+! Version: 201906220345
 ! Title: Thai Adblock List
-! Last modified: 21 Jun 2019 19:43 UTC
+! Last modified: 22 Jun 2019 03:45 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -310,6 +310,9 @@ gamemonday.com##a[rel^=nofollow][target=_blank] > img
 windowssiam.com##.jinda-wrapper
 ||notebookspec.com/*/nbs_custom_ads.php$xmlhttprequest
 ! *** filterlist:filters/categories/common.txt ***
+imgtrue.com###image_image-viewer_foot
+imgtrue.com##a[target=_blank] > img.image-viewer-main
+imgtrue.com##cloudflare-app[app=flashcard]
 ||isanook.com/*/ads$xmlhttprequest
 ||isanook.com/*/beacon$script
 ||kapook.com/*/track$script
@@ -336,3 +339,5 @@ soccersuck.com##a[rel=nofollow][target=_blank] > img
 ! *** filterlist:filters/thai_whitelist.txt ***
 ! viu cant play without it
 @@||viu.com/ott/*/tracking/
+! imgtrue not show picture
+imgtrue.com#@#.ad-banner
