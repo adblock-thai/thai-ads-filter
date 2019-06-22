@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201906220408
+! Version: 201906220414
 ! Title: Thai Adblock List
-! Last modified: 22 Jun 2019 04:08 UTC
+! Last modified: 22 Jun 2019 04:14 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -279,6 +279,7 @@ opuree.com##html:style(overflow: auto !important;)
 madooseries.com###\33
 madooseries.com###\34
 popuplayer.com##.adtt
+xn--82cf0aw7bf9jbc7a0nyb.com##.banner-header
 bugaboo.tv##.bp-survey-overlay
 pannung.com##.custom-html-widget.textwidget
 movie2z.com##.mainbtn img
