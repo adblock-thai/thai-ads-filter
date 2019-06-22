@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201906220438
+! Version: 201906220447
 ! Title: Thai Adblock List
-! Last modified: 22 Jun 2019 04:38 UTC
+! Last modified: 22 Jun 2019 04:47 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -290,6 +290,7 @@ seriesclubs.com##.twy-pubadban
 superseriesthai.com##a > img.img-fluid
 037hdd.com,utaseries.com##a[rel*=nofollow] > img
 series-nanime.com##a[rel=nofollow] > img
+sine.tv##a[rel^=nofollow] > img
 donung.me,doonung-hd.com,movie2free.com,movie2z.com,nanamovies.com,new-mastermovie.com##a[target="_blank"] > img
 movie2free.com##a[target="_blank"] > strong
 madooseries.com,movie2free.com##a[target="_new"] > img
@@ -345,3 +346,5 @@ soccersuck.com##a[rel=nofollow][target=_blank] > img
 @@||viu.com/ott/*/tracking/
 ! imgtrue not show picture
 imgtrue.com#@#.ad-banner
+! sine.tv cant load video
+@@||gplay.sine.tv/embed/
