@@ -31,3 +31,4 @@ doonung-hd.com/wp-content/play/video11.mp4
 seriesfreeonline.com##html:style(overflow: auto !important;)
 series-nanime.com/adsvideo^
 ||doofreeseries.com/vdo/
+||ksubtv.net/wp-content/plugins/ultimate-popunder/$script
