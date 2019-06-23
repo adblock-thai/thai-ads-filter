@@ -1,12 +1,17 @@
 madooseries.com###\33
 madooseries.com###\34
+series-d.com###bt-kosana
 seriesfreeonline.com###fuck-adb-enabled
 seriesfreeonline.com###kosana_click
 seriesfreeonline.com##+js(abort-on-property-write.js, adBlockDetected)
+series-d.com##+js(fuckadblock.js-3.2.0)
 popuplayer.com##.adtt
 xn--82cf0aw7bf9jbc7a0nyb.com##.banner-header
 bugaboo.tv##.bp-survey-overlay
 pannung.com##.custom-html-widget.textwidget
+series-d.com##.imgkosana
+series-d.com##.kosana-banner
+series-d.com##.kosana-container
 movie2z.com##.mainbtn img
 037hdd.com##.sidebar-right.widget_text > .custom-html-widget.textwidget
 seriesclubs.com##.twy-pubadban
