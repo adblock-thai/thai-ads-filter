@@ -1,5 +1,8 @@
 madooseries.com###\33
 madooseries.com###\34
+seriesfreeonline.com###fuck-adb-enabled
+seriesfreeonline.com###kosana_click
+seriesfreeonline.co##+js(abort-on-property-write.js, adBlockDetected)
 popuplayer.com##.adtt
 xn--82cf0aw7bf9jbc7a0nyb.com##.banner-header
 bugaboo.tv##.bp-survey-overlay
@@ -20,5 +23,6 @@ baan-series.com,series24hr.com##a[target=_blank] > img
 doofreeseries.com##a[target=_blank] > img.size-full
 movie2free.com##div[style*="position: fixed; bottom: 0px;"]
 doonung-hd.com/wp-content/play/video11.mp4
+seriesfreeonline.com##html:style(overflow: auto !important;)
 series-nanime.com/adsvideo^
 ||doofreeseries.com/vdo/
