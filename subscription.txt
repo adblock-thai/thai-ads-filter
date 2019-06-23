@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201906230547
+! Version: 201906230554
 ! Title: Thai Adblock List
-! Last modified: 23 Jun 2019 05:47 UTC
+! Last modified: 23 Jun 2019 05:54 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -283,7 +283,7 @@ madooseries.com###\33
 madooseries.com###\34
 seriesfreeonline.com###fuck-adb-enabled
 seriesfreeonline.com###kosana_click
-seriesfreeonline.co##+js(abort-on-property-write.js, adBlockDetected)
+seriesfreeonline.com##+js(abort-on-property-write.js, adBlockDetected)
 popuplayer.com##.adtt
 xn--82cf0aw7bf9jbc7a0nyb.com##.banner-header
 bugaboo.tv##.bp-survey-overlay
