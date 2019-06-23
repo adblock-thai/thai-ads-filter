@@ -2,7 +2,7 @@ madooseries.com###\33
 madooseries.com###\34
 seriesfreeonline.com###fuck-adb-enabled
 seriesfreeonline.com###kosana_click
-seriesfreeonline.co##+js(abort-on-property-write.js, adBlockDetected)
+seriesfreeonline.com##+js(abort-on-property-write.js, adBlockDetected)
 popuplayer.com##.adtt
 xn--82cf0aw7bf9jbc7a0nyb.com##.banner-header
 bugaboo.tv##.bp-survey-overlay
