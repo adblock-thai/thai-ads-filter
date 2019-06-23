@@ -43,5 +43,6 @@
 ##.mid_ads
 ##.post-pick-ads
 ##.text-center-ads
+##a[href*="bx.in.th/ref/"] > img
 ##a[href="http://mobilesitexxx.com/reufa678.html"] > img
 ##div[id^=div-gpt-ad-]
