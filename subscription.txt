@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201906231355
+! Version: 201906250940
 ! Title: Thai Adblock List
-! Last modified: 23 Jun 2019 13:55 UTC
+! Last modified: 25 Jun 2019 09:40 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -309,7 +309,7 @@ donung.me,doonung-hd.com,movie2free.com,movie2z.com,nanamovies.com,new-mastermov
 movie2free.com##a[target="_blank"] > strong
 madooseries.com,movie2free.com##a[target="_new"] > img
 madooseries.com##a[target="blank"] > img
-baan-series.com,series24hr.com##a[target=_blank] > img
+037hdd.com,baan-series.com,series24hr.com##a[target=_blank] > img
 xn--72czp7a9bc4b9c4e6b.com##a[target=_blank] > img.img-responsive
 doofreeseries.com##a[target=_blank] > img.size-full
 movie2free.com##div[style*="position: fixed; bottom: 0px;"]
