@@ -3,6 +3,7 @@ madooseries.com###\34
 series-d.com###bt-kosana
 seriesfreeonline.com###fuck-adb-enabled
 seriesfreeonline.com###kosana_click
+nungnew-hd.com##+js(abort-on-property-read.js, _0xb36c)
 seriesfreeonline.com##+js(abort-on-property-write.js, adBlockDetected)
 nungnew-hd.com##+js(addEventListener-defuser.js, mousedown)
 series-d.com##+js(fuckadblock.js-3.2.0)
