@@ -4,6 +4,7 @@ series-d.com###bt-kosana
 seriesfreeonline.com###fuck-adb-enabled
 seriesfreeonline.com###kosana_click
 seriesfreeonline.com##+js(abort-on-property-write.js, adBlockDetected)
+nungnew-hd.com##+js(addEventListener-defuser.js, mousedown)
 series-d.com##+js(fuckadblock.js-3.2.0)
 popuplayer.com##.adtt
 xn--82cf0aw7bf9jbc7a0nyb.com##.banner-header
