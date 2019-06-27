@@ -1,2 +1,3 @@
+popuplayer.com##+js(window.open-defuser.js)
 ##a[href*=macau-uta-popup]
 ||gqqdlckj8y.com$script,third-party
