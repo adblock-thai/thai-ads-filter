@@ -1,0 +1,4 @@
+||cdn.foxwood168.com^$media,redirect=noopmp4-1s,third-party,domain=lnwplayer.com
+||cdn.sagame66.com^$media,redirect=noopmp4-1s,third-party,domain=lnwplayer.com
+||cdn.sagame88cdn.com^$media,redirect=noopmp4-1s,third-party,domain=lnwplayer.com
+||cdn.ufa191.com^$media,redirect=noopmp4-1s,third-party,domain=lnwplayer.com
