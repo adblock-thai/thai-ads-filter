@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201907101530
+! Version: 201907160604
 ! Title: Thai Adblock List
-! Last modified: 10 Jul 2019 15:30 UTC
+! Last modified: 16 Jul 2019 06:04 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -100,6 +100,7 @@ xxemb.com/adsn.php
 ||izooto.com
 ||joox-affiliate.sanook.com
 ||kiosked.com
+||ladsdown.com$third-party
 ||luckyorange.com
 ||m88.com
 ||mds.nipa.co.th
