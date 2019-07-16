@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201907160724
+! Version: 201907160729
 ! Title: Thai Adblock List
-! Last modified: 16 Jul 2019 07:24 UTC
+! Last modified: 16 Jul 2019 07:29 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -305,7 +305,7 @@ series-d.com##+js(fuckadblock.js-3.2.0)
 popuplayer.com##.adtt
 xn--82cf0aw7bf9jbc7a0nyb.com##.banner-header
 bugaboo.tv##.bp-survey-overlay
-pannung.com##.custom-html-widget.textwidget
+nungsub.com,pannung.com##.custom-html-widget.textwidget
 series-d.com##.imgkosana
 series-d.com##.kosana-banner
 series-d.com##.kosana-container
@@ -317,7 +317,8 @@ seriesclubs.com##.twy-pubadban
 superseriesthai.com##a > img.img-fluid
 fanseriesthaisub.com##a > img.w-100
 nungnew-hd.com##a[href*=pegloang]
-037hdd.com,utaseries.com##a[rel*=nofollow] > img
+nungsub.com##a[rel*=nofollow] > div[class*=img]
+037hdd.com,nungsub.com,utaseries.com##a[rel*=nofollow] > img
 series-nanime.com##a[rel=nofollow] > img
 2youhdd.com,doo4k.com,movie2freeth.com,moviedoofee.com,newmovie-4k.com,nunglnw.com,nungnew-hd.com,sine.tv##a[rel^=nofollow] > img
 donung.me,doonung-hd.com,movie2free.com,movie2z.com,nanamovies.com,new-mastermovie.com##a[target="_blank"] > img
