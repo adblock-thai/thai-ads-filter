@@ -1,12 +1,18 @@
 [Adblock Plus 2.0]
-! Version: 201907160729
+! Version: 201907161426
 ! Title: Thai Adblock List
-! Last modified: 16 Jul 2019 07:29 UTC
+! Last modified: 16 Jul 2019 14:26 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
 ! 
 ! 
+! -----------------------High Order filters-----------------------!
+! *** filterlist:filters/high_order_filters.txt ***
+||cdn.foxwood168.com^$media,redirect=noopmp4-1s,third-party,domain=lnwplayer.com
+||cdn.sagame66.com^$media,redirect=noopmp4-1s,third-party,domain=lnwplayer.com
+||cdn.sagame88cdn.com^$media,redirect=noopmp4-1s,third-party,domain=lnwplayer.com
+||cdn.ufa191.com^$media,redirect=noopmp4-1s,third-party,domain=lnwplayer.com
 ! -----------------------General advert blocking filters-----------------------!
 ! *** filterlist:filters/thai_adservers.txt ***
 dooserieshd.com/ads/
@@ -332,10 +338,6 @@ movie2free.com##div[style*="position: fixed; bottom: 0px;"]
 doonung-hd.com/wp-content/play/video11.mp4
 seriesfreeonline.com##html:style(overflow: auto !important;)
 series-nanime.com/adsvideo^
-||cdn.foxwood168.com^$media,redirect=noopmp4-1s,third-party,domain=lnwplayer.com
-||cdn.sagame66.com^$media,redirect=noopmp4-1s,third-party,domain=lnwplayer.com
-||cdn.sagame88cdn.com^$media,redirect=noopmp4-1s,third-party,domain=lnwplayer.com
-||cdn.ufa191.com^$media,redirect=noopmp4-1s,third-party,domain=lnwplayer.com
 ||doofreeseries.com/vdo/
 ||ksubtv.net/wp-content/plugins/ultimate-popunder/$script
 ! *** filterlist:filters/categories/bittorent.txt ***
