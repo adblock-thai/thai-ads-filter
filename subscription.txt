@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201907160712
+! Version: 201907160718
 ! Title: Thai Adblock List
-! Last modified: 16 Jul 2019 07:12 UTC
+! Last modified: 16 Jul 2019 07:18 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -318,12 +318,12 @@ fanseriesthaisub.com##a > img.w-100
 nungnew-hd.com##a[href*=pegloang]
 037hdd.com,utaseries.com##a[rel*=nofollow] > img
 series-nanime.com##a[rel=nofollow] > img
-doo4k.com,movie2freeth.com,newmovie-4k.com,nunglnw.com,nungnew-hd.com,sine.tv##a[rel^=nofollow] > img
+doo4k.com,movie2freeth.com,moviedoofee.com,newmovie-4k.com,nunglnw.com,nungnew-hd.com,sine.tv##a[rel^=nofollow] > img
 donung.me,doonung-hd.com,movie2free.com,movie2z.com,nanamovies.com,new-mastermovie.com##a[target="_blank"] > img
 movie2free.com##a[target="_blank"] > strong
 madooseries.com,movie2free.com##a[target="_new"] > img
 madooseries.com##a[target="blank"] > img
-037hdd.com,baan-series.com,nunglnw.com,series24hr.com##a[target=_blank] > img
+037hdd.com,baan-series.com,moviedoofee.com,nunglnw.com,series24hr.com##a[target=_blank] > img
 037-hd.com,xn--72czp7a9bc4b9c4e6b.com##a[target=_blank] > img.img-responsive
 doofreeseries.com##a[target=_blank] > img.size-full
 movie2free.com##div[style*="position: fixed; bottom: 0px;"]
