@@ -28,7 +28,7 @@ fanseriesthaisub.com##a > img.w-100
 nungnew-hd.com##a[href*=pegloang]
 037hdd.com,utaseries.com##a[rel*=nofollow] > img
 series-nanime.com##a[rel=nofollow] > img
-doo4k.com,movie2freeth.com,nungnew-hd.com,sine.tv##a[rel^=nofollow] > img
+doo4k.com,movie2freeth.com,newmovie-4k.com,nungnew-hd.com,sine.tv##a[rel^=nofollow] > img
 donung.me,doonung-hd.com,movie2free.com,movie2z.com,nanamovies.com,new-mastermovie.com##a[target="_blank"] > img
 movie2free.com##a[target="_blank"] > strong
 madooseries.com,movie2free.com##a[target="_new"] > img
