@@ -7,6 +7,7 @@
 ||movies-x.com^$third-party
 ||publish.iptvz.net^$third-party
 ||sagame36.com^$third-party
+||scg511.com^$third-party
 ||ssnn.site^$third-party
 ||ufa191.com^$third-party
 ||ufabet678.com^$third-party
