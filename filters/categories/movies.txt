@@ -27,7 +27,7 @@ fanseriesthaisub.com##a > img.w-100
 nungnew-hd.com##a[href*=pegloang]
 037hdd.com,utaseries.com##a[rel*=nofollow] > img
 series-nanime.com##a[rel=nofollow] > img
-nungnew-hd.com,sine.tv##a[rel^=nofollow] > img
+movie2freeth.com,nungnew-hd.com,sine.tv##a[rel^=nofollow] > img
 donung.me,doonung-hd.com,movie2free.com,movie2z.com,nanamovies.com,new-mastermovie.com##a[target="_blank"] > img
 movie2free.com##a[target="_blank"] > strong
 madooseries.com,movie2free.com##a[target="_new"] > img
@@ -39,5 +39,9 @@ movie2free.com##div[style*="position: fixed; bottom: 0px;"]
 doonung-hd.com/wp-content/play/video11.mp4
 seriesfreeonline.com##html:style(overflow: auto !important;)
 series-nanime.com/adsvideo^
+||cdn.foxwood168.com^$media,redirect=noopmp4-1s,third-party,domain=lnwplayer.com
+||cdn.sagame66.com^$media,redirect=noopmp4-1s,third-party,domain=lnwplayer.com
+||cdn.sagame88cdn.com^$media,redirect=noopmp4-1s,third-party,domain=lnwplayer.com
+||cdn.ufa191.com^$media,redirect=noopmp4-1s,third-party,domain=lnwplayer.com
 ||doofreeseries.com/vdo/
 ||ksubtv.net/wp-content/plugins/ultimate-popunder/$script

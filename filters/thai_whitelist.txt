@@ -4,3 +4,4 @@
 imgtrue.com#@#.ad-banner
 ! sine.tv cant load video
 @@||gplay.sine.tv/embed/
+@@||lnwplayer.com^$generichide
