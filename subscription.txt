@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201907160659
+! Version: 201907160702
 ! Title: Thai Adblock List
-! Last modified: 16 Jul 2019 06:59 UTC
+! Last modified: 16 Jul 2019 07:02 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -288,7 +288,8 @@ opuree.com##html:style(overflow: auto !important;)
 ! *** filterlist:filters/categories/movies.txt ***
 madooseries.com###\33
 madooseries.com###\34
-nungnew-hd.com###banner-left
+doo4k.com,nungnew-hd.com###banner-left
+doo4k.com###banner-right
 series-d.com###bt-kosana
 seriesfreeonline.com###fuck-adb-enabled
 seriesfreeonline.com###kosana_click
@@ -315,7 +316,7 @@ fanseriesthaisub.com##a > img.w-100
 nungnew-hd.com##a[href*=pegloang]
 037hdd.com,utaseries.com##a[rel*=nofollow] > img
 series-nanime.com##a[rel=nofollow] > img
-movie2freeth.com,nungnew-hd.com,sine.tv##a[rel^=nofollow] > img
+doo4k.com,movie2freeth.com,nungnew-hd.com,sine.tv##a[rel^=nofollow] > img
 donung.me,doonung-hd.com,movie2free.com,movie2z.com,nanamovies.com,new-mastermovie.com##a[target="_blank"] > img
 movie2free.com##a[target="_blank"] > strong
 madooseries.com,movie2free.com##a[target="_new"] > img
