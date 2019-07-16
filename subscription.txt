@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201907160702
+! Version: 201907160706
 ! Title: Thai Adblock List
-! Last modified: 16 Jul 2019 07:02 UTC
+! Last modified: 16 Jul 2019 07:06 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -246,6 +246,7 @@ popuplayer.com##+js(window.open-defuser.js)
 ! *** filterlist:filters/thai_thirdparty.txt ***
 ||adforbet.com^$third-party
 ||cache*.biasdo.com^$third-party
+||cdn.digitaloceanspaces.com/dreamgame88.mp4$third-party
 ||cdn.foxwood168.com^$third-party
 ||cdn.sagame66.com^$third-party
 ||cdn.sagame88cdn.com^$third-party
@@ -316,7 +317,7 @@ fanseriesthaisub.com##a > img.w-100
 nungnew-hd.com##a[href*=pegloang]
 037hdd.com,utaseries.com##a[rel*=nofollow] > img
 series-nanime.com##a[rel=nofollow] > img
-doo4k.com,movie2freeth.com,nungnew-hd.com,sine.tv##a[rel^=nofollow] > img
+doo4k.com,movie2freeth.com,newmovie-4k.com,nungnew-hd.com,sine.tv##a[rel^=nofollow] > img
 donung.me,doonung-hd.com,movie2free.com,movie2z.com,nanamovies.com,new-mastermovie.com##a[target="_blank"] > img
 movie2free.com##a[target="_blank"] > strong
 madooseries.com,movie2free.com##a[target="_new"] > img
