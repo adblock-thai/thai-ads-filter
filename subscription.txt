@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201907160604
+! Version: 201907160612
 ! Title: Thai Adblock List
-! Last modified: 16 Jul 2019 06:04 UTC
+! Last modified: 16 Jul 2019 06:12 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -287,6 +287,7 @@ opuree.com##html:style(overflow: auto !important;)
 ! *** filterlist:filters/categories/movies.txt ***
 madooseries.com###\33
 madooseries.com###\34
+nungnew-hd.com###banner-left
 series-d.com###bt-kosana
 seriesfreeonline.com###fuck-adb-enabled
 seriesfreeonline.com###kosana_click
@@ -306,13 +307,14 @@ series-d.com##.kosana-container
 movie2z.com##.mainbtn img
 fanseriesthaisub.com##.margin-banner
 037hdd.com##.sidebar-right.widget_text > .custom-html-widget.textwidget
+nungnew-hd.com##.sp-no-webp.img-responsive
 seriesclubs.com##.twy-pubadban
 superseriesthai.com##a > img.img-fluid
 fanseriesthaisub.com##a > img.w-100
 nungnew-hd.com##a[href*=pegloang]
 037hdd.com,utaseries.com##a[rel*=nofollow] > img
 series-nanime.com##a[rel=nofollow] > img
-sine.tv##a[rel^=nofollow] > img
+nungnew-hd.com,sine.tv##a[rel^=nofollow] > img
 donung.me,doonung-hd.com,movie2free.com,movie2z.com,nanamovies.com,new-mastermovie.com##a[target="_blank"] > img
 movie2free.com##a[target="_blank"] > strong
 madooseries.com,movie2free.com##a[target="_new"] > img
