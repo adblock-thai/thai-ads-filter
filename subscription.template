@@ -6,6 +6,8 @@
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
 !
 !
+!-----------------------High Order filters-----------------------!
+%include filterlist:filters/high_order_filters.txt%
 !-----------------------General advert blocking filters-----------------------!
 %include filterlist:filters/thai_adservers.txt%
 %include filterlist:filters/thai_track.txt%
