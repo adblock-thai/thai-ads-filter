@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201907160706
+! Version: 201907160709
 ! Title: Thai Adblock List
-! Last modified: 16 Jul 2019 07:06 UTC
+! Last modified: 16 Jul 2019 07:09 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -248,6 +248,7 @@ popuplayer.com##+js(window.open-defuser.js)
 ||cache*.biasdo.com^$third-party
 ||cdn.digitaloceanspaces.com/dreamgame88.mp4$third-party
 ||cdn.foxwood168.com^$third-party
+||cdn.get4u.net^$media,third-party
 ||cdn.sagame66.com^$third-party
 ||cdn.sagame88cdn.com^$third-party
 ||ft99.b-cdn.net^$third-party
