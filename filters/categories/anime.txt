@@ -5,6 +5,7 @@ gg-anime.com###main > center
 opuree.com###modalads
 niceoppai.net###text-33
 gg-anime.com###top-section center
+anifume.com##+js(abort-on-property-write.js, a)
 box-manga.com,king-anime.com,mangasubthai.com##+js(addEventListener-defuser.js, mousedown, tabUnder)
 flix-anime.com##.active-mobile.kosana-container-m
 flix-anime.com,misa-anime.com##.img-kosana
