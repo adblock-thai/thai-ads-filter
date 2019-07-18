@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201907161426
+! Version: 201907180540
 ! Title: Thai Adblock List
-! Last modified: 16 Jul 2019 14:26 UTC
+! Last modified: 18 Jul 2019 05:40 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -250,6 +250,7 @@ popuplayer.com##+js(window.open-defuser.js)
 ##a[href*=macau-uta-popup]
 ||gqqdlckj8y.com$script,third-party
 ! *** filterlist:filters/thai_thirdparty.txt ***
+||7mscorethai.com^$media,redirect=noopmp4-1s,third-party
 ||adforbet.com^$third-party
 ||cache*.biasdo.com^$third-party
 ||cdn.digitaloceanspaces.com/dreamgame88.mp4$third-party
@@ -270,6 +271,7 @@ popuplayer.com##+js(window.open-defuser.js)
 ! *** filterlist:filters/thai_thirdparty_popup.txt ***
 aplayer.xyz,bplayer.xyz##.popupfancy
 ||blog-natta.com^$popup
+||ohoslot.com^$popup,third-party
 ||slotxo24hr.com^$popup,third-party
 ! -----------------------Catagorize blocking filters-----------------------!
 ! *** filterlist:filters/categories/anime.txt ***
