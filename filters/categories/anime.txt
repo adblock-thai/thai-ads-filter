@@ -14,6 +14,7 @@ anime-super.com##.movie-container.container div.text-center
 kingsmanga.net##.new-kingsmanga-section
 opuree.com##.show.fade.modal-backdrop
 godcat-manga.com##.text-center.m-t-20.row
+nico-anime.com##a > img.img-responsive
 gg-anime.com##a[href*=bet] > img
 zone-anime.net##a[rel*=nofollow] > img
 lnwanime.com##a[rel*=noopener] > img
