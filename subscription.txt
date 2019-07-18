@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201907180559
+! Version: 201907180601
 ! Title: Thai Adblock List
-! Last modified: 18 Jul 2019 05:59 UTC
+! Last modified: 18 Jul 2019 06:01 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -283,6 +283,7 @@ gg-anime.com###main > center
 opuree.com###modalads
 niceoppai.net###text-33
 gg-anime.com###top-section center
+anifume.com##+js(abort-on-property-write.js, a)
 box-manga.com,king-anime.com,mangasubthai.com##+js(addEventListener-defuser.js, mousedown, tabUnder)
 flix-anime.com##.active-mobile.kosana-container-m
 flix-anime.com,misa-anime.com##.img-kosana
@@ -292,9 +293,11 @@ kingsmanga.net##.new-kingsmanga-section
 opuree.com##.show.fade.modal-backdrop
 godcat-manga.com##.text-center.m-t-20.row
 gg-anime.com##a[href*=bet] > img
+zone-anime.net##a[rel*=nofollow] > img
 lnwanime.com##a[rel*=noopener] > img
 newb-anime.com##a[target*=blank][rel*=noopener] > img
 anime-sugoi.com,niceoppai.net##a[target="_blank"] > img
+zone-anime.net##a[target=_blank] > img
 anime-sugoi.com##center > br
 opuree.com##html:style(overflow: auto !important;)
 do-anime.com##img[alt=macau8889]
