@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201907180550
+! Version: 201907180552
 ! Title: Thai Adblock List
-! Last modified: 18 Jul 2019 05:50 UTC
+! Last modified: 18 Jul 2019 05:52 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -273,9 +273,11 @@ aplayer.xyz,bplayer.xyz##.popupfancy
 ||blog-natta.com^$popup
 ||ohoslot.com^$popup,third-party
 ||slotxo24hr.com^$popup,third-party
+||stygg.xyz^$popup,third-party
 ! -----------------------Catagorize blocking filters-----------------------!
 ! *** filterlist:filters/categories/anime.txt ***
 lnwmanga.com###divAdsBg
+xn--l3ckaa2bza6cca2a6b5c8evc0g.com###i_popup_box_x
 animeloli.com###link_h_movie_ad
 gg-anime.com###main > center
 opuree.com###modalads
