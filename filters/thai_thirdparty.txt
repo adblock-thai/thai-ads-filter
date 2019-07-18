@@ -1,3 +1,4 @@
+||7mscorethai.com^$media,redirect=noopmp4-1s,third-party
 ||adforbet.com^$third-party
 ||cache*.biasdo.com^$third-party
 ||cdn.digitaloceanspaces.com/dreamgame88.mp4$third-party
