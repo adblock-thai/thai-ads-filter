@@ -14,9 +14,11 @@ kingsmanga.net##.new-kingsmanga-section
 opuree.com##.show.fade.modal-backdrop
 godcat-manga.com##.text-center.m-t-20.row
 gg-anime.com##a[href*=bet] > img
+zone-anime.net##a[rel*=nofollow] > img
 lnwanime.com##a[rel*=noopener] > img
 newb-anime.com##a[target*=blank][rel*=noopener] > img
 anime-sugoi.com,niceoppai.net##a[target="_blank"] > img
+zone-anime.net##a[target=_blank] > img
 anime-sugoi.com##center > br
 opuree.com##html:style(overflow: auto !important;)
 do-anime.com##img[alt=macau8889]
