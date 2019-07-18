@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201907180610
+! Version: 201907180631
 ! Title: Thai Adblock List
-! Last modified: 18 Jul 2019 06:10 UTC
+! Last modified: 18 Jul 2019 06:31 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -9,10 +9,6 @@
 ! 
 ! -----------------------High Order filters-----------------------!
 ! *** filterlist:filters/high_order_filters.txt ***
-||cdn.foxwood168.com^$media,redirect=noopmp4-1s,third-party,domain=lnwplayer.com
-||cdn.sagame66.com^$media,redirect=noopmp4-1s,third-party,domain=lnwplayer.com
-||cdn.sagame88cdn.com^$media,redirect=noopmp4-1s,third-party,domain=lnwplayer.com
-||cdn.ufa191.com^$media,redirect=noopmp4-1s,third-party,domain=lnwplayer.com
 ! -----------------------General advert blocking filters-----------------------!
 ! *** filterlist:filters/thai_adservers.txt ***
 dooserieshd.com/ads/
@@ -254,19 +250,19 @@ popuplayer.com##+js(window.open-defuser.js)
 ||adforbet.com^$third-party
 ||cache*.biasdo.com^$third-party
 ||cdn.digitaloceanspaces.com/dreamgame88.mp4$third-party
-||cdn.foxwood168.com^$third-party
 ||cdn.get4u.net^$media,third-party
-||cdn.sagame66.com^$third-party
-||cdn.sagame88cdn.com^$third-party
+||foxwood168.com^$media,redirect=noopmp4-1s,third-party
 ||ft99.b-cdn.net^$third-party
 ||gclub4you.*.cdn.digitaloceanspaces.com^$third-party
 ||movies-x.com^$third-party
 ||publish.iptvz.net^$third-party
 ||sagame36.com^$third-party
-||scg511.com^$third-party
+||sagame66.com^$media,redirect=noopmp4-1s,third-party
+||sagame88cdn.com^$media,redirect=noopmp4-1s,third-party
+||scg511.com^$media,redirect=noopmp4-1s,third-party
 ||ssnn.site^$third-party
-||ufa191.com^$third-party
-||ufabet678.com^$third-party
+||ufa191.com^$media,redirect=noopmp4-1s,third-party
+||ufabet678.com^$media,redirect=noopmp4-1s,third-party
 ||www.goalclub.tv^$third-party
 ! *** filterlist:filters/thai_thirdparty_popup.txt ***
 aplayer.xyz,bplayer.xyz##.popupfancy
@@ -287,6 +283,7 @@ niceoppai.net###text-33
 gg-anime.com###top-section center
 anifume.com##+js(abort-on-property-write.js, a)
 box-manga.com,king-anime.com,mangasubthai.com##+js(addEventListener-defuser.js, mousedown, tabUnder)
+anime-live.com##+js(nano-setInterval-booster.js)
 flix-anime.com##.active-mobile.kosana-container-m
 flix-anime.com,misa-anime.com##.img-kosana
 airi-anime.com##.movie-container a[target="blank"] > img
@@ -296,12 +293,12 @@ opuree.com##.show.fade.modal-backdrop
 godcat-manga.com##.text-center.m-t-20.row
 nico-anime.com##a > img.img-responsive
 gg-anime.com##a[href*=bet] > img
-zone-anime.net##a[rel*=nofollow] > img
+anime-live.com,zone-anime.net##a[rel*=nofollow] > img
 lnwanime.com##a[rel*=noopener] > img
 newb-anime.com##a[target*=blank][rel*=noopener] > img
 anime-sugoi.com,niceoppai.net##a[target="_blank"] > img
 zone-anime.net##a[target=_blank] > img
-a-tsuki.net##a[target=_blank] > img.img-thumbnail
+a-tsuki.net,anime-live.com##a[target=_blank] > img.img-thumbnail
 anime-sugoi.com##center > br
 opuree.com##html:style(overflow: auto !important;)
 do-anime.com##img[alt=macau8889]
