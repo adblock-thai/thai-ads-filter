@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201907180644
+! Version: 201907180651
 ! Title: Thai Adblock List
-! Last modified: 18 Jul 2019 06:44 UTC
+! Last modified: 18 Jul 2019 06:51 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -318,7 +318,7 @@ nungnew-hd.com##+js(abort-on-property-write.js, atob)
 nungnew-hd.com##+js(addEventListener-defuser.js, mousedown)
 fanseries.co##+js(addEventListener-defuser.js, mousedown, tabUnder)
 series-d.com##+js(fuckadblock.js-3.2.0)
-nungsub.com##+js(nano-setInterval-booster.js)
+movie2free.com,nungsub.com##+js(nano-setInterval-booster.js)
 popuplayer.com##.adtt
 xn--82cf0aw7bf9jbc7a0nyb.com##.banner-header
 bugaboo.tv##.bp-survey-overlay
