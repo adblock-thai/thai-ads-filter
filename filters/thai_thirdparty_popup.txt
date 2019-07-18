@@ -2,3 +2,4 @@ aplayer.xyz,bplayer.xyz##.popupfancy
 ||blog-natta.com^$popup
 ||ohoslot.com^$popup,third-party
 ||slotxo24hr.com^$popup,third-party
+||stygg.xyz^$popup,third-party
