@@ -7,6 +7,7 @@
 ||foxwood168.com^$media,redirect=noopmp4-1s,third-party
 ||ft99.b-cdn.net^$third-party
 ||gclub4you.*.cdn.digitaloceanspaces.com^$third-party
+||get4u.net^$image,third-party
 ||goalclub.tv^$media,redirect=noopmp4-1s,third-party
 ||movies-x.com^$third-party
 ||publish.iptvz.net^$third-party
