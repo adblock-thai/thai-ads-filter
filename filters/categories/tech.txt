@@ -1,2 +1,3 @@
 windowssiam.com##.jinda-wrapper
+mxphone.com##.widget_mxphone_dtac_widget
 ||notebookspec.com/*/nbs_custom_ads.php$xmlhttprequest
