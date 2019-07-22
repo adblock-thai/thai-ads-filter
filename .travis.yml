@@ -12,7 +12,7 @@ env:
     secure: lUGBgPqyBV8tN7RU8dL+LLXH6YsF8N5xSxC61aJqHES8AK/PD2GhxowzkABR+OLLwQk1O8jf6Cp7q32I6rkKs+bpZfn4Ps8FECL5Cx+XhEPkstHJhH5hegZq9MwAfq4lMOZ+c0DsxNSG3WSNHq/7z6tNl+mq8a21eCWlzzWvMfRyM4WrZN37Cy+S2c0s5DN+q6T3ck3+SPOmR87vXorRUo7qYB0t0CWvCX2eqme24QardSDJJym8QjWt/vTyHJGwH/rEt5NG/JgTPKvTRSNwibwTGg3EsYYUV2sMUXhKaO/th9rRy7tc3xrzWQWrEkvbH0r+VkUztgU4Isj2FPxc+6p/v2jX8EAf49T/CXDq9i64lDw2C2BSUY0XrK2sUvkZtBomw4WTalOPXyxk8Ici3xawizzK7pwXvkAUmNgyjvRY+4998TE24LHXo7IU+JR07dB18MhfhRIZ8WE2aej3eRFER/yzh4HkKx0NuCugioSvTTl2zcv5ZPwfIDf2onhztwTrS2bEhpLaVxbgkUK0f15SnRMFJHjexbRtzoHXct6cgIMpv+KMYdAUkvctECvSFJJ2zWx6cN1b3czOFbZF7hn/9dxDRSgjVY2DeN0l9Gr49P6e17rqbeNdeDogZYfboZdN/c8eLN5twTKrc6WfJJD9fwKDOoWh878KAujvg3g=
 
 install:
-  - pip install git+https://github.com/adblockplus/python-abp
+  - pip install Jinja2
 before_script:
   - git config --global user.email "travis@travis-ci.org"
   - git config --global user.name "TravisCI"
@@ -20,6 +20,6 @@ before_script:
 
 script:
   - git clone -b gh-pages "https://$GITHUB_TOKEN@github.com/adblock-thai/thai-ads-filter" output
-  - flrender -i filterlist=. subscription.template output/subscription.txt
+  - python render.py
   - cd output && git add --all . && git commit -m "Publishing revision $(git --git-dir ../.git rev-parse --short HEAD)" && git push --force origin gh-pages
 
