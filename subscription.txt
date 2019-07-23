@@ -1,6 +1,6 @@
 ! Title: Thai Adblock List
-! Version: 201907231417
-! Last modified: 23 Jul 2019 14:17 UTC
+! Version: 201907231551
+! Last modified: 23 Jul 2019 15:51 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -298,6 +298,7 @@ do-anime.com##img[alt=macau8889]
 ||stream.marimo.me/marimo/video$third-party,domain=animeloli.com
 madooseries.com###\33
 madooseries.com###\34
+tvseriesclub.com###ads728x90top
 2youhdd.com,doo4k.com,movie8free.com,nungnew-hd.com###banner-left
 doo4k.com###banner-right
 series-d.com###bt-kosana
