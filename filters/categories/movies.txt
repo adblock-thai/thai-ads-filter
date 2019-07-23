@@ -47,5 +47,6 @@ movie2free.com##div[style*="position: fixed; bottom: 0px;"]
 doonung-hd.com/wp-content/play/video11.mp4
 seriesfreeonline.com##html:style(overflow: auto !important;)
 series-nanime.com/adsvideo^
+||cdn.watchlakorn.in/vod/$media,redirect=noopmp4-1s
 ||doofreeseries.com/vdo/
 ||ksubtv.net/wp-content/plugins/ultimate-popunder/$script
