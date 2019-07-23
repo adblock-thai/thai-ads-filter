@@ -1,6 +1,6 @@
 ! Title: Thai Adblock List
-! Version: 201907231554
-! Last modified: 23 Jul 2019 15:54 UTC
+! Version: 201907231608
+! Last modified: 23 Jul 2019 16:08 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -359,8 +359,11 @@ windowssiam.com##.jinda-wrapper
 mxphone.com##.widget_mxphone_dtac_widget
 ||notebookspec.com/*/nbs_custom_ads.php$xmlhttprequest
 imgtrue.com###image_image-viewer_foot
+pantip.com##.post-item a[href*="ads.pantip.com"]
+pantip.com##.post-item:has-text(PR News)
 imgtrue.com##a[target=_blank] > img.image-viewer-main
 imgtrue.com##cloudflare-app[app=flashcard]
+pantip.com##td > a[href*="ads.pantip.com"]
 ||isanook.com/*/ads$xmlhttprequest
 ||isanook.com/*/beacon$script
 ||kapook.com/*/track$script
