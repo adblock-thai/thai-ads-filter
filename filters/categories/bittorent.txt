@@ -2,4 +2,4 @@ zbbit.com##a[href*=advertise] > img
 zbbit.com##a[rel=nofollow] > img
 dedbit.com##a[target="_blank"] > img[src*=banner]
 dedbit.com##a[target="_blank"] > img[src*=colo]
-siambit.me##table.mainouter table tr:-abp-contains(Advertising)
+siambit.me##table.mainouter table tr:has-text(Advertising)
