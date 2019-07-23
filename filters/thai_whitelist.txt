@@ -3,5 +3,6 @@
 ! imgtrue not show picture
 imgtrue.com#@#.ad-banner
 ! sine.tv cant load video
+@@$generichide,domain=aplayer.xyz|bplayer.xyz
 @@||gplay.sine.tv/embed/
 @@||lnwplayer.com^$generichide
