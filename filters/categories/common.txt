@@ -1,6 +1,9 @@
 imgtrue.com###image_image-viewer_foot
+pantip.com##.post-item a[href*="ads.pantip.com"]
+pantip.com##.post-item:has-text(PR News)
 imgtrue.com##a[target=_blank] > img.image-viewer-main
 imgtrue.com##cloudflare-app[app=flashcard]
+pantip.com##td > a[href*="ads.pantip.com"]
 ||isanook.com/*/ads$xmlhttprequest
 ||isanook.com/*/beacon$script
 ||kapook.com/*/track$script
