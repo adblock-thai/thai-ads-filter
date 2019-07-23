@@ -1,6 +1,6 @@
 ! Title: Thai Adblock List
-! Version: 201907230834
-! Last modified: 23 Jul 2019 08:34 UTC
+! Version: 201907231417
+! Last modified: 23 Jul 2019 14:17 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -389,5 +389,6 @@ soccersuck.com##a[rel=nofollow][target=_blank] > img
 ! imgtrue not show picture
 imgtrue.com#@#.ad-banner
 ! sine.tv cant load video
+@@$generichide,domain=aplayer.xyz|bplayer.xyz
 @@||gplay.sine.tv/embed/
 @@||lnwplayer.com^$generichide
