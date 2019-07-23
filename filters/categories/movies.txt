@@ -26,6 +26,8 @@ movie2z.com##.mainbtn img
 fanseriesthaisub.com##.margin-banner
 037hdd.com##.sidebar-right.widget_text > .custom-html-widget.textwidget
 nungnew-hd.com##.sp-no-webp.img-responsive
+seriesclub-th.com##.td-a-rec-id-header_mob
+seriesclub-th.com##.td-header-rec-wrap
 seriesclubs.com##.twy-pubadban
 superseriesthai.com##a > img.img-fluid
 fanseriesthaisub.com##a > img.w-100
