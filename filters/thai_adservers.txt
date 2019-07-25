@@ -139,6 +139,7 @@ xxemb.com/adsn.php
 ||saxp.zedo.com
 ||scorecardresearch.com
 ||seriesfuture.co$third-party
+||seriespop.com/adsvideo/$media,redirect=noopmp4-1s
 ||serving-sys.com
 ||shinobi.jp
 ||simba-digital.com
