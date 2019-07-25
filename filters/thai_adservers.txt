@@ -97,6 +97,7 @@ xxemb.com/adsn.php
 ||moatads.com
 ||mtburn.com
 ||mtburn.jp
+||nanobricks.io$third-party
 ||newrelic.com
 ||nr-data.com
 ||nr-data.net
