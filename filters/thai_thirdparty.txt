@@ -4,6 +4,7 @@
 ||cache*.biasdo.com^$third-party
 ||cdn.digitaloceanspaces.com/dreamgame88.mp4$third-party
 ||cdn.get4u.net^$media,third-party
+||cdn.sexygame66.com^$media,redirect=noopmp4-1s,third-party
 ||foxwood168.com^$media,redirect=noopmp4-1s,third-party
 ||ft99.b-cdn.net^$third-party
 ||gclub4you.*.cdn.digitaloceanspaces.com^$third-party
