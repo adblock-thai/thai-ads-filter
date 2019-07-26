@@ -1,6 +1,6 @@
 ! Title: Thai Adblock List
-! Version: 201907261024
-! Last modified: 26 Jul 2019 10:24 UTC
+! Version: 201907261031
+! Last modified: 26 Jul 2019 10:31 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -334,7 +334,8 @@ superseriesthai.com##a > img.img-fluid
 fanseriesthaisub.com##a > img.w-100
 nungnew-hd.com##a[href*=pegloang]
 nungsub.com##a[rel*=nofollow] > div[class*=img]
-037hdd.com,nungsub.com,seriespop.com,utaseries.com##a[rel*=nofollow] > img
+037hdd.com,movie2freevip.com,nungsub.com,seriespop.com,utaseries.com##a[rel*=nofollow] > img
+movie2freevip.com##a[rel*=noreferrer] > img
 series-nanime.com##a[rel=nofollow] > img
 2youhdd.com,doo4k.com,movie2freeth.com,moviedoofee.com,newmovie-4k.com,nunglnw.com,nungnew-hd.com,sine.tv##a[rel^=nofollow] > img
 donung.me,doonung-hd.com,movie2free.com,movie2z.com,nanamovies.com,new-mastermovie.com##a[target="_blank"] > img
