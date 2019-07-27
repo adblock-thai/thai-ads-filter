@@ -14,6 +14,8 @@ anime-live.com##+js(nano-setInterval-booster.js)
 flix-anime.com##.active-mobile.kosana-container-m
 gg-anime.com##.entry-content > a > img
 flix-anime.com,misa-anime.com##.img-kosana
+merlin-anime.com##.merlin_ads
+merlin-anime.com##.merlin_banner
 airi-anime.com##.movie-container a[target="blank"] > img
 anime-super.com##.movie-container.container div.text-center
 kingsmanga.net##.new-kingsmanga-section
