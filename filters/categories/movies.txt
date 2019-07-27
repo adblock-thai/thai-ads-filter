@@ -12,7 +12,7 @@ nungnew-hd.com##+js(abort-on-property-read.js, atob)
 seriesfreeonline.com##+js(abort-on-property-write.js, adBlockDetected)
 nungnew-hd.com##+js(abort-on-property-write.js, atob)
 nungnew-hd.com##+js(addEventListener-defuser.js, mousedown)
-fanseries.co##+js(addEventListener-defuser.js, mousedown, tabUnder)
+fanseries.co,kseries.tv##+js(addEventListener-defuser.js, mousedown, tabUnder)
 series-d.com##+js(fuckadblock.js-3.2.0)
 baan-series.com,movie2free.com,nungsub.com##+js(nano-setInterval-booster.js)
 popuplayer.com##.adtt
@@ -52,4 +52,5 @@ seriesfreeonline.com##html:style(overflow: auto !important;)
 series-nanime.com/adsvideo^
 ||cdn.watchlakorn.in/vod/$media,redirect=noopmp4-1s
 ||doofreeseries.com/vdo/
+||kseries.tv/clip/LoadingCircleYouTube.mp4$media,redirect=noopmp4-1s
 ||ksubtv.net/wp-content/plugins/ultimate-popunder/$script
