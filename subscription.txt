@@ -1,6 +1,6 @@
 ! Title: Thai Adblock List
-! Version: 201907261036
-! Last modified: 26 Jul 2019 10:36 UTC
+! Version: 201907270930
+! Last modified: 27 Jul 2019 09:30 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -313,7 +313,7 @@ nungnew-hd.com##+js(abort-on-property-read.js, atob)
 seriesfreeonline.com##+js(abort-on-property-write.js, adBlockDetected)
 nungnew-hd.com##+js(abort-on-property-write.js, atob)
 nungnew-hd.com##+js(addEventListener-defuser.js, mousedown)
-fanseries.co##+js(addEventListener-defuser.js, mousedown, tabUnder)
+fanseries.co,kseries.tv##+js(addEventListener-defuser.js, mousedown, tabUnder)
 series-d.com##+js(fuckadblock.js-3.2.0)
 baan-series.com,movie2free.com,nungsub.com##+js(nano-setInterval-booster.js)
 popuplayer.com##.adtt
@@ -353,6 +353,7 @@ seriesfreeonline.com##html:style(overflow: auto !important;)
 series-nanime.com/adsvideo^
 ||cdn.watchlakorn.in/vod/$media,redirect=noopmp4-1s
 ||doofreeseries.com/vdo/
+||kseries.tv/clip/LoadingCircleYouTube.mp4$media,redirect=noopmp4-1s
 ||ksubtv.net/wp-content/plugins/ultimate-popunder/$script
 zbbit.com##a[href*=advertise] > img
 zbbit.com##a[rel=nofollow] > img
