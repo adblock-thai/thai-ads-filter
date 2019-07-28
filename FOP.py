@@ -20,10 +20,16 @@ VERSION = 3.9
 
 # Import the key modules
 import collections, filecmp, os, re, subprocess, sys
+import argparse
+
+ap = argparse.ArgumentParser()
+ap.add_argument('--dir', nargs='+', help='Set directories', default=None)
+ap.add_argument('--commit', help='Enable commit mode', action='store_true', default=False)
+arg = ap.parse_args()
 
 # Check the version of Python for language compatibility and subprocess.check_output()
 MAJORREQUIRED = 3
-MINORREQUIRED = 1
+MINORREQUIRED = 2
 if sys.version_info < (MAJORREQUIRED, MINORREQUIRED):
     raise RuntimeError("FOP requires Python {reqmajor}.{reqminor} or greater, but Python {ismajor}.{isminor} is being used to run this program.".format(reqmajor = MAJORREQUIRED, reqminor = MINORREQUIRED, ismajor = sys.version_info.major, isminor = sys.version_info.minor))
 
@@ -52,7 +58,7 @@ COMMITPATTERN = re.compile(r"^(A|M|P)\:\s(\((.+)\)\s)?(.*)$")
 
 # List the files that should not be sorted, either because they have a special sorting system or because they are not filter files
 IGNORE = ("CC-BY-SA.txt", "easytest.txt", "GPL.txt", "MPL.txt",
-          "enhancedstats-addon.txt", "fanboy-tracking", "firefox-regional", "other")
+          "enhancedstats-addon.txt", "fanboy-tracking", "firefox-regional", "other", "requirements.txt", "subscription.txt")
 
 # List all Adblock Plus options (excepting domain, which is handled separately), as of version 1.3.9
 KNOWNOPTIONS = ("collapse", "csp", "document", "elemhide",
@@ -80,7 +86,7 @@ def start ():
     print("=" * characters)
 
     # Convert the directory names to absolute references and visit each unique location
-    places = sys.argv[1:]
+    places = arg.dir
     if places:
         places = [os.path.abspath(place) for place in places]
         for place in sorted(set(places)):
@@ -145,7 +151,7 @@ def main (location):
                     pass
 
     # If in a repository, offer to commit any changes
-    if repository:
+    if repository and arg.commit:
         commit(repository, basecommand, originaldifference)
 
 def fopsort (filename):
