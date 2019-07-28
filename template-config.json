@@ -1,6 +1,8 @@
 [{
         "filter_name": "high_order_filters",
-        "files": ["filters/high_order_filters.txt"]
+        "files": [
+            "filters/high_order_filters.txt"
+        ]
     },
     {
         "filter_name": "general_adverts",
@@ -30,6 +32,8 @@
     },
     {
         "filter_name": "whitelists",
-        "files": ["filters/thai_whitelist.txt"]
+        "files": [
+            "filters/thai_whitelist.txt"
+        ]
     }
 ]
