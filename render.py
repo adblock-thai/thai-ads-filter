@@ -25,5 +25,7 @@ map_template['version'] = strftime('%Y%m%d%H%M', gmtime())
 map_template['timestamp'] = strftime('%d %b %Y %H:%M UTC', gmtime())
 filers = template.render(map_template)
 
+os.makedirs("output", exist_ok=True)
+
 with open('output/subscription.txt', 'w', encoding='utf-8') as file:
     file.write(filers)
