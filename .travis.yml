@@ -21,5 +21,7 @@ before_script:
 script:
   - git clone -b gh-pages "https://$GITHUB_TOKEN@github.com/adblock-thai/thai-ads-filter" output
   - python render.py
-  - cd output && git add --all . && git commit -m "Publishing revision $(git --git-dir ../.git rev-parse --short HEAD)" && git push --force origin gh-pages
+  - cd output && git add --all .
+  - git commit -m "Publishing revision $(git --git-dir ../.git rev-parse --short HEAD)"
+  - git push --force origin gh-pages
 
