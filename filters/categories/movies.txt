@@ -53,5 +53,6 @@ seriesfreeonline.com##html:style(overflow: auto !important;)
 series-nanime.com/adsvideo^
 ||cdn.watchlakorn.in/vod/$media,redirect=noopmp4-1s
 ||doofreeseries.com/vdo/
+||i.imgur.com^$media,redirect=noopmp4-1s,third-party,domain=nungsub.com
 ||kseries.tv/clip/LoadingCircleYouTube.mp4$media,redirect=noopmp4-1s
 ||ksubtv.net/wp-content/plugins/ultimate-popunder/$script
