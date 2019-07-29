@@ -1,31 +1,27 @@
 # -*- coding: utf-8 -*-
 import jinja2
 import os
-import json
 from time import gmtime, strftime
 
-jinja = jinja2.Environment(
-    loader=jinja2.FileSystemLoader(searchpath='.'),
-    trim_blocks=True,
-    lstrip_blocks=True)
-template = jinja.get_template('subscription-template.j2')
-map_template = {}
+output_dir = "output"
 
-with open('template-config.json', encoding='utf-8') as f:
-    list_config = json.load(f)
+@jinja2.contextfunction
+def include_file(ctx, name):
+    env = ctx.environment
+    return jinja2.Markup(env.loader.get_source(env, name)[0])
 
-for item in list_config:
-    map_template[item['filter_name']] = []
-    for file in item['files']:
-        with open(file, encoding='utf-8') as f:
-            for value in [line[:-1] for line in f]:
-                map_template[item['filter_name']].append(value)
 
-map_template['version'] = strftime('%Y%m%d%H%M', gmtime())
-map_template['timestamp'] = strftime('%d %b %Y %H:%M UTC', gmtime())
-filers = template.render(map_template)
+def main():
+    loader = jinja2.FileSystemLoader(searchpath='.')
+    env = jinja2.Environment(loader=loader)
+    env.globals['include_file'] = include_file
+    env.globals['version'] = strftime('%Y%m%d%H%M', gmtime())
+    env.globals['timestamp'] = strftime('%d %b %Y %H:%M UTC', gmtime())
+    filers = env.get_template('template.j2').render()
+    os.makedirs(output_dir, exist_ok=True)
+    with open('output/subscription.txt', 'w', encoding='utf-8') as file:
+        file.write(filers)
 
-os.makedirs("output", exist_ok=True)
 
-with open('output/subscription.txt', 'w', encoding='utf-8') as file:
-    file.write(filers)
+if __name__ == '__main__':
+    main()
