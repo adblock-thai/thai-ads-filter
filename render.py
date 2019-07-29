@@ -19,7 +19,7 @@ def main():
     env.globals['timestamp'] = strftime('%d %b %Y %H:%M UTC', gmtime())
     filers = env.get_template('template.j2').render()
     os.makedirs(output_dir, exist_ok=True)
-    with open('output/subscription.txt', 'w', encoding='utf-8') as file:
+    with open(os.path.join(output_dir, 'subscription.txt'), 'w', encoding='utf-8') as file:
         file.write(filers)
 
 
