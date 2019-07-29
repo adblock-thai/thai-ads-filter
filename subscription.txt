@@ -1,11 +1,15 @@
 ! Title: Thai Adblock List
-! Version: 201907290631
-! Last modified: 29 Jul 2019 06:31 UTC
-! Expires: 1 days
+! Version: 201907291551
+! Last modified: 29 Jul 2019 15:51 UTC
+! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
-!-----------------------High Order filters-----------------------!
-!-----------------------General advert blocking filters-----------------------!
+! Reporting Issues: https://github.com/adblock-thai/thai-ads-filter/issues
+! Reporting Issues: https://line.me/ti/g2/AAUOP0DACB
+! Download: https://adblock-thai.github.io/thai-ads-filter/subscription.txt
+!
+!-------------- General filters --------------
+!-------------- adservers --------------
 dooserieshd.com/ads/
 xxemb.com/adsn.php
 ||*-adnow.com$third-party
@@ -184,11 +188,11 @@ xxemb.com/adsn.php
 ||yengo.com$third-party
 ||yu0123456.com
 ||zemanta.com
-||cdn.pushcrew.com/js/$third-party
-||histat.com
-||stat.in.th^
-||truehits.net^
-||trustmarkthai.com/callbackData/$third-party
+!-------------- general_block_popup --------------
+popuplayer.com##+js(window.open-defuser.js)
+##a[href*=macau-uta-popup]
+||gqqdlckj8y.com$script,third-party
+!-------------- general_hide --------------
 ###ads
 ###ads-google-middle_rectangle-group
 ###ads-overlay
@@ -238,9 +242,13 @@ xxemb.com/adsn.php
 ##a[href*="bx.in.th/ref/"] > img
 ##a[href="http://mobilesitexxx.com/reufa678.html"] > img
 ##div[id^=div-gpt-ad-]
-popuplayer.com##+js(window.open-defuser.js)
-##a[href*=macau-uta-popup]
-||gqqdlckj8y.com$script,third-party
+!-------------- thirdparty_popup --------------
+aplayer.xyz,bplayer.xyz##.popupfancy
+||blog-natta.com^$popup
+||ohoslot.com^$popup,third-party
+||slotxo24hr.com^$popup,third-party
+||stygg.xyz^$popup,third-party
+!-------------- thirdparty --------------
 ||7mscorethai.com^$media,redirect=noopmp4-1s,third-party
 ||adforbet.com^$third-party
 ||bannung.com^$media,redirect=noopmp4-1s,third-party
@@ -262,12 +270,20 @@ popuplayer.com##+js(window.open-defuser.js)
 ||ssnn.site^$third-party
 ||ufa191.com^$media,redirect=noopmp4-1s,third-party
 ||ufabet678.com^$media,redirect=noopmp4-1s,third-party
-aplayer.xyz,bplayer.xyz##.popupfancy
-||blog-natta.com^$popup
-||ohoslot.com^$popup,third-party
-||slotxo24hr.com^$popup,third-party
-||stygg.xyz^$popup,third-party
-!-----------------------Catagorize blocking filters-----------------------!
+!-------------- track --------------
+||cdn.pushcrew.com/js/$third-party
+||histat.com
+||stat.in.th^
+||truehits.net^
+||trustmarkthai.com/callbackData/$third-party
+!-------------- Category filters -------------
+!-------------- adult --------------
+taradxxx.com###getFixed
+taradxxx.com###getFixedx
+taradxxx.com##.gosad
+cherry-porn.com##.textwidget
+xxxpostpic.org##a[rel^=nofollow] > img
+!-------------- anime --------------
 lnwmanga.com###divAdsBg
 xn--l3ckaa2bza6cca2a6b5c8evc0g.com###i_popup_box_x
 animeloli.com###link_h_movie_ad
@@ -306,6 +322,28 @@ do-anime.com##img[alt=macau8889]
 ||flix-anime.com/vast/$media,redirect=noopmp4-1s
 ||opuree.com/*/detector$script
 ||stream.marimo.me/marimo/video$third-party,domain=animeloli.com
+!-------------- bittorent --------------
+zbbit.com##a[href*=advertise] > img
+zbbit.com##a[rel=nofollow] > img
+dedbit.com##a[target="_blank"] > img[src*=banner]
+dedbit.com##a[target="_blank"] > img[src*=colo]
+siambit.me##table.mainouter table tr:has-text(Advertising)
+!-------------- common --------------
+imgtrue.com###image_image-viewer_foot
+pantip.com##.post-item a[href*="ads.pantip.com"]
+pantip.com##.post-item:has-text(PR News)
+imgtrue.com##a[target=_blank] > img.image-viewer-main
+imgtrue.com##cloudflare-app[app=flashcard]
+pantip.com##td > a[href*="ads.pantip.com"]
+||isanook.com/*/ads$xmlhttprequest
+||isanook.com/*/beacon$script
+||kapook.com/*/track$script
+||kapook.com/ads/$script
+!-------------- game --------------
+gamemonday.com##a[rel^=nofollow][target=_blank] > img
+||ads.gamemonday.com
+||compgamer.com/mainpage/module/*/popup$script
+!-------------- movies --------------
 madooseries.com###\33
 madooseries.com###\34
 tvseriesclub.com###ads728x90top
@@ -365,32 +403,7 @@ series-nanime.com/adsvideo^
 ||i.imgur.com^$media,redirect=noopmp4-1s,third-party,domain=nungsub.com
 ||kseries.tv/clip/LoadingCircleYouTube.mp4$media,redirect=noopmp4-1s
 ||ksubtv.net/wp-content/plugins/ultimate-popunder/$script
-zbbit.com##a[href*=advertise] > img
-zbbit.com##a[rel=nofollow] > img
-dedbit.com##a[target="_blank"] > img[src*=banner]
-dedbit.com##a[target="_blank"] > img[src*=colo]
-siambit.me##table.mainouter table tr:has-text(Advertising)
-gamemonday.com##a[rel^=nofollow][target=_blank] > img
-||ads.gamemonday.com
-||compgamer.com/mainpage/module/*/popup$script
-windowssiam.com##.jinda-wrapper
-mxphone.com##.widget_mxphone_dtac_widget
-||notebookspec.com/*/nbs_custom_ads.php$xmlhttprequest
-imgtrue.com###image_image-viewer_foot
-pantip.com##.post-item a[href*="ads.pantip.com"]
-pantip.com##.post-item:has-text(PR News)
-imgtrue.com##a[target=_blank] > img.image-viewer-main
-imgtrue.com##cloudflare-app[app=flashcard]
-pantip.com##td > a[href*="ads.pantip.com"]
-||isanook.com/*/ads$xmlhttprequest
-||isanook.com/*/beacon$script
-||kapook.com/*/track$script
-||kapook.com/ads/$script
-||akamaihd.net/shopee/*/*TrackingRules$script,domain=shopee.co.th
-||akamaihd.net/shopee/*/TrackingRules$script,domain=shopee.co.th
-||shopee.co.th/__t__$xmlhttprequest
-||shopee.co.th/userstats_record$xmlhttprequest
-||shopeemobile.com/th/tr$xmlhttprequest
+!-------------- news --------------
 thethaiger.com###pop-overlay
 siamblockchain.com##+js(abort-on-property-write.js, adBlockDetected)
 thairath.co.th##.show.modal
@@ -400,14 +413,20 @@ siamblockchain.com##article.ads
 thairath.co.th##html:style(overflow: auto !important;)
 khaophuket.com/*/banner/
 khaosod.co.th/wp-content/uploads/2017/02/gpsiam.gif
-taradxxx.com###getFixed
-taradxxx.com###getFixedx
-taradxxx.com##.gosad
-cherry-porn.com##.textwidget
-xxxpostpic.org##a[rel^=nofollow] > img
+!-------------- shop --------------
+||akamaihd.net/shopee/*/*TrackingRules$script,domain=shopee.co.th
+||akamaihd.net/shopee/*/TrackingRules$script,domain=shopee.co.th
+||shopee.co.th/__t__$xmlhttprequest
+||shopee.co.th/userstats_record$xmlhttprequest
+||shopeemobile.com/th/tr$xmlhttprequest
+!-------------- sport --------------
 soccersuck.com###ssCoverBG
 soccersuck.com##a[rel=nofollow][target=_blank] > img
-!-----------------------Whitelists to fix broken sites------------------------!
+!-------------- tech --------------
+windowssiam.com##.jinda-wrapper
+mxphone.com##.widget_mxphone_dtac_widget
+||notebookspec.com/*/nbs_custom_ads.php$xmlhttprequest
+!-------------- Whitelist --------------------
 ! viu cant play without it
 @@||viu.com/ott/*/tracking/
 ! imgtrue not show picture
