@@ -7,12 +7,12 @@
     {
         "filter_name": "general_adverts",
         "files": [
-            "filters/thai_adservers.txt",
-            "filters/thai_track.txt",
-            "filters/thai_general_hide.txt",
-            "filters/thai_general_block_popup.txt",
-            "filters/thai_thirdparty.txt",
-            "filters/thai_thirdparty_popup.txt"
+            "filters/adservers.txt",
+            "filters/track.txt",
+            "filters/general_hide.txt",
+            "filters/general_block_popup.txt",
+            "filters/thirdparty.txt",
+            "filters/thirdparty_popup.txt"
         ]
     },
     {
@@ -33,7 +33,7 @@
     {
         "filter_name": "whitelists",
         "files": [
-            "filters/thai_whitelist.txt"
+            "filters/whitelist.txt"
         ]
     }
 ]
