@@ -1,6 +1,6 @@
 ! Title: Thai Adblock List
-! Version: 201907281442
-! Last modified: 28 Jul 2019 14:42 UTC
+! Version: 201907290620
+! Last modified: 29 Jul 2019 06:20 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -315,7 +315,7 @@ series-d.com###bt-kosana
 seriesfreeonline.com###fuck-adb-enabled
 seriesfreeonline.com###kosana_click
 movie8free.com###slid02
-xn--72czp7a9bc4b9c4e6b.com##+js(abort-current-inline-script.js, $, playervideo, hide)
+veecinema.com,xn--72czp7a9bc4b9c4e6b.com##+js(abort-current-inline-script.js, $, playervideo, hide)
 nungnew-hd.com##+js(abort-on-property-read.js, atob)
 seriesfreeonline.com##+js(abort-on-property-write.js, adBlockDetected)
 nungnew-hd.com##+js(abort-on-property-write.js, atob)
