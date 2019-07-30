@@ -1,6 +1,6 @@
 ! Title: Thai Adblock List
-! Version: 201907291606
-! Last modified: 29 Jul 2019 16:06 UTC
+! Version: 201907300135
+! Last modified: 30 Jul 2019 01:35 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -253,7 +253,7 @@ aplayer.xyz,bplayer.xyz##.popupfancy
 ||adforbet.com^$third-party
 ||bannung.com^$media,redirect=noopmp4-1s,third-party
 ||cache*.biasdo.com^$third-party
-||cdn.digitaloceanspaces.com/dreamgame88.mp4$third-party
+||cdn.digitaloceanspaces.com/dreamgame88.mp4$media,redirect=noopmp4-1s,third-party
 ||cdn.get4u.net^$media,third-party
 ||cdn.sexygame66.com^$media,redirect=noopmp4-1s,third-party
 ||foxwood168.com^$media,redirect=noopmp4-1s,third-party
