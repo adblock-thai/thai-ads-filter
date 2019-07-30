@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201907300812
-! Last modified: 30 Jul 2019 08:12 UTC
+! Version: 201907301502
+! Last modified: 30 Jul 2019 15:02 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -73,6 +73,7 @@ xxemb.com/adsn.php
 ||cxense.com
 ||d-stats.com
 ||delivery.adnuntius.com$third-party
+||dentsu360th.com$third-party
 ||dtscout.com
 ||edgesuite.net
 ||effectivemeasure.net
@@ -426,6 +427,7 @@ soccersuck.com##a[rel=nofollow][target=_blank] > img
 !-------------- tech --------------
 windowssiam.com##.jinda-wrapper
 mxphone.com##.widget_mxphone_dtac_widget
+gggcomputer.com##img[src*="banner"]
 ||notebookspec.com/*/nbs_custom_ads.php$xmlhttprequest
 !-------------- Whitelist --------------------
 ! viu cant play without it
