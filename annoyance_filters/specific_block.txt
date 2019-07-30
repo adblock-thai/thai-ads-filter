@@ -1,0 +1,1 @@
+||richinfo.co/js/$script,third-party
