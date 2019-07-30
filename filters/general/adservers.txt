@@ -60,6 +60,7 @@ xxemb.com/adsn.php
 ||cxense.com
 ||d-stats.com
 ||delivery.adnuntius.com$third-party
+||dentsu360th.com$third-party
 ||dtscout.com
 ||edgesuite.net
 ||effectivemeasure.net
