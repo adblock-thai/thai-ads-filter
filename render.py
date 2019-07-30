@@ -12,14 +12,20 @@ def include_file(ctx, name):
 
 
 def main():
+    os.makedirs(output_dir, exist_ok=True)
+
     loader = jinja2.FileSystemLoader(searchpath='.')
     env = jinja2.Environment(loader=loader)
     env.globals['include_file'] = include_file
     env.globals['version'] = strftime('%Y%m%d%H%M', gmtime())
     env.globals['timestamp'] = strftime('%d %b %Y %H:%M UTC', gmtime())
+
     filers = env.get_template('template.j2').render()
-    os.makedirs(output_dir, exist_ok=True)
     with open(os.path.join(output_dir, 'subscription.txt'), 'w', encoding='utf-8') as file:
+        file.write(filers)
+
+    filers = env.get_template('template_annoyance.j2').render()
+    with open(os.path.join(output_dir, 'annoyance.txt'), 'w', encoding='utf-8') as file:
         file.write(filers)
 
 
