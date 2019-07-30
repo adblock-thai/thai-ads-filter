@@ -2,7 +2,7 @@
 ||adforbet.com^$third-party
 ||bannung.com^$media,redirect=noopmp4-1s,third-party
 ||cache*.biasdo.com^$third-party
-||cdn.digitaloceanspaces.com/dreamgame88.mp4$third-party
+||cdn.digitaloceanspaces.com/dreamgame88.mp4$media,redirect=noopmp4-1s,third-party
 ||cdn.get4u.net^$media,third-party
 ||cdn.sexygame66.com^$media,redirect=noopmp4-1s,third-party
 ||foxwood168.com^$media,redirect=noopmp4-1s,third-party
