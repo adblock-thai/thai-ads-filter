@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201907300434
-! Last modified: 30 Jul 2019 04:34 UTC
+! Version: 201907300436
+! Last modified: 30 Jul 2019 04:36 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -192,7 +192,6 @@ xxemb.com/adsn.php
 !-------------- general_block_popup --------------
 popuplayer.com##+js(window.open-defuser.js)
 ##a[href*=macau-uta-popup]
-||gqqdlckj8y.com$script,third-party
 !-------------- general_hide --------------
 ###ads
 ###ads-google-middle_rectangle-group
@@ -246,6 +245,7 @@ popuplayer.com##+js(window.open-defuser.js)
 !-------------- thirdparty_popup --------------
 aplayer.xyz,bplayer.xyz##.popupfancy
 ||blog-natta.com^$popup
+||gqqdlckj8y.com$script,third-party
 ||ohoslot.com^$popup,third-party
 ||slotxo24hr.com^$popup,third-party
 ||stygg.xyz^$popup,third-party
