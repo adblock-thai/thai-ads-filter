@@ -1,5 +1,6 @@
 aplayer.xyz,bplayer.xyz##.popupfancy
 ||blog-natta.com^$popup
+||gqqdlckj8y.com$script,third-party
 ||ohoslot.com^$popup,third-party
 ||slotxo24hr.com^$popup,third-party
 ||stygg.xyz^$popup,third-party
