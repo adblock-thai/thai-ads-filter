@@ -1,4 +1,5 @@
 windowssiam.com##.jinda-wrapper
 mxphone.com##.widget_mxphone_dtac_widget
 gggcomputer.com##img[src*="banner"]
+||gggcomputer.com/pictures/banner/$image
 ||notebookspec.com/*/nbs_custom_ads.php$xmlhttprequest
