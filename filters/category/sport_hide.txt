@@ -1,2 +1,5 @@
 soccersuck.com###ssCoverBG
+baanpolballs.com##.ads_forum
+baanpolballs.com##.banner-wp
+baanpolballs.com##a[rel*=nofollow] > img
 soccersuck.com##a[rel=nofollow][target=_blank] > img
