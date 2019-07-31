@@ -2,5 +2,5 @@ soccersuck.com###ssCoverBG
 baanpolballs.com##.ads_forum
 baanpolballs.com##.banner-wp
 baanpolballs.com##a[rel*=nofollow] > img
-goal.in.th## table > tbody > tr > td > a[target=_blank] > img[src*=gif]
+goal.in.th,gool.in.th## table > tbody > tr > td > a[target=_blank] > img[src*=gif]
 soccersuck.com##a[rel=nofollow][target=_blank] > img
