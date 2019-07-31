@@ -25,9 +25,12 @@ def render(tpl_path, context):
     loader = jinja2.ChoiceLoader([
         jinja2.FileSystemLoader([template_dir, '.']),
     ])
-    return jinja2.Environment(
+    env = jinja2.Environment(
         loader=loader
-    ).get_template(filename).render(context)
+    ).get_template(filename)
+    env.globals['version'] = strftime('%Y%m%d%H%M', gmtime())
+    env.globals['timestamp'] = strftime('%d %b %Y %H:%M UTC', gmtime())
+    return env.render(context)
 
 
 def write_file(rendered, path):
