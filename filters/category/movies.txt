@@ -1,7 +1,7 @@
 madooseries.com###\33
 madooseries.com###\34
 tvseriesclub.com###ads728x90top
-2youhd.net,2youhdd.com,doo4k.com,movie8free.com,nungnew-hd.com###banner-left
+2youhd.net,2youhdd.com,doo4k.com,nungnew-hd.com###banner-left
 doo4k.com###banner-right
 nungsub.com###bsa-block-728--90
 series-d.com###bt-kosana
@@ -45,14 +45,14 @@ series-nanime.com##a[rel=nofollow] > img
 donung.me,doonung-hd.com,movie2z.com,nanamovies.com##a[target="_blank"] > img
 madooseries.com##a[target="_new"] > img
 madooseries.com##a[target="blank"] > img
-movie8free.com,moviedoofee.com,movierj.com,nunglnw.com,series24hr.com##a[target=_blank] > img
+moviedoofee.com,movierj.com,nunglnw.com,series24hr.com##a[target=_blank] > img
 037-hd.com,xn--72czp7a9bc4b9c4e6b.com##a[target=_blank] > img.img-responsive
 doofreeseries.com##a[target=_blank] > img.size-full
 doonung-hd.com/wp-content/play/video11.mp4
 seriesfreeonline.com##html:style(overflow: auto !important;)
 037-hd.com##img.img-responsive[src*="banner"]
 series-nanime.com/adsvideo^
-||*.gif$image,domain=037hdd.com|baan-series.com|movie1free.com|movie2free.com|movie2thai.com|new-mastermovie.com
+||*.gif$image,domain=037hdd.com|baan-series.com|movie1free.com|movie2free.com|movie2thai.com|movie8free.com|new-mastermovie.com
 ||*.webp$image,domain=new-mastermovie.com
 ||cdn.watchlakorn.in/vod/$media,redirect=noopmp4-1s
 ||doofreeseries.com/vdo/
