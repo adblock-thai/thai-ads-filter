@@ -1,0 +1,9 @@
+||*.gif$image,domain=037hdd.com|2youhd.net|baan-series.com|movie1free.com|movie2free.com|movie2thai.com|movie8free.com|new-mastermovie.com
+||*.webp$image,domain=new-mastermovie.com
+||cdn.watchlakorn.in/vod/$media,redirect=noopmp4-1s
+||doofreeseries.com/vdo/
+||doonung-hd.com/wp-content/play/video11.mp4
+||i.imgur.com^$media,redirect=noopmp4-1s,third-party,domain=nungsub.com
+||kseries.tv/clip/LoadingCircleYouTube.mp4$media,redirect=noopmp4-1s
+||ksubtv.net/wp-content/plugins/ultimate-popunder/$script
+||series-nanime.com/adsvideo^

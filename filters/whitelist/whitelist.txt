@@ -1,9 +1,0 @@
-! viu cant play without it
-@@||viu.com/ott/*/tracking/
-! imgtrue not show picture
-imgtrue.com#@#.ad-banner
-! sine.tv cant load video
-@@$generichide,domain=aplayer.xyz|bplayer.xyz
-@@||gplay.sine.tv/embed/
-@@||lnwplayer.com^$generichide
-@@||movie2free.com/wp-content/themes/next/images/nav-bullet.gif

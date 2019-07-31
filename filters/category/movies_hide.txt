@@ -48,14 +48,5 @@ madooseries.com##a[target="blank"] > img
 moviedoofee.com,movierj.com,nunglnw.com,series24hr.com##a[target=_blank] > img
 037-hd.com,xn--72czp7a9bc4b9c4e6b.com##a[target=_blank] > img.img-responsive
 doofreeseries.com##a[target=_blank] > img.size-full
-doonung-hd.com/wp-content/play/video11.mp4
 seriesfreeonline.com##html:style(overflow: auto !important;)
 037-hd.com##img.img-responsive[src*="banner"]
-series-nanime.com/adsvideo^
-||*.gif$image,domain=037hdd.com|2youhd.net|baan-series.com|movie1free.com|movie2free.com|movie2thai.com|movie8free.com|new-mastermovie.com
-||*.webp$image,domain=new-mastermovie.com
-||cdn.watchlakorn.in/vod/$media,redirect=noopmp4-1s
-||doofreeseries.com/vdo/
-||i.imgur.com^$media,redirect=noopmp4-1s,third-party,domain=nungsub.com
-||kseries.tv/clip/LoadingCircleYouTube.mp4$media,redirect=noopmp4-1s
-||ksubtv.net/wp-content/plugins/ultimate-popunder/$script

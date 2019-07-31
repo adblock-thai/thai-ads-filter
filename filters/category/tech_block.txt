@@ -1,0 +1,2 @@
+||gggcomputer.com/pictures/banner/$image
+||notebookspec.com/*/nbs_custom_ads.php$xmlhttprequest

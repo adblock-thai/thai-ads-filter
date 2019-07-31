@@ -1,4 +1,3 @@
-aplayer.xyz,bplayer.xyz##.popupfancy
 ||blog-natta.com^$popup
 ||gqqdlckj8y.com$script,third-party
 ||ohoslot.com^$popup,third-party

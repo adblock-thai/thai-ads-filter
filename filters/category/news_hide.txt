@@ -5,5 +5,3 @@ thairath.co.th##.show.modal-backdrop
 khaophuket.com##a[href^=banner_stat]
 siamblockchain.com##article.ads
 thairath.co.th##html:style(overflow: auto !important;)
-khaophuket.com/*/banner/
-khaosod.co.th/wp-content/uploads/2017/02/gpsiam.gif
