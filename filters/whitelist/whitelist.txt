@@ -6,3 +6,4 @@ imgtrue.com#@#.ad-banner
 @@$generichide,domain=aplayer.xyz|bplayer.xyz
 @@||gplay.sine.tv/embed/
 @@||lnwplayer.com^$generichide
+@@||movie2free.com/wp-content/themes/next/images/nav-bullet.gif
