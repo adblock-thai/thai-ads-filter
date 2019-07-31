@@ -1,7 +1,7 @@
 madooseries.com###\33
 madooseries.com###\34
 tvseriesclub.com###ads728x90top
-2youhdd.com,2youhd.net,doo4k.com,movie8free.com,nungnew-hd.com###banner-left
+2youhd.net,2youhdd.com,doo4k.com,movie8free.com,nungnew-hd.com###banner-left
 doo4k.com###banner-right
 nungsub.com###bsa-block-728--90
 series-d.com###bt-kosana
@@ -39,7 +39,7 @@ nungsub.com##a[rel*=nofollow] > div[class*=img]
 movie2freevip.com##a[rel*=noreferrer] > img
 nungsub.com##a[rel=bookmark] > img[alt*=banner]
 series-nanime.com##a[rel=nofollow] > img
-2youhdd.com,2youhd.net,doo4k.com,movie2freeth.com,moviedoofee.com,newmovie-4k.com,nunglnw.com,nungnew-hd.com,sine.tv##a[rel^=nofollow] > img
+2youhd.net,2youhdd.com,doo4k.com,movie2freeth.com,moviedoofee.com,newmovie-4k.com,nunglnw.com,nungnew-hd.com,sine.tv##a[rel^=nofollow] > img
 donung.me,doonung-hd.com,movie2free.com,movie2z.com,nanamovies.com,new-mastermovie.com##a[target="_blank"] > img
 movie2free.com##a[target="_blank"] > strong
 madooseries.com,movie2free.com##a[target="_new"] > img
