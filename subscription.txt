@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201907310325
-! Last modified: 31 Jul 2019 03:25 UTC
+! Version: 201907310413
+! Last modified: 31 Jul 2019 04:13 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -349,7 +349,7 @@ gamemonday.com##a[rel^=nofollow][target=_blank] > img
 madooseries.com###\33
 madooseries.com###\34
 tvseriesclub.com###ads728x90top
-2youhd.net,2youhdd.com,doo4k.com,movie8free.com,nungnew-hd.com###banner-left
+2youhd.net,2youhdd.com,doo4k.com,nungnew-hd.com###banner-left
 doo4k.com###banner-right
 nungsub.com###bsa-block-728--90
 series-d.com###bt-kosana
@@ -393,14 +393,14 @@ series-nanime.com##a[rel=nofollow] > img
 donung.me,doonung-hd.com,movie2z.com,nanamovies.com##a[target="_blank"] > img
 madooseries.com##a[target="_new"] > img
 madooseries.com##a[target="blank"] > img
-movie2thai.com,movie8free.com,moviedoofee.com,movierj.com,nunglnw.com,series24hr.com##a[target=_blank] > img
+moviedoofee.com,movierj.com,nunglnw.com,series24hr.com##a[target=_blank] > img
 037-hd.com,xn--72czp7a9bc4b9c4e6b.com##a[target=_blank] > img.img-responsive
 doofreeseries.com##a[target=_blank] > img.size-full
 doonung-hd.com/wp-content/play/video11.mp4
 seriesfreeonline.com##html:style(overflow: auto !important;)
 037-hd.com##img.img-responsive[src*="banner"]
 series-nanime.com/adsvideo^
-||*.gif$image,domain=037hdd.com|baan-series.com|movie1free.com|movie2free.com|new-mastermovie.com
+||*.gif$image,domain=037hdd.com|2youhd.net|baan-series.com|movie1free.com|movie2free.com|movie2thai.com|movie8free.com|new-mastermovie.com
 ||*.webp$image,domain=new-mastermovie.com
 ||cdn.watchlakorn.in/vod/$media,redirect=noopmp4-1s
 ||doofreeseries.com/vdo/
@@ -430,6 +430,7 @@ soccersuck.com##a[rel=nofollow][target=_blank] > img
 windowssiam.com##.jinda-wrapper
 mxphone.com##.widget_mxphone_dtac_widget
 gggcomputer.com##img[src*="banner"]
+||gggcomputer.com/pictures/banner/$image
 ||notebookspec.com/*/nbs_custom_ads.php$xmlhttprequest
 !-------------- Whitelist --------------------
 ! viu cant play without it
