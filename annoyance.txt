@@ -1,23 +1,30 @@
 ! Title: Thai Adblock Annoyances
 ! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups.
-! Version: 201907310828
-! Last modified: 31 Jul 2019 08:28 UTC
+! Version: 
+! Last modified: 
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
 ! Reporting Issues: https://github.com/adblock-thai/thai-ads-filter/issues
 ! Reporting Issues: https://line.me/ti/g2/AAUOP0DACB
-! Download: https://adblock-thai.github.io/thai-ads-filter/subscription.txt
+! Download: https://adblock-thai.github.io/thai-ads-filter/annoyance.txt
 !
 !-------------- annoyance_filters --------------
-!-------------- general_block --------------
 
-!-------------- general_hide --------------
+!----- annoyance_filters/general_block.txt -----
 
-!-------------- specific_block --------------
+
+!----- annoyance_filters/thirdparty.txt -----
+
+
+!----- annoyance_filters/general_hide.txt -----
+
+
+!----- annoyance_filters/specific_block.txt -----
 ||richinfo.co/js/$script,third-party
-!-------------- specific_hide --------------
 
-!-------------- thirdparty --------------
+!----- annoyance_filters/specific_hide.txt -----
 
-!-------------- whitelist --------------
+
+!----- annoyance_filters/whitelist.txt -----
+
