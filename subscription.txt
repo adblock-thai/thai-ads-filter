@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201907310126
-! Last modified: 31 Jul 2019 01:26 UTC
+! Version: 201907310304
+! Last modified: 31 Jul 2019 03:04 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -375,6 +375,7 @@ movie2z.com##.mainbtn img
 fanseriesthaisub.com##.margin-banner
 movie1free.com##.media-popup-container
 movie2free.com##.notice > div
+movie2free.com##.notice > h2
 037hdd.com##.sidebar-right.widget_text > .custom-html-widget.textwidget
 nungnew-hd.com##.sp-no-webp.img-responsive
 seriesclub-th.com##.td-a-rec-id-header_mob
@@ -389,18 +390,17 @@ movie2freevip.com##a[rel*=noreferrer] > img
 nungsub.com##a[rel=bookmark] > img[alt*=banner]
 series-nanime.com##a[rel=nofollow] > img
 2youhd.net,2youhdd.com,doo4k.com,movie2freeth.com,moviedoofee.com,newmovie-4k.com,nunglnw.com,nungnew-hd.com,sine.tv##a[rel^=nofollow] > img
-donung.me,doonung-hd.com,movie2free.com,movie2z.com,nanamovies.com,new-mastermovie.com##a[target="_blank"] > img
-movie2free.com##a[target="_blank"] > strong
-madooseries.com,movie2free.com##a[target="_new"] > img
+donung.me,doonung-hd.com,movie2z.com,nanamovies.com,new-mastermovie.com##a[target="_blank"] > img
+madooseries.com##a[target="_new"] > img
 madooseries.com##a[target="blank"] > img
 037hdd.com,baan-series.com,movie2thai.com,movie8free.com,moviedoofee.com,movierj.com,nunglnw.com,series24hr.com##a[target=_blank] > img
 037-hd.com,xn--72czp7a9bc4b9c4e6b.com##a[target=_blank] > img.img-responsive
 doofreeseries.com##a[target=_blank] > img.size-full
-movie2free.com##div[style*="position: fixed; bottom: 0px;"]
 doonung-hd.com/wp-content/play/video11.mp4
 seriesfreeonline.com##html:style(overflow: auto !important;)
 037-hd.com##img.img-responsive[src*="banner"]
 series-nanime.com/adsvideo^
+||**.gif$image,domain=movie1free.com|movie2free.com
 ||cdn.watchlakorn.in/vod/$media,redirect=noopmp4-1s
 ||doofreeseries.com/vdo/
 ||i.imgur.com^$media,redirect=noopmp4-1s,third-party,domain=nungsub.com
@@ -439,3 +439,4 @@ imgtrue.com#@#.ad-banner
 @@$generichide,domain=aplayer.xyz|bplayer.xyz
 @@||gplay.sine.tv/embed/
 @@||lnwplayer.com^$generichide
+@@||movie2free.com/wp-content/themes/next/images/nav-bullet.gif
