@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201907310317
-! Last modified: 31 Jul 2019 03:17 UTC
+! Version: 201907310325
+! Last modified: 31 Jul 2019 03:25 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -393,15 +393,15 @@ series-nanime.com##a[rel=nofollow] > img
 donung.me,doonung-hd.com,movie2z.com,nanamovies.com##a[target="_blank"] > img
 madooseries.com##a[target="_new"] > img
 madooseries.com##a[target="blank"] > img
-baan-series.com,movie2thai.com,movie8free.com,moviedoofee.com,movierj.com,nunglnw.com,series24hr.com##a[target=_blank] > img
+movie2thai.com,movie8free.com,moviedoofee.com,movierj.com,nunglnw.com,series24hr.com##a[target=_blank] > img
 037-hd.com,xn--72czp7a9bc4b9c4e6b.com##a[target=_blank] > img.img-responsive
 doofreeseries.com##a[target=_blank] > img.size-full
 doonung-hd.com/wp-content/play/video11.mp4
 seriesfreeonline.com##html:style(overflow: auto !important;)
 037-hd.com##img.img-responsive[src*="banner"]
 series-nanime.com/adsvideo^
-||**.gif$image,domain=037hdd.com|movie1free.com|movie2free.com|new-mastermovie.com
-||**.webp$image,domain=new-mastermovie.com
+||*.gif$image,domain=037hdd.com|baan-series.com|movie1free.com|movie2free.com|new-mastermovie.com
+||*.webp$image,domain=new-mastermovie.com
 ||cdn.watchlakorn.in/vod/$media,redirect=noopmp4-1s
 ||doofreeseries.com/vdo/
 ||i.imgur.com^$media,redirect=noopmp4-1s,third-party,domain=nungsub.com
