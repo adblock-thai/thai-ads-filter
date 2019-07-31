@@ -368,11 +368,11 @@ opuree.com##html:style(overflow: auto !important;)
 do-anime.com##img[alt=macau8889]
 
 !----- filters/category/sport_hide.txt -----
+goal.in.th,gool.in.th## table > tbody > tr > td > a[target=_blank] > img[src*=gif]
 soccersuck.com###ssCoverBG
 baanpolballs.com##.ads_forum
 baanpolballs.com##.banner-wp
 baanpolballs.com##a[rel*=nofollow] > img
-goal.in.th,gool.in.th## table > tbody > tr > td > a[target=_blank] > img[src*=gif]
 soccersuck.com##a[rel=nofollow][target=_blank] > img
 
 !----- filters/category/movies_hide.txt -----
