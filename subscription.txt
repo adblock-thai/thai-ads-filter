@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201907310637
-! Last modified: 31 Jul 2019 06:37 UTC
+! Version: 201907310822
+! Last modified: 31 Jul 2019 08:22 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -318,7 +318,7 @@ gg-anime.com##a[href*=bet] > img
 anime-live.com,animedd.xyz,zone-anime.net##a[rel*=nofollow] > img
 lnwanime.com##a[rel*=noopener] > img
 newb-anime.com##a[target*=blank][rel*=noopener] > img
-anime-sugoi.com,animedd.xyz,niceoppai.net,zone-anime.net##a[target=_blank] > img
+anime-sugoi.com,animedd.xyz,animeloli.com,niceoppai.net,zone-anime.net##a[target=_blank] > img
 a-tsuki.net,anime-live.com##a[target=_blank] > img.img-thumbnail
 anime-sugoi.com##center > br
 opuree.com##html:style(overflow: auto !important;)
