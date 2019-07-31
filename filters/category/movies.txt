@@ -42,7 +42,7 @@ movie2freevip.com##a[rel*=noreferrer] > img
 nungsub.com##a[rel=bookmark] > img[alt*=banner]
 series-nanime.com##a[rel=nofollow] > img
 2youhd.net,2youhdd.com,doo4k.com,movie2freeth.com,moviedoofee.com,newmovie-4k.com,nunglnw.com,nungnew-hd.com,sine.tv##a[rel^=nofollow] > img
-donung.me,doonung-hd.com,movie2z.com,nanamovies.com,new-mastermovie.com##a[target="_blank"] > img
+donung.me,doonung-hd.com,movie2z.com,nanamovies.com##a[target="_blank"] > img
 madooseries.com##a[target="_new"] > img
 madooseries.com##a[target="blank"] > img
 baan-series.com,movie2thai.com,movie8free.com,moviedoofee.com,movierj.com,nunglnw.com,series24hr.com##a[target=_blank] > img
@@ -52,8 +52,8 @@ doonung-hd.com/wp-content/play/video11.mp4
 seriesfreeonline.com##html:style(overflow: auto !important;)
 037-hd.com##img.img-responsive[src*="banner"]
 series-nanime.com/adsvideo^
-||**.gif$image,domain=037hdd.com
-||**.gif$image,domain=movie1free.com|movie2free.com
+||**.gif$image,domain=037hdd.com|movie1free.com|movie2free.com|new-mastermovie.com
+||**.webp$image,domain=new-mastermovie.com
 ||cdn.watchlakorn.in/vod/$media,redirect=noopmp4-1s
 ||doofreeseries.com/vdo/
 ||i.imgur.com^$media,redirect=noopmp4-1s,third-party,domain=nungsub.com
