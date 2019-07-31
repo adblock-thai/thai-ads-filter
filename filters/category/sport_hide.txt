@@ -1,4 +1,4 @@
-goal.in.th,gool.in.th## table > tbody > tr > td > a[target=_blank] > img[src*=gif]
+gol.in.th,goal.in.th,gool.in.th## table > tbody > tr > td > a[target=_blank] > img[src*=gif]
 soccersuck.com###ssCoverBG
 baanpolballs.com##.ads_forum
 baanpolballs.com##.banner-wp
