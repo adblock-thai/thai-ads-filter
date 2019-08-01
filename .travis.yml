@@ -31,9 +31,9 @@ script:
   - git push --force origin gh-pages
   - cd ..
   - rm -rf output
-  - git diff
+  - git diff --name-only $TRAVIS_COMMIT_RANGE
   - |
-    if ! git diff --name-only $TRAVIS_COMMIT_RANGE | grep -qvE '(.txt)|^(requirements)'
+    if ! git diff --name-only $TRAVIS_COMMIT_RANGE | grep -qvE '(requirements)|^(.txt)'
     then
         echo "Not running CI since only filters were changed."
         exit 0
