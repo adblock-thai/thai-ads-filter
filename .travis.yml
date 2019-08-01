@@ -3,6 +3,8 @@ language: python
 python:
   - "3.6"
 
+cache: pip
+
 branches:
   only:
     - master
@@ -13,16 +15,28 @@ env:
 
 install:
   - pip install -r requirements.txt
+
 before_script:
   - git config --global user.email "travis@travis-ci.org"
   - git config --global user.name "TravisCI"
   - git config --global push.default "matching"
 
 script:
+  - revision=$(git rev-parse --short HEAD)
   - git clone -b gh-pages "https://$GITHUB_TOKEN@github.com/adblock-thai/thai-ads-filter" output
   - python FOP.py
   - python render.py
   - cd output && git add --all .
-  - git commit -m "Publishing revision $(git --git-dir ../.git rev-parse --short HEAD)"
+  - git commit -m "Publishing revision $revision"
   - git push --force origin gh-pages
-
+  - cd ..
+  - rm -rf output
+  - |
+    if ! git diff --name-only $TRAVIS_COMMIT_RANGE | grep -qvE '(.txt)|^(requirements)'
+    then
+        echo "Not running CI since only filters were changed."
+        exit 0
+    fi
+  - git add .
+  - git commit -m "Auto FOP from Travis revision $revision"
+  - git push https://pakonda:$GITHUB_TOKEN@github.com/adblock-thai/thai-ads-filter HEAD:master
