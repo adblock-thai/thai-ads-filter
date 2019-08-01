@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201908010356
-! Last modified: 01 Aug 2019 03:56 UTC
+! Version: 201908010402
+! Last modified: 01 Aug 2019 04:02 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -354,6 +354,7 @@ merlin-anime.com##.merlin_banner
 airi-anime.com##.movie-container a[target="blank"] > img
 anime-super.com##.movie-container.container div.text-center
 kingsmanga.net##.new-kingsmanga-section
+animedd.xyz##.panel:has-text(Ads)
 opuree.com##.show.fade.modal-backdrop
 godcat-manga.com##.text-center.m-t-20.row
 nico-anime.com##a > img.img-responsive
