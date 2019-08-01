@@ -32,10 +32,10 @@ script:
   - cd ..
   - rm -rf output
   - |
-    if ! git diff --name-only $TRAVIS_COMMIT_RANGE | grep -qvE '(requirements)|^(.txt)'
+    if ! git diff --name-only | grep -qE 'filter.*txt''
     then
-        echo "Not running CI since only filters were changed."
-        exit 0
+      echo "Not running CI since only filters were changed."
+      exit 0
     fi
   - git add .
   - git commit -m "Auto FOP from Travis revision $revision [skip ci]"
