@@ -38,5 +38,5 @@ script:
         exit 0
     fi
   - git add .
-  - git commit -m "Auto FOP from Travis revision $revision"
+  - git commit -m "Auto FOP from Travis revision $revision [skip ci]"
   - git push https://pakonda:$GITHUB_TOKEN@github.com/adblock-thai/thai-ads-filter HEAD:master
