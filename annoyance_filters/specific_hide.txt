@@ -1,2 +1,3 @@
 prachatai.com##.support-pay
 prachatai.com##.st-sticky-share-buttons
+prachatai.test##.st-sticky-share-buttons
