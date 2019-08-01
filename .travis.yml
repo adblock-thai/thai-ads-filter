@@ -32,7 +32,7 @@ script:
   - cd ..
   - rm -rf output
   - |
-    if ! git diff --name-only | grep -qE 'filter.*txt''
+    if ! git diff --name-only | grep -qE 'filter.*txt'
     then
       echo "Not running CI since only filters were changed."
       exit 0
