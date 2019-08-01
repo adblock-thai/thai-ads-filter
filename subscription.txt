@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201908010402
-! Last modified: 01 Aug 2019 04:02 UTC
+! Version: 201908010543
+! Last modified: 01 Aug 2019 05:43 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -423,10 +423,9 @@ movie2freevip.com##a[rel*=noreferrer] > img
 nungsub.com##a[rel=bookmark] > img[alt*=banner]
 series-nanime.com##a[rel=nofollow] > img
 2youhd.net,2youhdd.com,doo4k.com,movie2freeth.com,moviedoofee.com,newmovie-4k.com,nunglnw.com,nungnew-hd.com,sine.tv##a[rel^=nofollow] > img
-donung.me,doonung-hd.com,movie2z.com,nanamovies.com##a[target="_blank"] > img
 madooseries.com##a[target="_new"] > img
 madooseries.com##a[target="blank"] > img
-moviedoofee.com,movierj.com,nunglnw.com,series24hr.com##a[target=_blank] > img
+donung.me,doonung-hd.com,movie2free.com,movie2z.com,moviedoofee.com,movierj.com,nanamovies.com,nunglnw.com,series24hr.com##a[target=_blank] > img
 037-hd.com,xn--72czp7a9bc4b9c4e6b.com##a[target=_blank] > img.img-responsive
 doofreeseries.com##a[target=_blank] > img.size-full
 seriesfreeonline.com##html:style(overflow: auto !important;)
