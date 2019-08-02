@@ -2,3 +2,4 @@
 ||isanook.com/*/beacon$script
 ||kapook.com/*/track$script
 ||kapook.com/ads/$script
+||pantip.com/home/get_activity_main$subdocument
