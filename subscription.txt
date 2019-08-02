@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201908020910
-! Last modified: 02 Aug 2019 09:10 UTC
+! Version: 201908020924
+! Last modified: 02 Aug 2019 09:24 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -375,6 +375,7 @@ fifa55hot.net###bghead
 soccersuck.com###ssCoverBG
 baanpolballs.com##.ads_forum
 baanpolballs.com##.banner-wp
+warpfootball.com##.bannerimg
 baanpolballs.com,fifa55hot.net##a[rel*=nofollow] > img
 soccersuck.com##a[rel=nofollow][target=_blank] > img
 fifa55hot.net##a[target=_blank] > img
