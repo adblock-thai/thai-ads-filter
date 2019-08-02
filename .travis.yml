@@ -27,7 +27,7 @@ script:
   - python FOP.py
   - python render.py
   - cd output && git add --all .
-  - git commit -m "Publishing revision $revision"
+  - git commit -m "⚡️ Publishing revision $revision"
   - git push --force origin gh-pages
   - cd ..
   - rm -rf output
@@ -38,5 +38,5 @@ script:
       exit 0
     fi
   - git add .
-  - git commit -m "Auto FOP from Travis revision $revision [skip ci]"
+  - git commit -m "♻️ Auto FOP from Travis revision $revision [skip ci]"
   - git push https://pakonda:$GITHUB_TOKEN@github.com/adblock-thai/thai-ads-filter HEAD:master
