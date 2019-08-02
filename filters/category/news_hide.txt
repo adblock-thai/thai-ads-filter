@@ -3,5 +3,6 @@ siamblockchain.com##+js(abort-on-property-write.js, adBlockDetected)
 thairath.co.th##.show.modal
 thairath.co.th##.show.modal-backdrop
 khaophuket.com##a[href^=banner_stat]
+newstawan.com##img[src*="/ads"]
 siamblockchain.com##article.ads
 thairath.co.th##html:style(overflow: auto !important;)
