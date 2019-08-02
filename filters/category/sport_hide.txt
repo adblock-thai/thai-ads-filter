@@ -3,6 +3,7 @@ fifa55hot.net###bghead
 soccersuck.com###ssCoverBG
 baanpolballs.com##.ads_forum
 baanpolballs.com##.banner-wp
+warpfootball.com##.bannerimg
 baanpolballs.com,fifa55hot.net##a[rel*=nofollow] > img
 soccersuck.com##a[rel=nofollow][target=_blank] > img
 fifa55hot.net##a[target=_blank] > img
