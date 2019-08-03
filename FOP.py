@@ -64,10 +64,13 @@ IGNORE = ("CC-BY-SA.txt", "easytest.txt", "GPL.txt", "MPL.txt",
 KNOWNOPTIONS = ("collapse", "csp", "document", "elemhide",
                 "font", "genericblock", "generichide", "image", "match-case",
                 "object", "media", "object-subrequest", "other", "ping", "popup",
-                "rewrite=abp-resource:blank-css", "rewrite=abp-resource:blank-js", "rewrite=abp-resource:blank-html", "rewrite=abp-resource:blank-mp3", "rewrite=abp-resource:blank-text",
-                "rewrite=abp-resource:1x1-transparent-gif", "rewrite=abp-resource:2x2-transparent-png", "rewrite=abp-resource:3x2-transparent-png", "rewrite=abp-resource:32x32-transparent-png",
-                "script", "stylesheet", "subdocument", "third-party", "websocket", "webrtc", "xmlhttprequest",
-                "redirect=1x1-transparent.gif", "redirect=2x2-transparent.png", "redirect=3x2-transparent.png", "redirect=32x32-transparent.png", "redirect=nooptext", "redirect=noopcss", "redirect=noopjs", "redirect=noopframe", "redirect=noopmp3-0.1s", "redirect=noopmp4-1s", "redirect=hd-main.js", "redirect=fuckadblock.js-3.2.0")
+                "script", "stylesheet", "subdocument", "third-party", "first-party",
+                "websocket", "webrtc", "xmlhttprequest", "important", "redirect=googletagmanager.com/gtm.js",
+                "redirect=google-analytics.com/ga.js", "redirect=google-analytics.com/analytics.js", "redirect=googletagservices.com/gpt.js",
+                "redirect=google-analytics.com/cx/api.js", "redirect=googlesyndication.com/adsbygoogle.js", "redirect=doubleclick.net/instream/ad_status.js",
+                "redirect=ampproject.org/v0.js", "redirect=noopjs", "redirect=noopcss", "redirect=noopframe", "redirect=nooptext",
+                "redirect=noopmp3-0.1s", "redirect=noopmp4-1s", "redirect=1x1-transparent.png", "redirect=2x2-transparent.png",
+                "redirect=3x2-transparent.png", "redirect=32x32-transparent.png", "1p", "3p", "inline-script", "xhr")
 
 # List the supported revision control system commands
 REPODEF = collections.namedtuple("repodef", "name, directory, locationoption, repodirectoryoption, checkchanges, difference, commit, pull, push")
@@ -220,6 +223,8 @@ def fopsort (filename):
                         filterlines = elementlines = 0
                     outputfile.write("{line}\n".format(line = line))
                 else:
+                    # Convert inject:script to +js
+                    line = line.replace("##script:inject", "##+js")
                     # Neaten up filters and, if necessary, check their type for the sorting algorithm
                     elementparts = re.match(ELEMENTPATTERN, line)
                     if elementparts:
@@ -382,22 +387,21 @@ def isglobalelement (domains):
     return True
 
 def removeunnecessarywildcards (filtertext):
-    """ Where possible, remove unnecessary wildcards from the beginnings
-    and ends of blocking filters."""
+    # Where possible, remove unnecessary wildcards from the beginnings and ends of blocking filters.
     whitelist = False
     hadStar = False
     if filtertext[0:2] == "@@":
         whitelist = True
         filtertext = filtertext[2:]
-    while len(filtertext) > 1 and filtertext[0] == "*" and not filtertext[1] == "|" and not filtertext[1] == "!":
+    while len(filtertext) > 1 and filtertext[0] == "" and not filtertext[1] == "|" and not filtertext[1] == "!":
         filtertext = filtertext[1:]
         hadStar = True
-    while len(filtertext) > 1 and filtertext[-1] == "*" and not filtertext[-2] == "|" and not filtertext[-2] == " ":
+    while len(filtertext) > 1 and filtertext[-1] == "" and not filtertext[-2] == "|":
         filtertext = filtertext[:-1]
         hadStar = True
     if hadStar and filtertext[0] == "/" and filtertext[-1] == "/":
         filtertext = "{filtertext}*".format(filtertext = filtertext)
-    if filtertext == "*":
+    if filtertext == "":
         filtertext = ""
     if whitelist:
         filtertext = "@@{filtertext}".format(filtertext = filtertext)
