@@ -1,5 +1,6 @@
 blognone.com###above_comments
 blognone.com###block-views-jobs-blognone-com-block
+music.siamza.com###fanback
 prachatai.com##.st-sticky-share-buttons
 prachatai.com##.support-pay
 blognone.com##div[class*="node sticky"]
