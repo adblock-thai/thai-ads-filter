@@ -3,7 +3,6 @@
 [![gitlab](https://img.shields.io/badge/gitlab-mirror-red.svg?logo=gitlab)](https://gitlab.com/adblock-thai/thai-ads-filter)
 [![Build Status](https://travis-ci.org/adblock-thai/thai-ads-filter.svg?branch=master)](https://travis-ci.org/adblock-thai/thai-ads-filter)
 [![Repo size](https://img.badgesize.io/adblock-thai/thai-ads-filter/gh-pages/subscription.txt?style=flat-round&label=filter%20size)](https://github.com/adblock-thai/thai-ads-filter)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/adblock-thai/thai-ads-filter)
 [![GitHub contributors](https://img.shields.io/github/contributors/adblock-thai/thai-ads-filter)](https://github.com/adblock-thai/thai-ads-filter/graphs/contributors)
 
 รายการตัวกรองโฆษณาของไทย
