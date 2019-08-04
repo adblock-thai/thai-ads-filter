@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201908040554
-! Last modified: 04 Aug 2019 05:54 UTC
+! Version: 201908040559
+! Last modified: 04 Aug 2019 05:59 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -29,6 +29,7 @@
 ||trustmarkthai.com/callbackData/$third-party
 
 !----- filters/general/banner_hide.txt -----
+##a[href*="77up.bet"] > img
 ##a[href*="awz.bz/ads/"] > img
 ##a[href*="bx.in.th/ref/"] > img
 ##a[href*="dreamgame88.com"] > img
@@ -36,6 +37,10 @@
 ##a[href*="sagame66.com"] > img
 ##a[href*="sexygame66.com"] > img
 ##a[href*="sl0tr00m.club"] > img
+##a[href*="slot1234.net"] > img
+##a[href*="superslot999.com"] > img
+##a[href*="ufa191.com"] > img
+##a[href*="ufa678.com"] > img
 ##a[href*=macau-uta-popup]
 ##div[id^=div-gpt-ad-]
 
