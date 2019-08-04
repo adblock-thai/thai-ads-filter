@@ -1,0 +1,9 @@
+##a[href*="awz.bz/ads/"] > img
+##a[href*="bx.in.th/ref/"] > img
+##a[href*="dreamgame88.com"] > img
+##a[href*="mobilesitexxx.com"] > img
+##a[href*="sagame66.com"] > img
+##a[href*="sexygame66.com"] > img
+##a[href*="sl0tr00m.club"] > img
+##a[href*=macau-uta-popup]
+##div[id^=div-gpt-ad-]
