@@ -8,8 +8,8 @@
 ## Available lists
 | List                          | Description                                                             |
 |:------------------------------|:------------------------------------------------------------------------|
-**[Thai Ads Filter](https://adblock-thai.github.io/thai-ads-filter/subscription.txt)** ([Subscribe][Thai Ads Filter Subscribe]) | A filter for [uBO](https://github.com/gorhill/uBlock) that aims to remove regional Thai ads, tracking, scams + badware. |
-**[Thai Annoyance Filter](https://adblock-thai.github.io/thai-ads-filter/annoyance.txt)** ([Subscribe][Thai Annoyance Filter Subscribe]) | A filter that aims to remove annoyances and unnecessary bloat. |
+**[Thai Ads Filters](https://adblock-thai.github.io/thai-ads-filter/subscription.txt)** ([Subscribe][Thai Ads Filter Subscribe]) | A filter for [uBO](https://github.com/gorhill/uBlock) that aims to remove regional Thai ads, tracking, scams + badware. |
+**[Thai Annoyance Filters](https://adblock-thai.github.io/thai-ads-filter/annoyance.txt)** ([Subscribe][Thai Annoyance Filter Subscribe]) | A filter that aims to remove annoyances and unnecessary bloat. |
 
 [Thai Ads Filter Subscribe]: https://subscribe.adblockplus.org/?location=https://adblock-thai.github.io/thai-ads-filter/subscription.txt&amp;title=Thai%20Adblock%20List
 [Thai Annoyance Filter Subscribe]: https://subscribe.adblockplus.org/?location=https://adblock-thai.github.io/thai-ads-filter/annoyance.txt&amp;title=Thai%20Annoyances%20List
