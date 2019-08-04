@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201908040241
-! Last modified: 04 Aug 2019 02:41 UTC
+! Version: 201908040246
+! Last modified: 04 Aug 2019 02:46 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -484,6 +484,7 @@ gggcomputer.com##img[src*="banner"]
 
 
 !----- filters/whitelist/whitelist_block.txt -----
+@@||037hdd.com/wp-content/themes/037HD.COM/images/nav-bullet-hov.gif
 @@||gplay.sine.tv/embed/
 @@||lnwplayer.com^$generichide
 @@||movie2free.com/wp-content/themes/next/images/nav-bullet.gif
