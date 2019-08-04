@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201908040254
-! Last modified: 04 Aug 2019 02:54 UTC
+! Version: 201908040259
+! Last modified: 04 Aug 2019 02:59 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -257,11 +257,6 @@
 ##.mid_ads
 ##.post-pick-ads
 ##.text-center-ads
-##a[href*="awz.bz/ads/"] > img
-##a[href*="bx.in.th/ref/"] > img
-##a[href*=macau-uta-popup]
-##a[href="http://mobilesitexxx.com/reufa678.html"] > img
-##div[id^=div-gpt-ad-]
 
 !----- filters/general/popup_hide.txt -----
 popuplayer.com##+js(window.open-defuser.js)
