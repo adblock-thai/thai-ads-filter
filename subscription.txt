@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201908040728
-! Last modified: 04 Aug 2019 07:28 UTC
+! Version: 201908040755
+! Last modified: 04 Aug 2019 07:55 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -230,6 +230,9 @@
 ||yu0123456.com
 ||zemanta.com
 
+!----- filters/general/anti_ads_block.txt -----
+||*/wp-content/plugins/deblocker/js/*$script
+
 !----- filters/general/general_hide.txt -----
 ###ads
 ###ads-google-middle_rectangle-group
@@ -304,7 +307,6 @@ popuplayer.com##+js(window.open-defuser.js)
 !----- filters/category/news_hide.txt -----
 thethaiger.com###pop-overlay
 newstawan.com###sgpb-popup-dialog-main-div
-siamblockchain.com##+js(abort-on-property-write.js, adBlockDetected)
 thairath.co.th##.show.modal
 thairath.co.th##.show.modal-backdrop
 khaophuket.com##a[href^=banner_stat]
