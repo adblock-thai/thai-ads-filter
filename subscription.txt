@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201908040259
-! Last modified: 04 Aug 2019 02:59 UTC
+! Version: 201908040306
+! Last modified: 04 Aug 2019 03:06 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -10,6 +10,9 @@
 ! Download: https://adblock-thai.github.io/thai-ads-filter/subscription.txt
 !
 !-------------- ads_filters --------------
+
+!----- filters/general/scam_block.txt -----
+||xn--22c2bo0aagkm5bl5eh8e1f0e.blogspot.com
 
 !----- filters/general/popup_block.txt -----
 ||blog-natta.com^$popup
@@ -24,6 +27,17 @@
 ||stat.in.th^
 ||truehits.net^
 ||trustmarkthai.com/callbackData/$third-party
+
+!----- filters/general/banner_hide.txt -----
+##a[href*="awz.bz/ads/"] > img
+##a[href*="bx.in.th/ref/"] > img
+##a[href*="dreamgame88.com"] > img
+##a[href*="mobilesitexxx.com"] > img
+##a[href*="sagame66.com"] > img
+##a[href*="sexygame66.com"] > img
+##a[href*="sl0tr00m.club"] > img
+##a[href*=macau-uta-popup]
+##div[id^=div-gpt-ad-]
 
 !----- filters/general/adservers_block.txt -----
 ||*-adnow.com$third-party
