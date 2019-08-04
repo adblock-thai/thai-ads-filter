@@ -21,6 +21,7 @@
 
 
 !----- annoyance_filters/specific_block.txt -----
+||cdn.onesignal.com^$important,script,third-party
 ||richinfo.co/js/$script,third-party
 
 !----- annoyance_filters/specific_hide.txt -----
