@@ -4,3 +4,4 @@ music.siamza.com###fanback
 prachatai.com##.st-sticky-share-buttons
 prachatai.com##.support-pay
 blognone.com##div[class*="node sticky"]
+animeloli.com##header
