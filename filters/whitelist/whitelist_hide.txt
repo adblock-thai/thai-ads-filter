@@ -1,2 +1,3 @@
 ! imgtrue not show picture
+aplayer.xyz,bplayer.xyz#@##ads
 imgtrue.com#@#.ad-banner
