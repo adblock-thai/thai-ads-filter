@@ -331,7 +331,7 @@ newstawan.com##img[src*="/ads"]
 ||pantip.com/home/get_activity_main$subdocument
 
 !----- filters/category/movies_block.txt -----
-||*.gif$image,domain=037hdd.com|2youhd.net|baan-series.com|doofreeseries.com|movie1free.com|movie2free.com|movie2thai.com|movie8free.com|new-mastermovie.com|owlseries.com|series-nanime.com|series4you.com|superseriesthai.com
+||*.gif$image,domain=037hdd.com|2youhd.net|baan-series.com|doofreeseries.com|movie1free.com|movie2free.com|movie2thai.com|movie8free.com|new-mastermovie.com|owlseries.com|series-nanime.com|series4you.com|seriesclubs.com|superseriesthai.com
 ||*.svg$image,domain=movie2free.com
 ||*.webp$image,domain=new-mastermovie.com
 ||cdn.watchlakorn.in/vod/$media,redirect=noopmp4-1s
