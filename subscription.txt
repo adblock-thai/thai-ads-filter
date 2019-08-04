@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201908041227
-! Last modified: 04 Aug 2019 12:27 UTC
+! Version: 201908041254
+! Last modified: 04 Aug 2019 12:54 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -334,7 +334,7 @@ newstawan.com##img[src*="/ads"]
 ||pantip.com/home/get_activity_main$subdocument
 
 !----- filters/category/movies_block.txt -----
-||*.gif$image,domain=037hdd.com|2youhd.net|baan-series.com|doofreeseries.com|movie1free.com|movie2free.com|movie2thai.com|movie8free.com|new-mastermovie.com|owlseries.com|series-nanime.com|series4you.com|seriesclubs.com|superseriesthai.com
+||*.gif$image,domain=037hdd.com|1080moviehd.com|2youhd.net|baan-series.com|doofreeseries.com|movie1free.com|movie2free.com|movie2thai.com|movie8free.com|new-mastermovie.com|owlseries.com|series-nanime.com|series4you.com|seriesclubs.com|superseriesthai.com
 ||*.svg$image,domain=movie2free.com
 ||*.webp$image,domain=new-mastermovie.com
 ||cdn.watchlakorn.in/vod/$media,redirect=noopmp4-1s
@@ -441,7 +441,7 @@ superseriesthai.com##a > img.img-fluid
 fanseriesthaisub.com##a > img.w-100
 nungnew-hd.com##a[href*=pegloang]
 nungsub.com##a[rel*=nofollow] > div[class*=img]
-movie2free.com,movie2freevip.com,nungsub.com,seriespop.com,utaseries.com##a[rel*=nofollow] > img
+1080moviehd.com,movie2free.com,movie2freevip.com,nungsub.com,seriespop.com,utaseries.com##a[rel*=nofollow] > img
 movie2freevip.com##a[rel*=noreferrer] > img
 nungsub.com##a[rel=bookmark] > img[alt*=banner]
 series-nanime.com##a[rel=nofollow] > img
