@@ -1,6 +1,5 @@
 thethaiger.com###pop-overlay
 newstawan.com###sgpb-popup-dialog-main-div
-siamblockchain.com##+js(abort-on-property-write.js, adBlockDetected)
 thairath.co.th##.show.modal
 thairath.co.th##.show.modal-backdrop
 khaophuket.com##a[href^=banner_stat]
