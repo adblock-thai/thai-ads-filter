@@ -37,7 +37,7 @@ superseriesthai.com##a > img.img-fluid
 fanseriesthaisub.com##a > img.w-100
 nungnew-hd.com##a[href*=pegloang]
 nungsub.com##a[rel*=nofollow] > div[class*=img]
-movie2free.com,movie2freevip.com,nungsub.com,seriespop.com,utaseries.com##a[rel*=nofollow] > img
+1080moviehd.com,movie2free.com,movie2freevip.com,nungsub.com,seriespop.com,utaseries.com##a[rel*=nofollow] > img
 movie2freevip.com##a[rel*=noreferrer] > img
 nungsub.com##a[rel=bookmark] > img[alt*=banner]
 series-nanime.com##a[rel=nofollow] > img
