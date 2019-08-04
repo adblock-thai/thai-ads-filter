@@ -1,1 +1,2 @@
+||cdn.onesignal.com^$important,script,third-party
 ||richinfo.co/js/$script,third-party
