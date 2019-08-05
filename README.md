@@ -43,7 +43,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/pakonda"><img src="https://avatars1.githubusercontent.com/u/6489925?v=4" width="100px;" alt="pakonda"/><br /><sub><b>pakonda</b></sub></a><br /><a href="https://github.com/pakonda/Thai Ads Filters/commits?author=pakonda" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/pakonda"><img src="https://avatars1.githubusercontent.com/u/6489925?v=4" width="100px;" alt="pakonda"/><br /><sub><b>pakonda</b></sub></a><br /><a href="https://github.com/pakonda/Thai Ads Filters/commits?author=pakonda" title="Code">💻</a> <a href="https://github.com/pakonda/Thai Ads Filters/commits?author=pakonda" title="Documentation">📖</a></td>
   </tr>
 </table>
 
