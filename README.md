@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/adblock-thai/thai-ads-filter.svg?branch=master)](https://travis-ci.org/adblock-thai/thai-ads-filter)
 [![Requirements Status](https://requires.io/github/adblock-thai/thai-ads-filter/requirements.svg?branch=master)](https://requires.io/github/adblock-thai/thai-ads-filter/requirements/?branch=master)
 [![Repo size](https://img.badgesize.io/adblock-thai/thai-ads-filter/gh-pages/subscription.txt?style=flat-round&label=filter%20size)](https://github.com/adblock-thai/thai-ads-filter)
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 
 รายการตัวกรองโฆษณาของไทย
 
@@ -44,8 +44,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/pakonda"><img src="https://avatars1.githubusercontent.com/u/6489925?v=4" width="100px;" alt="pakonda"/><br /><sub><b>pakonda</b></sub></a><br /><a href="https://github.com/pakonda/Thai Ads Filters/commits?author=pakonda" title="Code">💻</a> <a href="https://github.com/pakonda/Thai Ads Filters/commits?author=pakonda" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/powwadol"><img src="https://avatars0.githubusercontent.com/u/42528750?v=4" width="100px;" alt="Michio"/><br /><sub><b>Michio</b></sub></a><br /><a href="https://github.com/pakonda/Thai Ads Filters/commits?author=powwadol" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/pakonda"><img src="https://avatars1.githubusercontent.com/u/6489925?v=4" width="100px;" alt="pakonda"/><br /><sub><b>pakonda</b></sub></a><br /><a href="https://github.com/adblock-thai/thai-ads-filter/commits?author=pakonda" title="Code">💻</a> <a href="https://github.com/adblock-thai/thai-ads-filter/commits?author=pakonda" title="Documentation">📖</a> <a href="#blocker-pakonda" title="People who help create filter list">🚫</a> <a href="#blog-pakonda" title="Blogposts">📝</a></td>
+    <td align="center"><a href="https://github.com/powwadol"><img src="https://avatars0.githubusercontent.com/u/42528750?v=4" width="100px;" alt="Michio"/><br /><sub><b>Michio</b></sub></a><br /><a href="https://github.com/adblock-thai/thai-ads-filter/commits?author=powwadol" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/EKAPHONG"><img src="https://avatars0.githubusercontent.com/u/39004906?v=4" width="100px;" alt="Ekaphong Tangtrakul"/><br /><sub><b>Ekaphong Tangtrakul</b></sub></a><br /><a href="#blocker-EKAPHONG" title="People who help create filter list">🚫</a> <a href="#question-EKAPHONG" title="Answering Questions">💬</a></td>
   </tr>
 </table>
 

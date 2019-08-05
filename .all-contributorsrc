@@ -1,6 +1,6 @@
 {
-  "projectName": "Thai Ads Filters",
-  "projectOwner": "pakonda",
+  "projectName": "thai-ads-filter",
+  "projectOwner": "adblock-thai",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
@@ -9,6 +9,12 @@
   "imageSize": 100,
   "commit": true,
   "commitConvention": "none",
+  "types": {
+    "blocker": {
+      "symbol": "🚫",
+      "description": "People who help create filter list"
+    }
+  },
   "contributors": [
     {
       "login": "pakonda",
@@ -17,7 +23,9 @@
       "profile": "https://github.com/pakonda",
       "contributions": [
         "code",
-        "doc"
+        "doc",
+        "blocker",
+        "blog"
       ]
     },
     {
@@ -27,6 +35,16 @@
       "profile": "https://github.com/powwadol",
       "contributions": [
         "code"
+      ]
+    },
+    {
+      "login": "EKAPHONG",
+      "name": "Ekaphong Tangtrakul",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/39004906?v=4",
+      "profile": "https://github.com/EKAPHONG",
+      "contributions": [
+        "blocker",
+        "question"
       ]
     }
   ],
