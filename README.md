@@ -1,10 +1,9 @@
 # Thai Ads Filters
-
 [![gitlab](https://img.shields.io/badge/gitlab-mirror-red.svg?logo=gitlab)](https://gitlab.com/adblock-thai/thai-ads-filter)
 [![Build Status](https://travis-ci.org/adblock-thai/thai-ads-filter.svg?branch=master)](https://travis-ci.org/adblock-thai/thai-ads-filter)
 [![Requirements Status](https://requires.io/github/adblock-thai/thai-ads-filter/requirements.svg?branch=master)](https://requires.io/github/adblock-thai/thai-ads-filter/requirements/?branch=master)
 [![Repo size](https://img.badgesize.io/adblock-thai/thai-ads-filter/gh-pages/subscription.txt?style=flat-round&label=filter%20size)](https://github.com/adblock-thai/thai-ads-filter)
-[![GitHub contributors](https://img.shields.io/github/contributors/adblock-thai/thai-ads-filter)](https://github.com/adblock-thai/thai-ads-filter/graphs/contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 
 รายการตัวกรองโฆษณาของไทย
 
@@ -18,7 +17,7 @@
 [Thai Ads Filter Subscribe]: https://subscribe.adblockplus.org/?location=https://adblock-thai.github.io/thai-ads-filter/subscription.txt&amp;title=Thai%20Adblock%20List
 [Thai Annoyance Filter Subscribe]: https://subscribe.adblockplus.org/?location=https://adblock-thai.github.io/thai-ads-filter/annoyance.txt&amp;title=Thai%20Annoyances%20List
 
-## 🛠 Installation 
+## 🛠 Installation
 
 | Web Browser | Installation |
 |----------|:-------------:|
@@ -34,3 +33,22 @@
 - [ABP filter syntax](https://help.eyeo.com/en/adblockplus/how-to-write-filters)
 - [ABP cheatsheet](https://adblockplus.org/filter-cheatsheet)
 - [Exception rules](https://help.eyeo.com/en/adblockplus/how-to-write-filters#elemhide_exceptions)
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/pakonda"><img src="https://avatars1.githubusercontent.com/u/6489925?v=4" width="100px;" alt="pakonda"/><br /><sub><b>pakonda</b></sub></a><br /><a href="https://github.com/pakonda/Thai Ads Filters/commits?author=pakonda" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
