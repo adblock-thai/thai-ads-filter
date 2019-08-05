@@ -9,6 +9,7 @@
   "imageSize": 100,
   "commit": true,
   "commitConvention": "none",
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-round)](#contributors)",
   "types": {
     "blocker": {
       "symbol": "🚫",
@@ -43,7 +44,6 @@
       "avatar_url": "https://avatars0.githubusercontent.com/u/39004906?v=4",
       "profile": "https://github.com/EKAPHONG",
       "contributions": [
-        "blocker",
         "question"
       ]
     }
