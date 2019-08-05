@@ -11,7 +11,7 @@
   "commitConvention": "none",
   "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-round)](#contributors)",
   "types": {
-    "blocker": {
+    "filter": {
       "symbol": "🚫",
       "description": "People who help create filter list"
     }
@@ -25,7 +25,7 @@
       "contributions": [
         "code",
         "doc",
-        "blocker",
+        "filter",
         "blog"
       ]
     },
@@ -44,7 +44,8 @@
       "avatar_url": "https://avatars0.githubusercontent.com/u/39004906?v=4",
       "profile": "https://github.com/EKAPHONG",
       "contributions": [
-        "question"
+        "question",
+        "filter"
       ]
     }
   ],
