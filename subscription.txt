@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201908060611
-! Last modified: 06 Aug 2019 06:11 UTC
+! Version: 201908060616
+! Last modified: 06 Aug 2019 06:16 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -337,6 +337,7 @@ newstawan.com##img[src*="/ads"]
 ||*.gif$image,domain=037hdd.com|1080moviehd.com|2youhd.net|baan-series.com|doofreeseries.com|doonungdee.online|movie1free.com|movie2free.com|movie2thai.com|movie8free.com|new-mastermovie.com|owlseries.com|series-nanime.com|series4you.com|seriesclubs.com|superseriesthai.com
 ||*.svg$image,domain=movie2free.com
 ||*.webp$image,domain=new-mastermovie.com
+||adintrend.tv/images/banner/*
 ||cdn.watchlakorn.in/vod/$media,redirect=noopmp4-1s
 ||doofreeseries.com/vdo/
 ||doonung-hd.com/wp-content/play/video11.mp4
@@ -419,7 +420,7 @@ nungnew-hd.com##+js(abort-on-property-write.js, atob)
 nungnew-hd.com##+js(addEventListener-defuser.js, mousedown)
 fanseries.co,kseries.tv##+js(addEventListener-defuser.js, mousedown, tabUnder)
 series-d.com##+js(fuckadblock.js-3.2.0)
-1080moviehd.com,baan-series.com,leoplayer1.com,movie1free.com,nungsub.com,series4you.com##+js(nano-setInterval-booster.js)
+1080moviehd.com,baan-series.com,ioiwork.com,leoplayer1.com,movie1free.com,nungsub.com,series4you.com##+js(nano-setInterval-booster.js)
 movie2free.com##+js(setInterval-defuser.js, f(), _blank)
 popuplayer.com##.adtt
 pannung.com,xn--82cf0aw7bf9jbc7a0nyb.com##.banner-header
