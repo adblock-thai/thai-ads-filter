@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201908060616
-! Last modified: 06 Aug 2019 06:16 UTC
+! Version: 201908061342
+! Last modified: 06 Aug 2019 13:42 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -10,39 +10,6 @@
 ! Download: https://adblock-thai.github.io/thai-ads-filter/subscription.txt
 !
 !-------------- ads_filters --------------
-
-!----- filters/general/scam_block.txt -----
-||xn--22c2bo0aagkm5bl5eh8e1f0e.blogspot.com
-
-!----- filters/general/popup_block.txt -----
-||blog-natta.com^$popup
-||gqqdlckj8y.com$script,third-party
-||ohoslot.com^$popup,third-party
-||slotxo24hr.com^$popup,third-party
-||stygg.xyz^$popup,third-party
-
-!----- filters/general/track_block.txt -----
-||cdn.pushcrew.com/js/$third-party
-||histat.com
-||stat.in.th^
-||truehits.net^
-||trustmarkthai.com/callbackData/$third-party
-
-!----- filters/general/banner_hide.txt -----
-##a[href*="77up.bet"] > img
-##a[href*="awz.bz/ads/"] > img
-##a[href*="bx.in.th/ref/"] > img
-##a[href*="dreamgame88.com"] > img
-##a[href*="mobilesitexxx.com"] > img
-##a[href*="sagame66.com"] > img
-##a[href*="sexygame66.com"] > img
-##a[href*="sl0tr00m.club"] > img
-##a[href*="slot1234.net"] > img
-##a[href*="superslot999.com"] > img
-##a[href*="ufa191.com"] > img
-##a[href*="ufa678.com"] > img
-##a[href*=macau-uta-popup]
-##div[id^=div-gpt-ad-]
 
 !----- filters/general/adservers_block.txt -----
 ||*-adnow.com$third-party
@@ -230,8 +197,56 @@
 ||yu0123456.com
 ||zemanta.com
 
+!----- filters/general/scam_block.txt -----
+||xn--22c2bo0aagkm5bl5eh8e1f0e.blogspot.com
+
+!----- filters/general/banner_hide.txt -----
+##a[href*="77up.bet"] > img
+##a[href*="awz.bz/ads/"] > img
+##a[href*="bx.in.th/ref/"] > img
+##a[href*="dreamgame88.com"] > img
+##a[href*="mobilesitexxx.com"] > img
+##a[href*="sagame66.com"] > img
+##a[href*="sexygame66.com"] > img
+##a[href*="sl0tr00m.club"] > img
+##a[href*="slot1234.net"] > img
+##a[href*="superslot999.com"] > img
+##a[href*="ufa191.com"] > img
+##a[href*="ufa678.com"] > img
+##a[href*=macau-uta-popup]
+##div[id^=div-gpt-ad-]
+
+!----- filters/general/popup_hide.txt -----
+popuplayer.com##+js(window.open-defuser.js)
+
 !----- filters/general/anti_ads_block.txt -----
 ||*/wp-content/plugins/deblocker/js/*$script
+
+!----- filters/general/popup_block.txt -----
+||blog-natta.com^$popup
+||gqqdlckj8y.com$script,third-party
+||ohoslot.com^$popup,third-party
+||slotxo24hr.com^$popup,third-party
+||stygg.xyz^$popup,third-party
+
+!----- filters/general/thirdparty_block.txt -----
+||7mscorethai.com^$media,redirect=noopmp4-1s,third-party
+||bannung.com^$media,redirect=noopmp4-1s,third-party
+||cdn.digitaloceanspaces.com/dreamgame88.mp4$media,redirect=noopmp4-1s,third-party
+||cdn.sexygame66.com^$media,redirect=noopmp4-1s,third-party
+||foxwood168.com^$media,redirect=noopmp4-1s,third-party
+||ft99.b-cdn.net^$third-party
+||gclub4you.*.cdn.digitaloceanspaces.com^$third-party
+||get4u.net^$image,third-party
+||goalclub.tv^$media,redirect=noopmp4-1s,third-party
+||sagame36.com^$third-party
+||sagame66.com^$media,redirect=noopmp4-1s,third-party
+||sagame88cdn.com^$media,redirect=noopmp4-1s,third-party
+||scg511.com^$media,redirect=noopmp4-1s,third-party
+||seriespop.com/adsvideo/$media,redirect=noopmp4-1s
+||stream.cpssnn.site/ads.mp4$media,redirect=noopmp4-1s
+||ufa191.com^$media,redirect=noopmp4-1s,third-party
+||ufabet678.com^$media,redirect=noopmp4-1s,third-party
 
 !----- filters/general/general_hide.txt -----
 ###ads
@@ -280,78 +295,12 @@
 ##.post-pick-ads
 ##.text-center-ads
 
-!----- filters/general/popup_hide.txt -----
-popuplayer.com##+js(window.open-defuser.js)
-
-!----- filters/general/thirdparty_block.txt -----
-||7mscorethai.com^$media,redirect=noopmp4-1s,third-party
-||bannung.com^$media,redirect=noopmp4-1s,third-party
-||cdn.digitaloceanspaces.com/dreamgame88.mp4$media,redirect=noopmp4-1s,third-party
-||cdn.sexygame66.com^$media,redirect=noopmp4-1s,third-party
-||foxwood168.com^$media,redirect=noopmp4-1s,third-party
-||ft99.b-cdn.net^$third-party
-||gclub4you.*.cdn.digitaloceanspaces.com^$third-party
-||get4u.net^$image,third-party
-||goalclub.tv^$media,redirect=noopmp4-1s,third-party
-||sagame36.com^$third-party
-||sagame66.com^$media,redirect=noopmp4-1s,third-party
-||sagame88cdn.com^$media,redirect=noopmp4-1s,third-party
-||scg511.com^$media,redirect=noopmp4-1s,third-party
-||seriespop.com/adsvideo/$media,redirect=noopmp4-1s
-||stream.cpssnn.site/ads.mp4$media,redirect=noopmp4-1s
-||ufa191.com^$media,redirect=noopmp4-1s,third-party
-||ufabet678.com^$media,redirect=noopmp4-1s,third-party
-
-!----- filters/category/bittorent_block.txt -----
-
-
-!----- filters/category/news_hide.txt -----
-thethaiger.com###pop-overlay
-newstawan.com###sgpb-popup-dialog-main-div
-thairath.co.th##.show.modal
-thairath.co.th##.show.modal-backdrop
-khaophuket.com##a[href^=banner_stat]
-siamblockchain.com##article.ads
-thairath.co.th##html:style(overflow: auto !important;)
-newstawan.com##img[src*="/ads"]
-
-!----- filters/category/news_block.txt -----
-||khaophuket.com/photo/banner/
-||khaosod.co.th/wp-content/uploads/2017/02/gpsiam.gif
-
-!----- filters/category/game_block.txt -----
-||ads.gamemonday.com
-||compgamer.com/mainpage/module/*/popup$script
-
-!----- filters/category/adult_block.txt -----
-
-
-!----- filters/category/common_block.txt -----
-||isanook.com/*/ads$xmlhttprequest
-||isanook.com/*/beacon$script
-||kapook.com/*/track$script
-||kapook.com/ads/$script
-||pantip.com/home/get_activity_main$subdocument
-
-!----- filters/category/movies_block.txt -----
-||*.gif$image,domain=037hdd.com|1080moviehd.com|2youhd.net|baan-series.com|doofreeseries.com|doonungdee.online|movie1free.com|movie2free.com|movie2thai.com|movie8free.com|new-mastermovie.com|owlseries.com|series-nanime.com|series4you.com|seriesclubs.com|superseriesthai.com
-||*.svg$image,domain=movie2free.com
-||*.webp$image,domain=new-mastermovie.com
-||adintrend.tv/images/banner/*
-||cdn.watchlakorn.in/vod/$media,redirect=noopmp4-1s
-||doofreeseries.com/vdo/
-||doonung-hd.com/wp-content/play/video11.mp4
-||i.imgur.com^$media,redirect=noopmp4-1s,third-party,domain=nungsub.com
-||kseries.tv/clip/LoadingCircleYouTube.mp4$media,redirect=noopmp4-1s
-||ksubtv.net/wp-content/plugins/ultimate-popunder/$script
-||series-nanime.com/adsvideo^
-
-!----- filters/category/shop_block.txt -----
-||akamaihd.net/shopee/*/*TrackingRules$script,domain=shopee.co.th
-||akamaihd.net/shopee/*/TrackingRules$script,domain=shopee.co.th
-||shopee.co.th/__t__$xmlhttprequest
-||shopee.co.th/userstats_record$xmlhttprequest
-||shopeemobile.com/th/tr$xmlhttprequest
+!----- filters/general/track_block.txt -----
+||cdn.pushcrew.com/js/$third-party
+||histat.com
+||stat.in.th^
+||truehits.net^
+||trustmarkthai.com/callbackData/$third-party
 
 !----- filters/category/anime_hide.txt -----
 lnwmanga.com###divAdsBg
@@ -391,6 +340,46 @@ anime-sugoi.com##center > br
 opuree.com##html:style(overflow: auto !important;)
 do-anime.com##img[alt=macau8889]
 
+!----- filters/category/movies_block.txt -----
+||*.gif$image,domain=037hdd.com|1080moviehd.com|2youhd.net|baan-series.com|doofreeseries.com|doonungdee.online|movie1free.com|movie2free.com|movie2thai.com|movie8free.com|new-mastermovie.com|owlseries.com|series-nanime.com|series4you.com|seriesclubs.com|superseriesthai.com
+||*.svg$image,domain=movie2free.com
+||*.webp$image,domain=new-mastermovie.com
+||adintrend.tv/images/banner/*
+||cdn.watchlakorn.in/vod/$media,redirect=noopmp4-1s
+||doofreeseries.com/vdo/
+||doonung-hd.com/wp-content/play/video11.mp4
+||i.imgur.com^$media,redirect=noopmp4-1s,third-party,domain=nungsub.com
+||kseries.tv/clip/LoadingCircleYouTube.mp4$media,redirect=noopmp4-1s
+||ksubtv.net/wp-content/plugins/ultimate-popunder/$script
+||series-nanime.com/adsvideo^
+
+!----- filters/category/bittorent_block.txt -----
+
+
+!----- filters/category/common_block.txt -----
+||isanook.com/*/ads$xmlhttprequest
+||isanook.com/*/beacon$script
+||kapook.com/*/track$script
+||kapook.com/ads/$script
+||pantip.com/home/get_activity_main$subdocument
+
+!----- filters/category/bittorent_hide.txt -----
+zbbit.com##a[href*=advertise] > img
+zbbit.com##a[rel=nofollow] > img
+dedbit.com##a[target="_blank"] > img[src*=banner]
+dedbit.com##a[target="_blank"] > img[src*=colo]
+siambit.me##table.mainouter table tr:has-text(Advertising)
+
+!----- filters/category/game_hide.txt -----
+gamemonday.com##a[rel^=nofollow][target=_blank] > img
+
+!----- filters/category/adult_hide.txt -----
+taradxxx.com###getFixed
+taradxxx.com###getFixedx
+taradxxx.com##.gosad
+cherry-porn.com##.textwidget
+xxxpostpic.org##a[rel^=nofollow] > img
+
 !----- filters/category/sport_hide.txt -----
 goal.in.th,gol.in.th,gool.in.th## table > tbody > tr > td > a[target=_blank] > img[src*=gif]
 fifa55hot.net###bghead
@@ -401,6 +390,49 @@ warpfootball.com##.bannerimg
 baanpolballs.com,fifa55hot.net##a[rel*=nofollow] > img
 soccersuck.com##a[rel=nofollow][target=_blank] > img
 fifa55hot.net##a[target=_blank] > img
+
+!----- filters/category/news_block.txt -----
+||khaophuket.com/photo/banner/
+||khaosod.co.th/wp-content/uploads/2017/02/gpsiam.gif
+
+!----- filters/category/tech_block.txt -----
+||gggcomputer.com/pictures/banner/$image
+||notebookspec.com/*/nbs_custom_ads.php$xmlhttprequest
+
+!----- filters/category/common_hide.txt -----
+imgtrue.com###image_image-viewer_foot
+getlink-gotolink.blogspot.com##+js(fuckadblock.js-3.2.0)
+pantip.com##.post-item a[href*="ads.pantip.com"]
+pantip.com##.post-item:has-text(PR News)
+imgtrue.com##a[target=_blank] > img.image-viewer-main
+imgtrue.com##cloudflare-app[app=flashcard]
+pantip.com##td > a[href*="ads.pantip.com"]
+
+!----- filters/category/shop_hide.txt -----
+
+
+!----- filters/category/game_block.txt -----
+||ads.gamemonday.com
+||compgamer.com/mainpage/module/*/popup$script
+
+!----- filters/category/news_hide.txt -----
+thethaiger.com###pop-overlay
+newstawan.com###sgpb-popup-dialog-main-div
+thairath.co.th##.show.modal
+thairath.co.th##.show.modal-backdrop
+khaophuket.com##a[href^=banner_stat]
+siamblockchain.com##article.ads
+thairath.co.th##html:style(overflow: auto !important;)
+newstawan.com##img[src*="/ads"]
+
+!----- filters/category/sport_block.txt -----
+
+
+!----- filters/category/anime_block.txt -----
+||*.gif$image,domain=am4th.com|anime-hayai.com|anime-live.com|anime-sugoi.com|animedd.xyz|animeloli.com|animesubthai.com|gg-anime.com|kumaanime.com|lnwanime.com|merlin-anime.com|mio-anime.com|nano-anime.com|nico-anime.com|xn--b3ctpu7b6c4a1a.com
+||flix-anime.com/vast/$media,redirect=noopmp4-1s
+||opuree.com/*/detector$script
+||stream.marimo.me/marimo/video$third-party,domain=animeloli.com
 
 !----- filters/category/movies_hide.txt -----
 madooseries.com###\33
@@ -456,51 +488,25 @@ doofreeseries.com##a[target=_blank] > img.size-full
 seriesfreeonline.com##html:style(overflow: auto !important;)
 037-hd.com##img.img-responsive[src*="banner"]
 
-!----- filters/category/tech_block.txt -----
-||gggcomputer.com/pictures/banner/$image
-||notebookspec.com/*/nbs_custom_ads.php$xmlhttprequest
-
-!----- filters/category/shop_hide.txt -----
-
-
-!----- filters/category/game_hide.txt -----
-gamemonday.com##a[rel^=nofollow][target=_blank] > img
-
-!----- filters/category/bittorent_hide.txt -----
-zbbit.com##a[href*=advertise] > img
-zbbit.com##a[rel=nofollow] > img
-dedbit.com##a[target="_blank"] > img[src*=banner]
-dedbit.com##a[target="_blank"] > img[src*=colo]
-siambit.me##table.mainouter table tr:has-text(Advertising)
-
-!----- filters/category/adult_hide.txt -----
-taradxxx.com###getFixed
-taradxxx.com###getFixedx
-taradxxx.com##.gosad
-cherry-porn.com##.textwidget
-xxxpostpic.org##a[rel^=nofollow] > img
-
-!----- filters/category/common_hide.txt -----
-imgtrue.com###image_image-viewer_foot
-pantip.com##.post-item a[href*="ads.pantip.com"]
-pantip.com##.post-item:has-text(PR News)
-imgtrue.com##a[target=_blank] > img.image-viewer-main
-imgtrue.com##cloudflare-app[app=flashcard]
-pantip.com##td > a[href*="ads.pantip.com"]
-
 !----- filters/category/tech_hide.txt -----
 windowssiam.com##.jinda-wrapper
 mxphone.com##.widget_mxphone_dtac_widget
 gggcomputer.com##img[src*="banner"]
 
-!----- filters/category/anime_block.txt -----
-||*.gif$image,domain=am4th.com|anime-hayai.com|anime-live.com|anime-sugoi.com|animedd.xyz|animeloli.com|animesubthai.com|gg-anime.com|kumaanime.com|lnwanime.com|merlin-anime.com|mio-anime.com|nano-anime.com|nico-anime.com|xn--b3ctpu7b6c4a1a.com
-||flix-anime.com/vast/$media,redirect=noopmp4-1s
-||opuree.com/*/detector$script
-||stream.marimo.me/marimo/video$third-party,domain=animeloli.com
+!----- filters/category/shop_block.txt -----
+||akamaihd.net/shopee/*/*TrackingRules$script,domain=shopee.co.th
+||akamaihd.net/shopee/*/TrackingRules$script,domain=shopee.co.th
+||shopee.co.th/__t__$xmlhttprequest
+||shopee.co.th/userstats_record$xmlhttprequest
+||shopeemobile.com/th/tr$xmlhttprequest
 
-!----- filters/category/sport_block.txt -----
+!----- filters/category/adult_block.txt -----
 
+
+!----- filters/whitelist/whitelist_hide.txt -----
+! imgtrue not show picture
+aplayer.xyz,bplayer.xyz#@##ads
+imgtrue.com#@#.ad-banner
 
 !----- filters/whitelist/whitelist_block.txt -----
 @@||037hdd.com/wp-content/themes/037HD.COM/images/nav-bullet-hov.gif
@@ -508,8 +514,3 @@ gggcomputer.com##img[src*="banner"]
 @@||lnwplayer.com^$generichide
 @@||movie2free.com/wp-content/themes/next/images/nav-bullet.gif
 @@||viu.com/ott/*/tracking/
-
-!----- filters/whitelist/whitelist_hide.txt -----
-! imgtrue not show picture
-aplayer.xyz,bplayer.xyz#@##ads
-imgtrue.com#@#.ad-banner

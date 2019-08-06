@@ -1,7 +1,7 @@
 ! Title: Thai Annoyance Filter
 ! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups.
-! Version: 201908060616
-! Last modified: 06 Aug 2019 06:16 UTC
+! Version: 201908061342
+! Last modified: 06 Aug 2019 13:42 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -11,19 +11,6 @@
 !
 !-------------- annoyance_filters --------------
 
-!----- annoyance_filters/general_block.txt -----
-
-
-!----- annoyance_filters/thirdparty.txt -----
-
-
-!----- annoyance_filters/general_hide.txt -----
-
-
-!----- annoyance_filters/specific_block.txt -----
-||cdn.onesignal.com^$important,script,third-party
-||richinfo.co/js/$script,third-party
-
 !----- annoyance_filters/specific_hide.txt -----
 blognone.com###above_comments
 blognone.com###block-views-jobs-blognone-com-block
@@ -32,6 +19,19 @@ prachatai.com##.st-sticky-share-buttons
 prachatai.com##.support-pay
 blognone.com##div[class*="node sticky"]
 animeloli.com##header
+
+!----- annoyance_filters/thirdparty.txt -----
+
+
+!----- annoyance_filters/general_block.txt -----
+
+
+!----- annoyance_filters/specific_block.txt -----
+||cdn.onesignal.com^$important,script,third-party
+||richinfo.co/js/$script,third-party
+
+!----- annoyance_filters/general_hide.txt -----
+
 
 !----- annoyance_filters/whitelist.txt -----
 
