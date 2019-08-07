@@ -10,8 +10,8 @@ gg-anime.com###top-section center
 box-manga.com,king-anime.com,mangasubthai.com,mangath.co,mgsub.com##+js(abort-current-inline-script.js, click, window)
 box-manga.com,king-anime.com,mangasubthai.com,mangath.co,mgsub.com##+js(abort-current-inline-script.js, mousedown, window)
 anifume.com##+js(abort-on-property-write.js, a)
-flix-anime.com##+js(nofab.js)
 anime-live.com##+js(nano-setInterval-booster.js)
+flix-anime.com##+js(nofab.js)
 animedd.xyz##+js(setInterval-defuser.js, debugger)
 flix-anime.com##.active-mobile.kosana-container-m
 gg-anime.com##.entry-content > a > img
