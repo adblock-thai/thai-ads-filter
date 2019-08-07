@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201908061342
-! Last modified: 06 Aug 2019 13:42 UTC
+! Version: 201908070114
+! Last modified: 07 Aug 2019 01:14 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -315,8 +315,8 @@ gg-anime.com###top-section center
 box-manga.com,king-anime.com,mangasubthai.com,mangath.co,mgsub.com##+js(abort-current-inline-script.js, click, window)
 box-manga.com,king-anime.com,mangasubthai.com,mangath.co,mgsub.com##+js(abort-current-inline-script.js, mousedown, window)
 anifume.com##+js(abort-on-property-write.js, a)
-flix-anime.com##+js(fuckadblock.js-3.2.0)
 anime-live.com##+js(nano-setInterval-booster.js)
+flix-anime.com##+js(nofab.js)
 animedd.xyz##+js(setInterval-defuser.js, debugger)
 flix-anime.com##.active-mobile.kosana-container-m
 gg-anime.com##.entry-content > a > img
@@ -401,7 +401,7 @@ fifa55hot.net##a[target=_blank] > img
 
 !----- filters/category/common_hide.txt -----
 imgtrue.com###image_image-viewer_foot
-getlink-gotolink.blogspot.com##+js(fuckadblock.js-3.2.0)
+getlink-gotolink.blogspot.com##+js(nofab.js)
 pantip.com##.post-item a[href*="ads.pantip.com"]
 pantip.com##.post-item:has-text(PR News)
 imgtrue.com##a[target=_blank] > img.image-viewer-main
@@ -451,8 +451,8 @@ seriesfreeonline.com##+js(abort-on-property-write.js, adBlockDetected)
 nungnew-hd.com##+js(abort-on-property-write.js, atob)
 nungnew-hd.com##+js(addEventListener-defuser.js, mousedown)
 fanseries.co,kseries.tv##+js(addEventListener-defuser.js, mousedown, tabUnder)
-series-d.com##+js(fuckadblock.js-3.2.0)
 1080moviehd.com,baan-series.com,ioiwork.com,leoplayer1.com,movie1free.com,nungsub.com,series4you.com##+js(nano-setInterval-booster.js)
+series-d.com##+js(nofab.js)
 movie2free.com##+js(setInterval-defuser.js, f(), _blank)
 popuplayer.com##.adtt
 pannung.com,xn--82cf0aw7bf9jbc7a0nyb.com##.banner-header
