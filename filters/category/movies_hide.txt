@@ -14,7 +14,7 @@ seriesfreeonline.com##+js(abort-on-property-write.js, adBlockDetected)
 nungnew-hd.com##+js(abort-on-property-write.js, atob)
 nungnew-hd.com##+js(addEventListener-defuser.js, mousedown)
 fanseries.co,kseries.tv##+js(addEventListener-defuser.js, mousedown, tabUnder)
-series-d.com##+js(fuckadblock.js-3.2.0)
+series-d.com##+js(nofab.js)
 1080moviehd.com,baan-series.com,ioiwork.com,leoplayer1.com,movie1free.com,nungsub.com,series4you.com##+js(nano-setInterval-booster.js)
 movie2free.com##+js(setInterval-defuser.js, f(), _blank)
 popuplayer.com##.adtt

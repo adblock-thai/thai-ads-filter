@@ -1,5 +1,5 @@
 imgtrue.com###image_image-viewer_foot
-getlink-gotolink.blogspot.com##+js(fuckadblock.js-3.2.0)
+getlink-gotolink.blogspot.com##+js(nofab.js)
 pantip.com##.post-item a[href*="ads.pantip.com"]
 pantip.com##.post-item:has-text(PR News)
 imgtrue.com##a[target=_blank] > img.image-viewer-main
