@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201908070114
-! Last modified: 07 Aug 2019 01:14 UTC
+! Version: 201908070136
+! Last modified: 07 Aug 2019 01:36 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -230,23 +230,23 @@ popuplayer.com##+js(window.open-defuser.js)
 ||stygg.xyz^$popup,third-party
 
 !----- filters/general/thirdparty_block.txt -----
-||7mscorethai.com^$media,redirect=noopmp4-1s,third-party
-||bannung.com^$media,redirect=noopmp4-1s,third-party
-||cdn.digitaloceanspaces.com/dreamgame88.mp4$media,redirect=noopmp4-1s,third-party
-||cdn.sexygame66.com^$media,redirect=noopmp4-1s,third-party
-||foxwood168.com^$media,redirect=noopmp4-1s,third-party
+||7mscorethai.com^$media,redirect=noop-1s.mp4,third-party
+||bannung.com^$media,redirect=noop-1s.mp4,third-party
+||cdn.digitaloceanspaces.com/dreamgame88.mp4$media,redirect=noop-1s.mp4,third-party
+||cdn.sexygame66.com^$media,redirect=noop-1s.mp4,third-party
+||foxwood168.com^$media,redirect=noop-1s.mp4,third-party
 ||ft99.b-cdn.net^$third-party
 ||gclub4you.*.cdn.digitaloceanspaces.com^$third-party
 ||get4u.net^$image,third-party
-||goalclub.tv^$media,redirect=noopmp4-1s,third-party
+||goalclub.tv^$media,redirect=noop-1s.mp4,third-party
 ||sagame36.com^$third-party
-||sagame66.com^$media,redirect=noopmp4-1s,third-party
-||sagame88cdn.com^$media,redirect=noopmp4-1s,third-party
-||scg511.com^$media,redirect=noopmp4-1s,third-party
-||seriespop.com/adsvideo/$media,redirect=noopmp4-1s
-||stream.cpssnn.site/ads.mp4$media,redirect=noopmp4-1s
-||ufa191.com^$media,redirect=noopmp4-1s,third-party
-||ufabet678.com^$media,redirect=noopmp4-1s,third-party
+||sagame66.com^$media,redirect=noop-1s.mp4,third-party
+||sagame88cdn.com^$media,redirect=noop-1s.mp4,third-party
+||scg511.com^$media,redirect=noop-1s.mp4,third-party
+||seriespop.com/adsvideo/$media,redirect=noop-1s.mp4
+||stream.cpssnn.site/ads.mp4$media,redirect=noop-1s.mp4
+||ufa191.com^$media,redirect=noop-1s.mp4,third-party
+||ufabet678.com^$media,redirect=noop-1s.mp4,third-party
 
 !----- filters/general/general_hide.txt -----
 ###ads
@@ -345,11 +345,11 @@ do-anime.com##img[alt=macau8889]
 ||*.svg$image,domain=movie2free.com
 ||*.webp$image,domain=new-mastermovie.com
 ||adintrend.tv/images/banner/*
-||cdn.watchlakorn.in/vod/$media,redirect=noopmp4-1s
+||cdn.watchlakorn.in/vod/$media,redirect=noop-1s.mp4
 ||doofreeseries.com/vdo/
 ||doonung-hd.com/wp-content/play/video11.mp4
-||i.imgur.com^$media,redirect=noopmp4-1s,third-party,domain=nungsub.com
-||kseries.tv/clip/LoadingCircleYouTube.mp4$media,redirect=noopmp4-1s
+||i.imgur.com^$media,redirect=noop-1s.mp4,third-party,domain=nungsub.com
+||kseries.tv/clip/LoadingCircleYouTube.mp4$media,redirect=noop-1s.mp4
 ||ksubtv.net/wp-content/plugins/ultimate-popunder/$script
 ||series-nanime.com/adsvideo^
 
@@ -430,7 +430,7 @@ newstawan.com##img[src*="/ads"]
 
 !----- filters/category/anime_block.txt -----
 ||*.gif$image,domain=am4th.com|anime-hayai.com|anime-live.com|anime-sugoi.com|animedd.xyz|animeloli.com|animesubthai.com|gg-anime.com|kumaanime.com|lnwanime.com|merlin-anime.com|mio-anime.com|nano-anime.com|nico-anime.com|xn--b3ctpu7b6c4a1a.com
-||flix-anime.com/vast/$media,redirect=noopmp4-1s
+||flix-anime.com/vast/$media,redirect=noop-1s.mp4
 ||opuree.com/*/detector$script
 ||stream.marimo.me/marimo/video$third-party,domain=animeloli.com
 
