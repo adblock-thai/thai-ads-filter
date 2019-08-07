@@ -64,12 +64,12 @@ KNOWNOPTIONS = ("collapse", "csp", "document", "elemhide",
                 "font", "genericblock", "generichide", "image", "match-case",
                 "object", "media", "object-subrequest", "other", "ping", "popup",
                 "script", "stylesheet", "subdocument", "third-party", "first-party",
-                "websocket", "webrtc", "xmlhttprequest", "important", "redirect=googletagmanager.com/gtm.js",
-                "redirect=google-analytics.com/ga.js", "redirect=google-analytics.com/analytics.js", "redirect=googletagservices.com/gpt.js",
-                "redirect=google-analytics.com/cx/api.js", "redirect=googlesyndication.com/adsbygoogle.js", "redirect=doubleclick.net/instream/ad_status.js",
-                "redirect=ampproject.org/v0.js", "redirect=noopjs", "redirect=noopcss", "redirect=noopframe", "redirect=nooptext",
-                "redirect=noopmp3-0.1s", "redirect=noopmp4-1s", "redirect=1x1-transparent.gif", "redirect=2x2-transparent.png",
-                "redirect=3x2-transparent.png", "redirect=32x32-transparent.png", "1p", "3p", "inline-script", "xhr")
+                "websocket", "webrtc", "xmlhttprequest", "important", "redirect=googletagmanager_gtm.js",
+                "redirect=google-analytics_ga.js", "redirect=google-analytics_analytics.js", "redirect=googletagservices_gpt.js",
+                "redirect=google-analytics_cx_api.js", "redirect=googlesyndication_adsbygoogle.js", "redirect=doubleclick_instream_ad_status.js",
+                "redirect=ampproject_v0.js", "redirect=noop.js", "redirect=noop.html", "redirect=noop.txt",
+                "redirect=noop-0.1s.mp3", "redirect=noop-1s.mp4", "redirect=1x1.gif", "redirect=2x2.png",
+                "redirect=3x2.png", "redirect=32x32.png", "1p", "3p", "inline-script", "xhr")
 
 # List the supported revision control system commands
 REPODEF = collections.namedtuple("repodef", "name, directory, locationoption, repodirectoryoption, checkchanges, difference, commit, pull, push")
