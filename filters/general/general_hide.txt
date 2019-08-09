@@ -40,6 +40,7 @@
 ##.img-kosana
 ##.imgbanner
 ##.inline-ads-box
+##.media-popup-container
 ##.mid_ads
 ##.post-pick-ads
 ##.text-center-ads

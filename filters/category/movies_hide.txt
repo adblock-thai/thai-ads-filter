@@ -27,7 +27,6 @@ series-d.com##.kosana-banner
 series-d.com##.kosana-container
 movie2z.com##.mainbtn img
 fanseriesthaisub.com##.margin-banner
-movie1free.com##.media-popup-container
 movie2free.com##.notice > div
 movie2free.com##.notice > h2
 nungnew-hd.com##.sp-no-webp.img-responsive
