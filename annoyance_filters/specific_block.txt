@@ -1,2 +1,3 @@
 ||cdn.onesignal.com^$important,script,third-party
+||mailchimp.com/js/signup-forms/popup/*$script,third-party
 ||richinfo.co/js/$script,third-party
