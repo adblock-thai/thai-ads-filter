@@ -1,7 +1,7 @@
 ! Title: Thai Annoyance Filter
 ! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups.
-! Version: 201908100841
-! Last modified: 10 Aug 2019 08:41 UTC
+! Version: 201908101550
+! Last modified: 10 Aug 2019 15:50 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -24,10 +24,11 @@ animeloli.com##header
 
 
 !----- annoyance_filters/general_block.txt -----
-
+itro-popup/scripts/itro-scripts.js$first-party,script
 
 !----- annoyance_filters/specific_block.txt -----
 ||cdn.onesignal.com^$important,script,third-party
+||mailchimp.com/js/signup-forms/popup/*$script,third-party
 ||richinfo.co/js/$script,third-party
 
 !----- annoyance_filters/general_hide.txt -----
