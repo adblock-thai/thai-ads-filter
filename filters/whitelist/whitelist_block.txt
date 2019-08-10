@@ -1,5 +1,5 @@
 @@||037hdd.com/wp-content/themes/037HD.COM/images/nav-bullet-hov.gif
 @@||gplay.sine.tv/embed/
 @@||lnwplayer.com^$generichide
-@@||movie2free.com/wp-content/themes/next/images/nav-bullet.gif
+@@||movie2free.com/wp-content/themes/next/images/nav-bullet*.gif
 @@||viu.com/ott/*/tracking/
