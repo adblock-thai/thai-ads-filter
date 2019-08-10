@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201908100436
-! Last modified: 10 Aug 2019 04:36 UTC
+! Version: 201908100500
+! Last modified: 10 Aug 2019 05:00 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -344,9 +344,9 @@ opuree.com##html:style(overflow: auto !important;)
 do-anime.com##img[alt=macau8889]
 
 !----- filters/category/movies_block.txt -----
-||*.gif$image,domain=037hdd.com|1080moviehd.com|2youhd.net|baan-series.com|doofreeseries.com|doonungdee.online|imovie-hd.com|movie1free.com|movie2free.com|movie2thai.com|movie8free.com|new-mastermovie.com|owlseries.com|series-nanime.com|series4you.com|seriesclubs.com|superseriesthai.com|tvseriesclub.com
-||*.svg$image,domain=movie2free.com
-||*.webp$image,domain=new-mastermovie.com
+*.gif$image,redirect=1x1.gif,domain=037hdd.com|1080moviehd.com|2youhd.net|baan-series.com|doofreeseries.com|doonungdee.online|imovie-hd.com|movie1free.com|movie2free.com|movie2thai.com|movie8free.com|new-mastermovie.com|owlseries.com|series-nanime.com|series4you.com|seriesclubs.com|superseriesthai.com|tvseriesclub.com
+*.svg$image,redirect=1x1.gif,domain=movie2free.com
+*.webp$image,redirect=1x1.gif,domain=new-mastermovie.com
 ||adintrend.tv/images/banner/*
 ||cdn.watchlakorn.in/vod/$media,redirect=noop-1s.mp4
 ||doofreeseries.com/vdo/
@@ -432,7 +432,7 @@ newstawan.com##img[src*="/ads"]
 
 
 !----- filters/category/anime_block.txt -----
-||*.gif$image,domain=am4th.com|anime-hayai.com|anime-live.com|anime-sugoi.com|animedd.xyz|animeloli.com|animesubthai.com|gg-anime.com|kumaanime.com|lnwanime.com|merlin-anime.com|mio-anime.com|nano-anime.com|nico-anime.com|xn--b3ctpu7b6c4a1a.com
+*.gif$image,redirect=1x1.gif,domain=am4th.com|anime-hayai.com|anime-live.com|anime-sugoi.com|animedd.xyz|animeloli.com|animesubthai.com|gg-anime.com|kumaanime.com|lnwanime.com|merlin-anime.com|mio-anime.com|nano-anime.com|newb-anime.com|nico-anime.com|xn--b3ctpu7b6c4a1a.com
 ||flix-anime.com/vast/$media,redirect=noop-1s.mp4
 ||opuree.com/*/detector$script
 ||stream.marimo.me/marimo/video$third-party,domain=animeloli.com
