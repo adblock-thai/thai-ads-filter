@@ -1,1 +1,1 @@
-aplayer.xyz,bplayer.xyz,popuplayer.com##+js(window.open-defuser.js)
+aplayer.xyz,bplayer.xyz,ohplayer.live,popuplayer.com##+js(window.open-defuser.js)
