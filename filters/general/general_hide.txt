@@ -34,6 +34,7 @@
 ##.banner_h
 ##.bireklam
 ##.boxads
+##.bumq
 ##.img-ads
 ##.img-ads2
 ##.img-bt-ads
