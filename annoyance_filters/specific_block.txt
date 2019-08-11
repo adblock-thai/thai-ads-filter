@@ -1,3 +1,4 @@
+||blogspot.com/*/LOGO-1-utaseries.co.png$image,redirect=1x1.gif
 ||cdn.onesignal.com^$important,script,third-party
 ||mailchimp.com/js/signup-forms/popup/*$script,third-party
 ||richinfo.co/js/$script,third-party
