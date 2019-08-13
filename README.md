@@ -10,13 +10,19 @@
 
 ## :page_facing_up: Available lists
 
-| List                          | Description                                                             |
-|:------------------------------|:------------------------------------------------------------------------|
-**[Thai Ads Filters](https://adblock-thai.github.io/thai-ads-filter/subscription.txt)** ([Subscribe][Thai Ads Filter Subscribe]) | A filter for [uBO](https://github.com/gorhill/uBlock) that aims to remove regional Thai ads, tracking, scams + badware. |
-**[Thai Annoyance Filters](https://adblock-thai.github.io/thai-ads-filter/annoyance.txt)** ([Subscribe][Thai Annoyance Filter Subscribe]) | A filter that aims to remove annoyances and unnecessary bloat. |
+| List | Description  | Suitable |
+|:---------:|:-------------:|:--------:|
+**[Thai Ads Filters](https://adblock-thai.github.io/thai-ads-filter/subscription.txt)** ([Subscribe][Thai Ads Filter Subscribe]) | A filter for [uBO](https://github.com/gorhill/uBlock) that aims to remove regional Thai ads, tracking, scams and badware. | ![uBO][uBO] ![NANO][NANO]
+**[Thai Annoyance Filters](https://adblock-thai.github.io/thai-ads-filter/annoyance.txt)** ([Subscribe][Thai Annoyance Filter Subscribe]) | A filter that aims to remove annoyances and unnecessary bloat. | ![uBO][uBO] ![NANO][NANO]
 
 [Thai Ads Filter Subscribe]: https://subscribe.adblockplus.org/?location=https://adblock-thai.github.io/thai-ads-filter/subscription.txt&amp;title=Thai%20Adblock%20List
 [Thai Annoyance Filter Subscribe]: https://subscribe.adblockplus.org/?location=https://adblock-thai.github.io/thai-ads-filter/annoyance.txt&amp;title=Thai%20Annoyances%20List
+
+[uBO]: https://adblock-thai.github.io/adblock_logo/ublock.png
+[AG]: https://adblock-thai.github.io/adblock_logo/adguard_new.png
+[ADB]: https://adblock-thai.github.io/adblock_logo/adblock.png
+[ABP]: https://adblock-thai.github.io/adblock_logo/adblock_plus.png
+[NANO]: https://adblock-thai.github.io/adblock_logo/nano.png
 
 ## 🛠 Installation
 
