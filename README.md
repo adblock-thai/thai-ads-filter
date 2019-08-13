@@ -34,6 +34,7 @@
 
 ## 📝 Useful documents
 
+- [uBO wiki](https://github.com/gorhill/uBlock/wiki)
 - [uBlock's network filtering engine](https://github.com/gorhill/uBlock/wiki/Overview-of-uBlock's-network-filtering-engine)
 - [uBO Resources Library](https://github.com/gorhill/uBlock/wiki/Resources-Library)
 - [uBO Static filter syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax)
