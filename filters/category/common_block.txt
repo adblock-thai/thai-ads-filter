@@ -1,3 +1,4 @@
+shrtfly*.js$script,third-party,domain=mawtoload.com
 ||isanook.com/*/ads$xmlhttprequest
 ||isanook.com/*/beacon$script
 ||kapook.com/*/track$script
