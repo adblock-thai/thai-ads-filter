@@ -1,4 +1,5 @@
 ||cdn.pushcrew.com/js/$third-party
+||global-nvapis.line.me/videostat/videostat/qoe
 ||histat.com
 ||stat.in.th^
 ||truehits.net^
