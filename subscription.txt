@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201908140620
-! Last modified: 14 Aug 2019 06:20 UTC
+! Version: 201908140641
+! Last modified: 14 Aug 2019 06:41 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -363,6 +363,7 @@ do-anime.com##img[alt=macau8889]
 
 
 !----- filters/category/common_block.txt -----
+shrtfly*.js$script,third-party,domain=mawtoload.com
 ||isanook.com/*/ads$xmlhttprequest
 ||isanook.com/*/beacon$script
 ||kapook.com/*/track$script
