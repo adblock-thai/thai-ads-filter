@@ -7,6 +7,7 @@
 ||ft99.b-cdn.net^$third-party
 ||gclub4you.*.cdn.digitaloceanspaces.com^$third-party
 ||get4u.net^$image,third-party
+||goalclub.live^$media,redirect=noop-1s.mp4,third-party
 ||goalclub.tv^$media,redirect=noop-1s.mp4,third-party
 ||pinkqx.co/scg9*$media,redirect=noop-1s.mp4,third-party
 ||sagame36.com^$third-party
