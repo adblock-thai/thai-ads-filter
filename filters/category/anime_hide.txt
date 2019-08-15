@@ -8,7 +8,7 @@ a-tsuki.net###player_inzad
 niceoppai.net###text-33
 gg-anime.com###top-section center
 anifume.com##+js(abort-on-property-write.js, a)
-box-manga.com,king-anime.com,mangasubthai.com,mangath.co,mgsub.com##+js(addEventListener-defuser.js, click)
+box-manga.com,mangasubthai.com,mangath.co,mgsub.com##+js(addEventListener-defuser.js, click)
 box-manga.com,king-anime.com,mangasubthai.com,mangath.co,mgsub.com##+js(addEventListener-defuser.js, mousedown)
 anime-live.com##+js(nano-setInterval-booster.js)
 flix-anime.com##+js(nofab.js)
