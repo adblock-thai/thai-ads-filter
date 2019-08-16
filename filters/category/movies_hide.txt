@@ -22,6 +22,7 @@ pannung.com,xn--82cf0aw7bf9jbc7a0nyb.com##.banner-header
 037hdd.com##.bireklam
 bugaboo.tv##.bp-survey-overlay
 nungsub.com,pannung.com##.custom-html-widget.textwidget
+2youhd.net##.filmborder:style(height:unset !important;)
 series-d.com##.imgkosana
 series-d.com##.kosana-banner
 series-d.com##.kosana-container
