@@ -169,6 +169,7 @@
 ||truehits.in.th$third-party
 ||truehits.net$third-party
 ||tynt.com
+||umusjdiehxbn.com
 ||user-api.com
 ||user-clicks.com
 ||user-red.com
