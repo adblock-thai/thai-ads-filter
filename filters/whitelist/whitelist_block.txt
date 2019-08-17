@@ -1,4 +1,5 @@
 @@||037hdd.com/wp-content/themes/037HD.COM/images/nav-bullet-hov.gif
+@@||content.jwplatform.com/libraries/$script,domain=zone-anime.net
 @@||gplay.sine.tv/embed/
 @@||lnwplayer.com^$generichide
 @@||movie2free.com/wp-content/themes/next/images/nav-bullet*.gif
