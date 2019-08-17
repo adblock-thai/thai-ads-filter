@@ -1,4 +1,4 @@
-||*.gif$image,domain=am4th.com|anime-hayai.com|anime-live.com|anime-sugoi.com|animedd.xyz|animeloli.com|animesubthai.com|gg-anime.com|kumaanime.com|lnwanime.com|merlin-anime.com|mio-anime.com|nano-anime.com|newb-anime.com|nico-anime.com|xn--b3ctpu7b6c4a1a.com
+||*.gif$image,domain=am4th.com|anime-hayai.com|anime-live.com|anime-sugoi.com|animedd.xyz|animeloli.com|animesubthai.com|do-anime.com|gg-anime.com|kumaanime.com|lnwanime.com|merlin-anime.com|mio-anime.com|nano-anime.com|newb-anime.com|nico-anime.com|xn--b3ctpu7b6c4a1a.com
 ||flix-anime.com/vast/$media,redirect=noop-1s.mp4
 ||love-anime.com/**/vast*.js$script
 ||opuree.com/*/detector$script
