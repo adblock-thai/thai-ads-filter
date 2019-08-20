@@ -36,6 +36,7 @@ seriesclub-th.com##.td-header-rec-wrap
 seriesclubs.com##.twy-pubadban
 superseriesthai.com##a > img.img-fluid
 fanseriesthaisub.com##a > img.w-100
+037hdd.com##a > img[src*=".gif"]
 nungnew-hd.com##a[href*=pegloang]
 nungsub.com##a[rel*=nofollow] > div[class*=img]
 1080moviehd.com,2youhd.net,2youhdd.com,doo4k.com,movie2free.com,movie2freeth.com,movie2freevip.com,moviedoofee.com,newmovie-4k.com,nunglnw.com,nungnew-hd.com,nungsub.com,seriespop.com,sine.tv,utaseries.com##a[rel*=nofollow] > img
