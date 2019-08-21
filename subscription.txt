@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201908210357
-! Last modified: 21 Aug 2019 03:57 UTC
+! Version: 201908211409
+! Last modified: 21 Aug 2019 14:09 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -469,6 +469,7 @@ fanseries.co,kseries.tv##+js(addEventListener-defuser.js, mousedown, tabUnder)
 1080moviehd.com,baan-series.com,ioiwork.com,leoplayer1.com,movie1free.com,nungsub.com,series4you.com##+js(nano-setInterval-booster.js)
 series-d.com##+js(nofab.js)
 movie2free.com##+js(setInterval-defuser.js, f(), _blank)
+nung2hd.com##+js(window.open-defuser.js)
 popuplayer.com##.adtt
 pannung.com,xn--82cf0aw7bf9jbc7a0nyb.com##.banner-header
 037hdd.com##.bireklam
