@@ -2,6 +2,8 @@
 ||cdn.pushcrew.com/js/$third-party
 ||global-nvapis.line.me/videostat/videostat/qoe
 ||histat.com
+||maepeng.com/api/v1/Ms/ptk
+||stat.bugaboo.tv
 ||stat.in.th^
 ||truehits.net^
 ||trustmarkthai.com/callbackData/$third-party
