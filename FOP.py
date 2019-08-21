@@ -23,8 +23,8 @@ import collections, filecmp, os, re, subprocess, sys
 import argparse
 
 ap = argparse.ArgumentParser()
-ap.add_argument('--dir', nargs='+', help='Set directories', default=None)
-ap.add_argument('--commit', help='Enable commit mode', action='store_true', default=False)
+ap.add_argument('--dir', '-d', nargs='+', help='Set directories', default=None)
+ap.add_argument('--commit', '-c', help='Enable commit mode', action='store_true', default=False)
 arg = ap.parse_args()
 
 # Check the version of Python for language compatibility and subprocess.check_output()
