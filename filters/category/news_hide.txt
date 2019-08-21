@@ -2,6 +2,7 @@ thethaiger.com###pop-overlay
 newstawan.com###sgpb-popup-dialog-main-div
 thairath.co.th##.show.modal
 thairath.co.th##.show.modal-backdrop
+voicetv.co.th##.sticky_bottom
 khaophuket.com##a[href^=banner_stat]
 siamblockchain.com##article.ads
 thairath.co.th##html:style(overflow: auto !important;)
