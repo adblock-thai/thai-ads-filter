@@ -1,5 +1,6 @@
 ##a[href*="77up.bet"] > img
 ##a[href*="awz.bz/ads/"] > img
+##a[href*="bit.ly/Pro55slot"] > img
 ##a[href*="bx.in.th/ref/"] > img
 ##a[href*="dreamgame88.com"] > img
 ##a[href*="mobilesitexxx.com"] > img
