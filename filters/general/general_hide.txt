@@ -9,6 +9,7 @@
 ###hilight-ads
 ###overlay_ads
 ###sct_top_banner
+###sms-popup
 ###yengo-inline-ads
 ##.ad-box
 ##.ad-box-widget
