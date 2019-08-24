@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201908241814
-! Last modified: 24 Aug 2019 18:14 UTC
+! Version: 201908241817
+! Last modified: 24 Aug 2019 18:17 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -271,6 +271,7 @@ player/plugins/vast-*.js$script
 ###hilight-ads
 ###overlay_ads
 ###sct_top_banner
+###sms-popup
 ###yengo-inline-ads
 ##.ad-box
 ##.ad-box-widget
@@ -521,7 +522,7 @@ gggcomputer.com##img[src*="banner"]
 ||shopeemobile.com/th/tr$xmlhttprequest
 
 !----- filters/category/adult_block.txt -----
-||*.gif$image,domain=cherry-porn.com|xn--72c9ah5dd7a5a9g5c.com|xxx5porn.com|xxxpostpic.org
+||*.gif$image,domain=cherry-porn.com|nadyed.com|xn--72c9ah5dd7a5a9g5c.com|xxx5porn.com|xxxpostpic.org
 ||postbydnx.com/bn/*
 
 !----- filters/whitelist/whitelist_hide.txt -----
