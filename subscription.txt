@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201908211413
-! Last modified: 21 Aug 2019 14:13 UTC
+! Version: 201908240214
+! Last modified: 24 Aug 2019 02:14 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -204,6 +204,7 @@
 !----- filters/general/banner_hide.txt -----
 ##a[href*="77up.bet"] > img
 ##a[href*="awz.bz/ads/"] > img
+##a[href*="bit.ly/Pro55slot"] > img
 ##a[href*="bx.in.th/ref/"] > img
 ##a[href*="dreamgame88.com"] > img
 ##a[href*="mobilesitexxx.com"] > img
@@ -414,12 +415,11 @@ fifa55hot.net##a[target=_blank] > img
 ||notebookspec.com/*/nbs_custom_ads.php$xmlhttprequest
 
 !----- filters/category/common_hide.txt -----
-imgtrue.com###image_image-viewer_foot
 getlink-gotolink.blogspot.com##+js(nofab.js)
+imgtrue.com##.ad-banner
+magnetolabs.com##.cp-popup-content
 pantip.com##.post-item a[href*="ads.pantip.com"]
 pantip.com##.post-item:has-text(PR News)
-imgtrue.com##a[target=_blank] > img.image-viewer-main
-imgtrue.com##cloudflare-app[app=flashcard]
 pantip.com##td > a[href*="ads.pantip.com"]
 
 !----- filters/category/shop_hide.txt -----
@@ -521,9 +521,7 @@ gggcomputer.com##img[src*="banner"]
 
 
 !----- filters/whitelist/whitelist_hide.txt -----
-! imgtrue not show picture
 aplayer.xyz,bplayer.xyz#@##ads
-imgtrue.com#@#.ad-banner
 
 !----- filters/whitelist/whitelist_block.txt -----
 @@||037hdd.com/wp-content/themes/037HD.COM/images/nav-bullet-hov.gif
