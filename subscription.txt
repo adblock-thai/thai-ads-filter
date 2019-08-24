@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201908241756
-! Last modified: 24 Aug 2019 17:56 UTC
+! Version: 201908241805
+! Last modified: 24 Aug 2019 18:05 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -396,7 +396,7 @@ taradxxx.com###getFixed
 taradxxx.com###getFixedx
 taradxxx.com##.gosad
 cherry-porn.com##.textwidget
-postbydnx.com,xn--l3c1a0a3b1c1b.com##a > img[src*=".gif"]
+asiannudepic.com,postbydnx.com,xn--l3c1a0a3b1c1b.com##a > img[src*=".gif"]
 xxxpostpic.org##a[rel^=nofollow] > img
 
 !----- filters/category/sport_hide.txt -----
@@ -521,6 +521,7 @@ gggcomputer.com##img[src*="banner"]
 ||shopeemobile.com/th/tr$xmlhttprequest
 
 !----- filters/category/adult_block.txt -----
+||*.gif$image,domain=cherry-porn.com
 ||postbydnx.com/bn/*
 
 !----- filters/whitelist/whitelist_hide.txt -----
