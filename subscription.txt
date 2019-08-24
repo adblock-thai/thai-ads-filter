@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201908241544
-! Last modified: 24 Aug 2019 15:44 UTC
+! Version: 201908241627
+! Last modified: 24 Aug 2019 16:27 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -126,6 +126,8 @@
 ||oilchange.website
 ||onclasrv.com
 ||onclickads.net
+||openx.*$first-party
+||openx.*$third-party
 ||openxmarket.asia
 ||padsdel.com
 ||padstm.com
@@ -161,7 +163,6 @@
 ||serving-sys.com
 ||shinobi.jp
 ||simba-digital.com
-||smemove.com
 ||socdm.com
 ||srf.ais.co.th
 ||ssnn.site^$third-party
