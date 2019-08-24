@@ -2,4 +2,5 @@ taradxxx.com###getFixed
 taradxxx.com###getFixedx
 taradxxx.com##.gosad
 cherry-porn.com##.textwidget
+xn--l3c1a0a3b1c1b.com##a > img[src*=".gif"]
 xxxpostpic.org##a[rel^=nofollow] > img
