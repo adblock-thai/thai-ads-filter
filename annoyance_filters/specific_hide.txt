@@ -1,5 +1,6 @@
 blognone.com###above_comments
 blognone.com###block-views-jobs-blognone-com-block
+mello.me###cookie_policy
 music.siamza.com###fanback
 sudsapda.com###share-buttons
 posttoday.com##.enews-notice
