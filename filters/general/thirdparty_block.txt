@@ -1,5 +1,6 @@
 ||7mscorethai.com^$media,redirect=noop-1s.mp4,third-party
 ||bannung.com^$media,redirect=noop-1s.mp4,third-party
+||baover.ml^$media,redirect=noop-1s.mp4,third-party
 ||cdn.digitaloceanspaces.com/dreamgame88.mp4$media,redirect=noop-1s.mp4,third-party
 ||cdn.sexygame66.com^$media,redirect=noop-1s.mp4,third-party
 ||cornerhd.com^$media,redirect=noop-1s.mp4,third-party
