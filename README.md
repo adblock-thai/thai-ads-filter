@@ -36,14 +36,19 @@ Thai Annoyance Filters | A filter that aims to remove annoyances and unnecessary
 
 ## 📝 Useful documents
 
-- [uBO wiki](https://github.com/gorhill/uBlock/wiki)
-- [uBlock's network filtering engine](https://github.com/gorhill/uBlock/wiki/Overview-of-uBlock's-network-filtering-engine)
-- [uBO Resources Library](https://github.com/gorhill/uBlock/wiki/Resources-Library)
-- [uBO Static filter syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax)
-- [NanoAdblocker Resources](https://github.com/NanoAdblocker/NanoFilters/blob/master/NanoFiltersSource/NanoResources.txt)
-- [ABP filter syntax](https://help.eyeo.com/en/adblockplus/how-to-write-filters)
-- [ABP cheatsheet](https://adblockplus.org/filter-cheatsheet)
-- [Exception rules](https://help.eyeo.com/en/adblockplus/how-to-write-filters#elemhide_exceptions)
+- uBlock Origin
+  - [uBO wiki](https://github.com/gorhill/uBlock/wiki)
+  - [uBlock's network filtering engine](https://github.com/gorhill/uBlock/wiki/Overview-of-uBlock's-network-filtering-engine)
+  - [uBO Resources Library](https://github.com/gorhill/uBlock/wiki/Resources-Library)
+  - [uBO Static filter syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax)
+- Nano Adblocker
+  - [NanoAdblocker Resources](https://github.com/NanoAdblocker/NanoFilters/blob/master/NanoFiltersSource/NanoResources.txt)
+- Adblock Plus
+  - [ABP filter syntax](https://help.eyeo.com/en/adblockplus/how-to-write-filters)
+  - [ABP cheatsheet](https://adblockplus.org/filter-cheatsheet)
+  - [Exception rules](https://help.eyeo.com/en/adblockplus/how-to-write-filters#elemhide_exceptions)
+- Adguard
+  - [Adguard filter syntax](https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters)
 
 ## Contributors ✨
 
