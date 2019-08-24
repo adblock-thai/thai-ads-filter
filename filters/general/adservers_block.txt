@@ -112,6 +112,8 @@
 ||oilchange.website
 ||onclasrv.com
 ||onclickads.net
+||openx.*$first-party
+||openx.*$third-party
 ||openxmarket.asia
 ||padsdel.com
 ||padstm.com
@@ -147,7 +149,6 @@
 ||serving-sys.com
 ||shinobi.jp
 ||simba-digital.com
-||smemove.com
 ||socdm.com
 ||srf.ais.co.th
 ||ssnn.site^$third-party
