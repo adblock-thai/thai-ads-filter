@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201908240217
-! Last modified: 24 Aug 2019 02:17 UTC
+! Version: 201908241458
+! Last modified: 24 Aug 2019 14:58 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -234,6 +234,7 @@ deblocker/js/
 !----- filters/general/thirdparty_block.txt -----
 ||7mscorethai.com^$media,redirect=noop-1s.mp4,third-party
 ||bannung.com^$media,redirect=noop-1s.mp4,third-party
+||baover.ml^$media,redirect=noop-1s.mp4,third-party
 ||cdn.digitaloceanspaces.com/dreamgame88.mp4$media,redirect=noop-1s.mp4,third-party
 ||cdn.sexygame66.com^$media,redirect=noop-1s.mp4,third-party
 ||cornerhd.com^$media,redirect=noop-1s.mp4,third-party
