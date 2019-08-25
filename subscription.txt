@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201908241822
-! Last modified: 24 Aug 2019 18:22 UTC
+! Version: 201908250954
+! Last modified: 25 Aug 2019 09:54 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -313,6 +313,7 @@ player/plugins/vast-*.js$script
 !----- filters/general/track_block.txt -----
 ||byteark.com/api/v*/batch/events$third-party
 ||cdn.pushcrew.com/js/$third-party
+||collect.blishtech.co
 ||global-nvapis.line.me/videostat/videostat/qoe
 ||histat.com
 ||maepeng.com/api/v1/Ms/ptk
