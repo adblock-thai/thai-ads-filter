@@ -1,5 +1,6 @@
 ||byteark.com/api/v*/batch/events$third-party
 ||cdn.pushcrew.com/js/$third-party
+||collect.blishtech.co
 ||global-nvapis.line.me/videostat/videostat/qoe
 ||histat.com
 ||maepeng.com/api/v1/Ms/ptk
