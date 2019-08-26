@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201908250954
-! Last modified: 25 Aug 2019 09:54 UTC
+! Version: 201908260132
+! Last modified: 26 Aug 2019 01:32 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -513,6 +513,7 @@ seriesfreeonline.com##html:style(overflow: auto !important;)
 
 !----- filters/category/tech_hide.txt -----
 windowssiam.com##.jinda-wrapper
+overclockzone.com##.sticky_bottom:has(.ads-sticky-bottom)
 mxphone.com##.widget_mxphone_dtac_widget
 gggcomputer.com##img[src*="banner"]
 
