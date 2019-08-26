@@ -59,17 +59,30 @@ COMMITPATTERN = re.compile(r"^(A|M|P)\:\s(\((.+)\)\s)?(.*)$")
 # List the files that should not be sorted, either because they have a special sorting system or because they are not filter files
 IGNORE = ("output", "requirements.txt", "templates", "node_modules")
 
-# List all Adblock Plus options (excepting domain, which is handled separately), as of version 1.3.9
+# List all uBO options (excepting domain, which is handled separately), as of version 1.21.9b7
+# https://github.com/gorhill/uBlock/wiki/Resources-Library
 KNOWNOPTIONS = ("collapse", "csp", "document", "elemhide",
                 "font", "genericblock", "generichide", "image", "match-case",
                 "object", "media", "object-subrequest", "other", "ping", "popup",
                 "script", "stylesheet", "subdocument", "third-party", "first-party",
-                "websocket", "webrtc", "xmlhttprequest", "important", "redirect=googletagmanager_gtm.js",
+                "1p", "3p", "inline-script", "xhr", "websocket", "webrtc", "xmlhttprequest", "important",
+                "redirect=googletagmanager_gtm.js",
                 "redirect=google-analytics_ga.js", "redirect=google-analytics_analytics.js", "redirect=googletagservices_gpt.js",
                 "redirect=google-analytics_cx_api.js", "redirect=googlesyndication_adsbygoogle.js", "redirect=doubleclick_instream_ad_status.js",
                 "redirect=ampproject_v0.js", "redirect=noop.js", "redirect=noop.html", "redirect=noop.txt",
                 "redirect=noop-0.1s.mp3", "redirect=noop-1s.mp4", "redirect=1x1.gif", "redirect=2x2.png",
-                "redirect=3x2.png", "redirect=32x32.png", "1p", "3p", "inline-script", "xhr")
+                "redirect=3x2.png", "redirect=32x32.png",
+                # redirect-rule= This new option allows to create a pure redirect directive, without a corresponding block filter
+                # https://github.com/gorhill/uBlock/releases/tag/1.21.9b7
+                "redirect-rule=googletagmanager_gtm.js",
+                "redirect-rule=google-analytics_ga.js", "redirect-rule=google-analytics_analytics.js", "redirect-rule=googletagservices_gpt.js",
+                "redirect-rule=google-analytics_cx_api.js", "redirect-rule=googlesyndication_adsbygoogle.js", "redirect-rule=doubleclick_instream_ad_status.js",
+                "redirect-rule=ampproject_v0.js", "redirect-rule=noop.js", "redirect-rule=noop.html", "redirect-rule=noop.txt",
+                "redirect-rule=noop-0.1s.mp3", "redirect-rule=noop-1s.mp4", "redirect-rule=1x1.gif", "redirect-rule=2x2.png",
+                "redirect-rule=3x2.png", "redirect-rule=32x32.png",
+                # Support for AdGuard's empty and mp4 filter https://github.com/gorhill/uBlock/releases/tag/1.21.9b7
+                "empty", "mp4",
+                )
 
 # List the supported revision control system commands
 REPODEF = collections.namedtuple("repodef", "name, directory, locationoption, repodirectoryoption, checkchanges, difference, commit, pull, push")
