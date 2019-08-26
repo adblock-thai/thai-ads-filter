@@ -1,3 +1,4 @@
 windowssiam.com##.jinda-wrapper
+overclockzone.com##.sticky_bottom:has(.ads-sticky-bottom)
 mxphone.com##.widget_mxphone_dtac_widget
 gggcomputer.com##img[src*="banner"]
