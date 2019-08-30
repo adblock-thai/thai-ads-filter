@@ -14,7 +14,7 @@ seriesfreeonline.com##+js(abort-on-property-write.js, adBlockDetected)
 nungnew-hd.com##+js(abort-on-property-write.js, atob)
 nungnew-hd.com##+js(addEventListener-defuser.js, mousedown)
 fanseries.co,kseries.tv##+js(addEventListener-defuser.js, mousedown, tabUnder)
-1080moviehd.com,baan-series.com,ioiwork.com,leoplayer1.com,movie1free.com,nungsub.com,series4you.com##+js(nano-setInterval-booster.js)
+1080moviehd.com,baan-series.com,doofree88.com,ioiwork.com,leoplayer1.com,movie1free.com,nungsub.com,series4you.com##+js(nano-setInterval-booster.js)
 series-d.com##+js(nofab.js)
 movie2free.com##+js(setInterval-defuser.js, f(), _blank)
 nung2hd.com##+js(window.open-defuser.js)
@@ -37,7 +37,7 @@ seriesclub-th.com##.td-header-rec-wrap
 seriesclubs.com##.twy-pubadban
 superseriesthai.com##a > img.img-fluid
 fanseriesthaisub.com##a > img.w-100
-037hdd.com##a > img[src*=".gif"]
+037hdd.com,doofree88.com##a > img[src*=".gif"]
 nungnew-hd.com##a[href*=pegloang]
 nungsub.com##a[rel*=nofollow] > div[class*=img]
 1080moviehd.com,2youhd.net,2youhdd.com,doo4k.com,movie2free.com,movie2freeth.com,movie2freevip.com,moviedoofee.com,newmovie-4k.com,nunglnw.com,nungnew-hd.com,nungsub.com,seriespop.com,sine.tv,utaseries.com##a[rel*=nofollow] > img
