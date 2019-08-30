@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201908280405
-! Last modified: 28 Aug 2019 04:05 UTC
+! Version: 201908300948
+! Last modified: 30 Aug 2019 09:48 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -361,7 +361,7 @@ opuree.com##html:style(overflow: auto !important;)
 do-anime.com##img[alt=macau8889]
 
 !----- filters/category/movies_block.txt -----
-||*.gif$image,domain=037hdd.com|1080moviehd.com|2youhd.net|baan-series.com|doofreeseries.com|doonungdee.online|imovie-hd.com|madooseries.com|movie1free.com|movie2free.com|movie2thai.com|movie8free.com|new-mastermovie.com|owlseries.com|series-nanime.com|series4you.com|seriesclubs.com|superseriesthai.com|tvseriesclub.com
+||*.gif$image,domain=037hdd.com|1080moviehd.com|2youhd.net|baan-series.com|doofree88.com|doofreeseries.com|doonungdee.online|imovie-hd.com|madooseries.com|movie1free.com|movie2free.com|movie2thai.com|movie8free.com|new-mastermovie.com|owlseries.com|series-nanime.com|series4you.com|seriesclubs.com|superseriesthai.com|tvseriesclub.com
 ||*.svg$image,domain=movie2free.com
 ||*.webp$image,domain=new-mastermovie.com
 ||adintrend.tv/images/banner/*
@@ -474,7 +474,7 @@ seriesfreeonline.com##+js(abort-on-property-write.js, adBlockDetected)
 nungnew-hd.com##+js(abort-on-property-write.js, atob)
 nungnew-hd.com##+js(addEventListener-defuser.js, mousedown)
 fanseries.co,kseries.tv##+js(addEventListener-defuser.js, mousedown, tabUnder)
-1080moviehd.com,baan-series.com,ioiwork.com,leoplayer1.com,movie1free.com,nungsub.com,series4you.com##+js(nano-setInterval-booster.js)
+1080moviehd.com,baan-series.com,doofree88.com,ioiwork.com,leoplayer1.com,movie1free.com,nungsub.com,series4you.com##+js(nano-setInterval-booster.js)
 series-d.com##+js(nofab.js)
 movie2free.com##+js(setInterval-defuser.js, f(), _blank)
 nung2hd.com##+js(window.open-defuser.js)
@@ -497,7 +497,7 @@ seriesclub-th.com##.td-header-rec-wrap
 seriesclubs.com##.twy-pubadban
 superseriesthai.com##a > img.img-fluid
 fanseriesthaisub.com##a > img.w-100
-037hdd.com##a > img[src*=".gif"]
+037hdd.com,doofree88.com##a > img[src*=".gif"]
 nungnew-hd.com##a[href*=pegloang]
 nungsub.com##a[rel*=nofollow] > div[class*=img]
 1080moviehd.com,2youhd.net,2youhdd.com,doo4k.com,movie2free.com,movie2freeth.com,movie2freevip.com,moviedoofee.com,newmovie-4k.com,nunglnw.com,nungnew-hd.com,nungsub.com,seriespop.com,sine.tv,utaseries.com##a[rel*=nofollow] > img
