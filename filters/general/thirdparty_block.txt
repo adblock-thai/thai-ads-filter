@@ -1,3 +1,4 @@
+||*.cdnstreamth.me/sagame66.mp4$media,redirect=noop-1s.mp4,third-party
 ||7mscorethai.com^$media,redirect=noop-1s.mp4,third-party
 ||bannung.com^$media,redirect=noop-1s.mp4,third-party
 ||baover.ml^$media,redirect=noop-1s.mp4,third-party
@@ -14,7 +15,7 @@
 ||lsm45.com^$media,redirect=noop-1s.mp4,third-party
 ||magiclampz.com^$media,redirect=noop-1s.mp4,third-party
 ||pinkqx.co/scg9*$media,redirect=noop-1s.mp4,third-party
-||sagame36.com^$third-party
+||sagame36.com^$media,redirect=noop-1s.mp4,third-party
 ||sagame66.co^$media,redirect=noop-1s.mp4,third-party
 ||sagame66.com^$media,redirect=noop-1s.mp4,third-party
 ||sagame88cdn.com^$media,redirect=noop-1s.mp4,third-party
