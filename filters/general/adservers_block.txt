@@ -42,7 +42,6 @@
 ||bumq.com
 ||cache*.biasdo.com^$third-party
 ||cdn.adnuntius.com$third-party
-||cdn.get4u.net^$media,third-party
 ||cdn.popcash.net
 ||cdn.popmyads.com
 ||clickadu.com
