@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201908311128
-! Last modified: 31 Aug 2019 11:28 UTC
+! Version: 201908311132
+! Last modified: 31 Aug 2019 11:32 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -363,7 +363,7 @@ opuree.com##html:style(overflow: auto !important;)
 do-anime.com##img[alt=macau8889]
 
 !----- filters/category/movies_block.txt -----
-||*.gif$image,domain=037hdd.com|1080moviehd.com|2youhd.net|baan-series.com|doofree88.com|doofreeseries.com|doonungdee.online|imovie-hd.com|madooseries.com|movie1free.com|movie2free.com|movie2thai.com|movie8free.com|movierj.com|new-mastermovie.com|owlseries.com|series-nanime.com|series4you.com|seriesclubs.com|superseriesthai.com|tvseriesclub.com
+||*.gif$image,domain=037hdd.com|1080moviehd.com|2youhd.net|baan-series.com|doofree88.com|doofreeseries.com|doonungdee.online|imovie-hd.com|madooseries.com|movie1free.com|movie2free.com|movie2thai.com|movie8free.com|movierj.com|new-mastermovie.com|owlseries.com|series-nanime.com|series4you.com|seriesclubs.com|superseriesthai.com|tvseriesclub.com|utaseries.com
 ||*.svg$image,domain=movie2free.com
 ||*.webp$image,domain=new-mastermovie.com
 ||adintrend.tv/images/banner/*
