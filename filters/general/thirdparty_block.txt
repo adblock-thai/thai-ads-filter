@@ -21,6 +21,7 @@
 ||sagame88cdn.com^$media,redirect=noop-1s.mp4,third-party
 ||scg511.com^$media,redirect=noop-1s.mp4,third-party
 ||seriespop.com/adsvideo/$media,redirect=noop-1s.mp4
+||sportpools.in.th^$media,redirect=noop-1s.mp4,third-party
 ||stream.cpssnn.site/ads.mp4$media,redirect=noop-1s.mp4
 ||ufa191.com^$media,redirect=noop-1s.mp4,third-party
 ||ufabet678.com^$media,redirect=noop-1s.mp4,third-party
