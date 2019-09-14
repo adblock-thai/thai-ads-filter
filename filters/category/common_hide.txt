@@ -1,3 +1,4 @@
+mawtoload.com##+js(abort-current-inline-script.js, app_get_url)
 getlink-gotolink.blogspot.com##+js(nofab.js)
 imgtrue.com##.ad-banner
 magnetolabs.com##.cp-popup-content
