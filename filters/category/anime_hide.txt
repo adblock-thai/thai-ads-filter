@@ -1,3 +1,4 @@
+anime-i.com###ani688
 lnwmanga.com###divAdsBg
 xn--l3ckaa2bza6cca2a6b5c8evc0g.com###i_popup_box_x
 animeloli.com###link_h_movie_ad
@@ -12,6 +13,7 @@ box-manga.com,mangasubthai.com,mangath.co,mgsub.com##+js(addEventListener-defuse
 box-manga.com,king-anime.com,mangasubthai.com,mangath.co,mgsub.com##+js(addEventListener-defuser.js, mousedown)
 anime-live.com##+js(nano-setInterval-booster.js)
 flix-anime.com##+js(nofab.js)
+anime-i.com##+js(overlay-buster.js)
 animedd.xyz##+js(setInterval-defuser.js, debugger)
 flix-anime.com##.active-mobile.kosana-container-m
 gg-anime.com##.entry-content > a > img
