@@ -3,7 +3,7 @@
 [![gitlab](https://img.shields.io/badge/gitlab-mirror-red.svg?logo=gitlab)](https://gitlab.com/adblock-thai/thai-ads-filter)
 [![Build Status](https://travis-ci.org/adblock-thai/thai-ads-filter.svg?branch=master)](https://travis-ci.org/adblock-thai/thai-ads-filter)
 [![Requirements Status](https://requires.io/github/adblock-thai/thai-ads-filter/requirements.svg?branch=master)](https://requires.io/github/adblock-thai/thai-ads-filter/requirements/?branch=master)
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-round)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-round)](#contributors)
 
 รายการตัวกรองโฆษณาของไทย
 
@@ -64,6 +64,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/pakonda"><img src="https://avatars1.githubusercontent.com/u/6489925?v=4" width="100px;" alt="pakonda"/><br /><sub><b>pakonda</b></sub></a><br /><a href="https://github.com/adblock-thai/thai-ads-filter/commits?author=pakonda" title="Code">💻</a> <a href="https://github.com/adblock-thai/thai-ads-filter/commits?author=pakonda" title="Documentation">📖</a> <a href="#filter-pakonda" title="People who help create filter list">🚫</a> <a href="#blog-pakonda" title="Blogposts">📝</a></td>
     <td align="center"><a href="https://github.com/powwadol"><img src="https://avatars0.githubusercontent.com/u/42528750?v=4" width="100px;" alt="Michio"/><br /><sub><b>Michio</b></sub></a><br /><a href="https://github.com/adblock-thai/thai-ads-filter/commits?author=powwadol" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/EKAPHONG"><img src="https://avatars0.githubusercontent.com/u/39004906?v=4" width="100px;" alt="Ekaphong Tangtrakul"/><br /><sub><b>Ekaphong Tangtrakul</b></sub></a><br /><a href="#question-EKAPHONG" title="Answering Questions">💬</a> <a href="#filter-EKAPHONG" title="People who help create filter list">🚫</a></td>
+    <td align="center"><a href="https://twitter.com/kowith337"><img src="https://avatars3.githubusercontent.com/u/16535467?v=4" width="100px;" alt="Kowith Singkornkeeree"/><br /><sub><b>Kowith Singkornkeeree</b></sub></a><br /><a href="#filter-kowith337" title="People who help create filter list">🚫</a></td>
   </tr>
 </table>
 
