@@ -16,6 +16,7 @@
       "description": "People who help create filter list"
     }
   },
+  "skipCi": "true",
   "contributors": [
     {
       "login": "pakonda",
