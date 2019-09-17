@@ -2,6 +2,7 @@ mawtoload.com##+js(abort-current-inline-script.js, app_get_url)
 getlink-gotolink.blogspot.com##+js(nofab.js)
 imgtrue.com##.ad-banner
 magnetolabs.com##.cp-popup-content
+pantip.com##.container .ads_box_type1
 pantip.com##.post-item a[href*="ads.pantip.com"]
 pantip.com##.post-item:has-text(PR News)
 pantip.com##td > a[href*="ads.pantip.com"]

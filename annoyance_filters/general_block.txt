@@ -1,1 +1,3 @@
 itro-popup/scripts/itro-scripts.js$first-party,script
+||pantip.com/api/forum-service/forum/get_promote_box?
+||pantip.com/api/forum-service/forum/get_promote_tag?
