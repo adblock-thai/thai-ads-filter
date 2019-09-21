@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201909211309
-! Last modified: 21 Sep 2019 13:09 UTC
+! Version: 201909211313
+! Last modified: 21 Sep 2019 13:13 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -496,6 +496,7 @@ pannung.com,xn--82cf0aw7bf9jbc7a0nyb.com##.banner-header
 bugaboo.tv##.bp-survey-overlay
 nungsub.com,pannung.com##.custom-html-widget.textwidget
 2youhd.net##.filmborder:style(height:unset !important;)
+doomovie-hd.com##.horizontal-ad-bar
 series-d.com##.imgkosana
 series-d.com##.kosana-banner
 series-d.com##.kosana-container
