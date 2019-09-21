@@ -26,5 +26,6 @@
 ||sportpools.in.th^$media,redirect=noop-1s.mp4,third-party
 ||stream.cpssnn.site/ads.mp4$media,redirect=noop-1s.mp4
 ||ufa191.com^$media,redirect=noop-1s.mp4,third-party
+||ufabet365.com^$media,redirect=noop-1s.mp4,third-party
 ||ufabet678.com^$media,redirect=noop-1s.mp4,third-party
 ||video.laterxxx.com^$third-party
