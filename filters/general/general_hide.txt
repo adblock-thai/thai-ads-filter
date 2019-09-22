@@ -23,12 +23,12 @@
 ##.ads300s
 ##.ads800
 ##.adsBottoms
+##.adsPopupCenter
+##.adsPopupLeft
+##.adsPopupRight
 ##.ads_zone
 ##.adsbygoogle
 ##.adsever
-##.adsPopupLeft
-##.adsPopupCenter
-##.adsPopupRight
 ##.adv_A
 ##.ajax-banner
 ##.banner
