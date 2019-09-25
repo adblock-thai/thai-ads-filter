@@ -3,10 +3,13 @@
 ||*.webp$image,domain=new-mastermovie.com|nungnew-hd.com
 ||adintrend.tv/images/banner/*
 ||ball.movierj.com
+||cdn.otv.co.th/js/admp_log.js
+||cdn.otv.co.th/js/otvirads-iframe.js
 ||cdn.watchlakorn.in/vod/$media,redirect=noop-1s.mp4
 ||doofreeseries.com/vdo/
 ||doonung-hd.com/wp-content/play/video11.mp4
 ||i.imgur.com^$media,redirect=noop-1s.mp4,third-party,domain=nungsub.com
 ||kseries.tv/clip/LoadingCircleYouTube.mp4$media,redirect=noop-1s.mp4
 ||ksubtv.net/wp-content/plugins/ultimate-popunder/$script
+||otv.co.th/images/banner/
 ||series-nanime.com/adsvideo^
