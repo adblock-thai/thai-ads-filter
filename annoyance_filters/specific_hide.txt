@@ -9,3 +9,8 @@ prachatai.com##.st-sticky-share-buttons
 prachatai.com##.support-pay
 blognone.com##div[class*="node sticky"]
 animeloli.com##header
+thaiware.com###MainPopup
+thaiware.com##div[id^="fan-exit"]
+thaiware.com##div[id^="fanback"]
+thaiware.com##div[id^="fanbox"]
+thaiware.com##div[id^="fanclose"]
