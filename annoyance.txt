@@ -1,7 +1,7 @@
 ! Title: Thai Annoyance Filter
 ! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups.
-! Version: 201909251021
-! Last modified: 25 Sep 2019 10:21 UTC
+! Version: 201909271156
+! Last modified: 27 Sep 2019 11:56 UTC
 ! Expires: 3 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -12,6 +12,7 @@
 !-------------- annoyance_filters --------------
 
 !----- annoyance_filters/specific_hide.txt -----
+thaiware.com###MainPopup
 blognone.com###above_comments
 blognone.com###block-views-jobs-blognone-com-block
 mello.me###cookie_policy
@@ -22,6 +23,10 @@ voicetv.co.th##.is-active.content-bar > .navbar
 prachatai.com##.st-sticky-share-buttons
 prachatai.com##.support-pay
 blognone.com##div[class*="node sticky"]
+thaiware.com##div[id^="fan-exit"]
+thaiware.com##div[id^="fanback"]
+thaiware.com##div[id^="fanbox"]
+thaiware.com##div[id^="fanclose"]
 animeloli.com##header
 
 !----- annoyance_filters/thirdparty.txt -----
