@@ -1,3 +1,4 @@
+thaiware.com###MainPopup
 blognone.com###above_comments
 blognone.com###block-views-jobs-blognone-com-block
 mello.me###cookie_policy
@@ -8,9 +9,8 @@ voicetv.co.th##.is-active.content-bar > .navbar
 prachatai.com##.st-sticky-share-buttons
 prachatai.com##.support-pay
 blognone.com##div[class*="node sticky"]
-animeloli.com##header
-thaiware.com###MainPopup
 thaiware.com##div[id^="fan-exit"]
 thaiware.com##div[id^="fanback"]
 thaiware.com##div[id^="fanbox"]
 thaiware.com##div[id^="fanclose"]
+animeloli.com##header
