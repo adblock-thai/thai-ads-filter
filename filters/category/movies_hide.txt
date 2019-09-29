@@ -19,6 +19,11 @@ fanseries.co,kseries.tv##+js(addEventListener-defuser.js, mousedown, tabUnder)
 series-d.com##+js(nofab.js)
 movie2free.com##+js(setInterval-defuser.js, f(), _blank)
 nung2hd.com##+js(window.open-defuser.js)
+movie2uhd.com##.ad
+movie2uhd.com##.ad-float
+movie2uhd.com##.adbr
+movie2uhd.com##.adcen
+movie2uhd.com##.adhl
 popuplayer.com##.adtt
 pannung.com,xn--82cf0aw7bf9jbc7a0nyb.com##.banner-header
 037hdd.com##.bireklam
