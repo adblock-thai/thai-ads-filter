@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201909291353
-! Last modified: 29 Sep 2019 13:53 UTC
+! Version: 201909291408
+! Last modified: 29 Sep 2019 14:08 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -252,6 +252,7 @@ player/plugins/vast-*.js$script
 ||goalclub.tv^$media,redirect=noop-1s.mp4,third-party
 ||lsm45.com^$media,redirect=noop-1s.mp4,third-party
 ||magiclampz.com^$media,redirect=noop-1s.mp4,third-party
+||movie365-hd.com/ads/*$media,redirect=noop-1s.mp4
 ||pinkqx.co/scg9*$media,redirect=noop-1s.mp4,third-party
 ||sagame36.com^$media,redirect=noop-1s.mp4,third-party
 ||sagame66.co^$media,redirect=noop-1s.mp4,third-party
@@ -373,7 +374,7 @@ opuree.com##html:style(overflow: auto !important;)
 do-anime.com##img[alt=macau8889]
 
 !----- filters/category/movies_block.txt -----
-||*.gif$image,domain=037hdd.com|1080moviehd.com|2youhd.net|888movie.com|baan-series.com|doofree88.com|doofreeseries.com|doonungdee.online|imovie-hd.com|madooseries.com|movie1free.com|movie2free.com|movie2thai.com|movie8free.com|movierj.com|new-mastermovie.com|owlseries.com|series-nanime.com|series4you.com|seriesclubs.com|star-seriesth.com|superseriesthai.com|tvseriesclub.com|utaseries.com|xn--72czp5e5a8b.online
+||*.gif$image,domain=037hdd.com|1080moviehd.com|2youhd.net|888movie.com|baan-series.com|doofree88.com|doofreeseries.com|doonungdee.online|imovie-hd.com|madooseries.com|movie1free.com|movie2free.com|movie2thai.com|movie2uhd.com|movie8free.com|movierj.com|new-mastermovie.com|owlseries.com|series-nanime.com|series4you.com|seriesclubs.com|star-seriesth.com|superseriesthai.com|tvseriesclub.com|utaseries.com|xn--72czp5e5a8b.online
 ||*.svg$image,domain=movie2free.com
 ||*.webp$image,domain=new-mastermovie.com|nungnew-hd.com
 ||adintrend.tv/images/banner/*
@@ -497,6 +498,11 @@ fanseries.co,kseries.tv##+js(addEventListener-defuser.js, mousedown, tabUnder)
 series-d.com##+js(nofab.js)
 movie2free.com##+js(setInterval-defuser.js, f(), _blank)
 nung2hd.com##+js(window.open-defuser.js)
+movie2uhd.com##.ad
+movie2uhd.com##.ad-float
+movie2uhd.com##.adbr
+movie2uhd.com##.adcen
+movie2uhd.com##.adhl
 popuplayer.com##.adtt
 pannung.com,xn--82cf0aw7bf9jbc7a0nyb.com##.banner-header
 037hdd.com##.bireklam
