@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201909291408
-! Last modified: 29 Sep 2019 14:08 UTC
+! Version: 201910051747
+! Last modified: 05 Oct 2019 17:47 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -507,6 +507,8 @@ popuplayer.com##.adtt
 pannung.com,xn--82cf0aw7bf9jbc7a0nyb.com##.banner-header
 037hdd.com##.bireklam
 star-seriesth.com##.bottom-2x.text-center
+nung2hd.com##.boxads-bottom-end
+nung2hd.com##.boxads-top-end
 bugaboo.tv##.bp-survey-overlay
 nungsub.com,pannung.com##.custom-html-widget.textwidget
 2youhd.net##.filmborder:style(height:unset !important;)
@@ -538,6 +540,8 @@ donung.me,doonung-hd.com,madooseries.com,movie2free.com,movie2z.com,moviedoofee.
 037-hd.com,xn--72czp7a9bc4b9c4e6b.com##a[target=_blank] > img.img-responsive
 doofreeseries.com##a[target=_blank] > img.size-full
 madooseries.com,movie2free.com##a[target=_new] > img
+nung2hd.com##div.boxads-bottom
+nung2hd.com##div.boxads-top
 seriesfreeonline.com##html:style(overflow: auto !important;)
 037-hd.com##img.img-responsive[src*="banner"]
 
