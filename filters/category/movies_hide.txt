@@ -31,6 +31,7 @@ star-seriesth.com##.bottom-2x.text-center
 nung2hd.com##.boxads-bottom-end
 nung2hd.com##.boxads-top-end
 bugaboo.tv##.bp-survey-overlay
+nungnew-hd.com##.code-block
 nungsub.com,pannung.com##.custom-html-widget.textwidget
 2youhd.net##.filmborder:style(height:unset !important;)
 doomovie-hd.com##.horizontal-ad-bar
