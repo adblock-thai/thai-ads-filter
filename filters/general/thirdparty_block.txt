@@ -9,6 +9,7 @@
 ||cornerhd.com^$media,redirect=noop-1s.mp4,third-party
 ||foxwood168.com^$media,redirect=noop-1s.mp4,third-party
 ||ft99.b-cdn.net^$third-party
+||funlives.tv/vdo/*$media,redirect=noop-1s.mp4,third-party
 ||gclub4you.*.cdn.digitaloceanspaces.com^$third-party
 ||get4u.net^$image,third-party
 ||get4u.net^$media,redirect=noop-1s.mp4,third-party
