@@ -8,6 +8,7 @@ a-tsuki.net###p9fe
 a-tsuki.net###player_inzad
 niceoppai.net###text-33
 gg-anime.com###top-section center
+anime-world.me##+js(abort-current-inline-script.js, appblock)
 anifume.com##+js(abort-on-property-write.js, a)
 box-manga.com,mangasubthai.com,mangath.co,mgsub.com##+js(addEventListener-defuser.js, click)
 box-manga.com,king-anime.com,mangasubthai.com,mangath.co,mgsub.com##+js(addEventListener-defuser.js, mousedown)
