@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201910090110
-! Last modified: 09 Oct 2019 01:10 UTC
+! Version: 201910121749
+! Last modified: 12 Oct 2019 17:49 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -346,6 +346,7 @@ a-tsuki.net###p9fe
 a-tsuki.net###player_inzad
 niceoppai.net###text-33
 gg-anime.com###top-section center
+anime-world.me##+js(abort-current-inline-script.js, appblock)
 anifume.com##+js(abort-on-property-write.js, a)
 box-manga.com,mangasubthai.com,mangath.co,mgsub.com##+js(addEventListener-defuser.js, click)
 box-manga.com,king-anime.com,mangasubthai.com,mangath.co,mgsub.com##+js(addEventListener-defuser.js, mousedown)
