@@ -6,6 +6,7 @@ music.siamza.com###fanback
 sudsapda.com###share-buttons
 posttoday.com##.enews-notice
 voicetv.co.th##.is-active.content-bar > .navbar
+pantip.com##.pt-snackbar
 prachatai.com##.st-sticky-share-buttons
 prachatai.com##.support-pay
 blognone.com##div[class*="node sticky"]
