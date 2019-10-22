@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201910210009
-! Last modified: 21 Oct 2019 00:09 UTC
+! Version: 201910220139
+! Last modified: 22 Oct 2019 01:39 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -401,6 +401,7 @@ weshrt.js$script,third-party,domain=mawtoload.com
 ||isanook.com/*/beacon$script
 ||kapook.com/*/track$script
 ||kapook.com/ads/$script
+||mawtoload.com/*/*shrtfly*.js
 ||pantip.com/home/get_activity_main$subdocument
 
 !----- filters/category/bittorent_hide.txt -----
@@ -447,6 +448,7 @@ getlink-gotolink.blogspot.com##+js(nofab.js)
 imgtrue.com##.ad-banner
 pantip.com##.container .ads_box_type1
 magnetolabs.com##.cp-popup-content
+mawtoload.com##.mawto-content > a[rel*=nofollow] > img
 pantip.com##.post-item a[href*="ads.pantip.com"]
 pantip.com##.post-item:has-text(PR News)
 pantip.com##td > a[href*="ads.pantip.com"]
