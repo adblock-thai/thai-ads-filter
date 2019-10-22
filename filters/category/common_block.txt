@@ -3,4 +3,5 @@ weshrt.js$script,third-party,domain=mawtoload.com
 ||isanook.com/*/beacon$script
 ||kapook.com/*/track$script
 ||kapook.com/ads/$script
+||mawtoload.com/*/*shrtfly*.js
 ||pantip.com/home/get_activity_main$subdocument

@@ -3,6 +3,7 @@ getlink-gotolink.blogspot.com##+js(nofab.js)
 imgtrue.com##.ad-banner
 pantip.com##.container .ads_box_type1
 magnetolabs.com##.cp-popup-content
+mawtoload.com##.mawto-content > a[rel*=nofollow] > img
 pantip.com##.post-item a[href*="ads.pantip.com"]
 pantip.com##.post-item:has-text(PR News)
 pantip.com##td > a[href*="ads.pantip.com"]
