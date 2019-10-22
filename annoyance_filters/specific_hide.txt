@@ -3,6 +3,7 @@ blognone.com###above_comments
 blognone.com###block-views-jobs-blognone-com-block
 mello.me###cookie_policy
 music.siamza.com###fanback
+stackoverflow.com###js-gdpr-consent-banner
 sudsapda.com###share-buttons
 posttoday.com##.enews-notice
 voicetv.co.th##.is-active.content-bar > .navbar
