@@ -6,6 +6,7 @@
 ||cdn.digitaloceanspaces.com/dreamgame88.mp4$media,redirect=noop-1s.mp4,third-party
 ||cdn.osamime.ml^$media,redirect=noop-1s.mp4,third-party
 ||cdn.sexygame66.com^$media,redirect=noop-1s.mp4,third-party
+||cdnstreamth.me/sexygame66.mp4$media,redirect=noop-1s.mp4,third-party
 ||cornerhd.com^$media,redirect=noop-1s.mp4,third-party
 ||foxwood168.com^$media,redirect=noop-1s.mp4,third-party
 ||ft99.b-cdn.net^$third-party
