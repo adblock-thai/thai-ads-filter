@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201910271036
-! Last modified: 27 Oct 2019 10:36 UTC
+! Version: 201910271237
+! Last modified: 27 Oct 2019 12:37 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -356,6 +356,7 @@ anime-live.com##+js(nano-setInterval-booster.js)
 flix-anime.com##+js(nofab.js)
 anime-i.com##+js(overlay-buster.js)
 animedd.xyz##+js(setInterval-defuser.js, debugger)
+love-anime.com##+js(window.open-defuser.js)
 flix-anime.com##.active-mobile.kosana-container-m
 gg-anime.com##.entry-content > a > img
 flix-anime.com,misa-anime.com##.img-kosana
