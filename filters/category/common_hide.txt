@@ -6,4 +6,5 @@ magnetolabs.com##.cp-popup-content
 mawtoload.com##.mawto-content > a[rel*=nofollow] > img
 pantip.com##.post-item a[href*="ads.pantip.com"]
 pantip.com##.post-item:has-text(PR News)
+playinone.com##.tsc-container
 pantip.com##td > a[href*="ads.pantip.com"]
