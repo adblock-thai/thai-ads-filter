@@ -38,6 +38,7 @@ doomovie-hd.com##.horizontal-ad-bar
 series-d.com##.imgkosana
 series-d.com##.kosana-banner
 series-d.com##.kosana-container
+kseries-online.com##.kosana-container-m
 movie2z.com##.mainbtn img
 fanseriesthaisub.com##.margin-banner
 movie2free.com##.notice > div
