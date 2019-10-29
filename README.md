@@ -36,6 +36,9 @@ Thai Annoyance Filters <br /> ![annoy filter size] | A filter that aims to remov
 | Chrome   |  [Link](https://adblock-thai.github.io/how-to-install-adblock-for-chrome) |
 | Firefox  |  [Link](https://adblock-thai.github.io/how-to-install-adblock-for-firefox)   |
 
+## 💬 Need help?
+- https://spectrum.chat/adblock-thailand
+
 ## 📝 Useful documents
 
 - uBlock Origin
