@@ -1,12 +1,12 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201910271237
-! Last modified: 27 Oct 2019 12:37 UTC
+! Version: 201910290157
+! Last modified: 29 Oct 2019 01:57 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
 ! Reporting Issues: https://github.com/adblock-thai/thai-ads-filter/issues
-! Reporting Issues: https://line.me/ti/g2/AAUOP0DACB
+! Community: https://spectrum.chat/adblock-thailand
 ! Download: https://adblock-thai.github.io/thai-ads-filter/subscription.txt
 !
 !-------------- ads_filters --------------
@@ -456,6 +456,7 @@ magnetolabs.com##.cp-popup-content
 mawtoload.com##.mawto-content > a[rel*=nofollow] > img
 pantip.com##.post-item a[href*="ads.pantip.com"]
 pantip.com##.post-item:has-text(PR News)
+playinone.com##.tsc-container
 pantip.com##td > a[href*="ads.pantip.com"]
 
 !----- filters/category/shop_hide.txt -----
