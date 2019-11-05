@@ -36,5 +36,6 @@ newb-anime.com##a[target*=blank][rel*=noopener] > img
 anime-sugoi.com,animedd.xyz,animeloli.com,niceoppai.net,zone-anime.net##a[target=_blank] > img
 a-tsuki.net,anime-live.com##a[target=_blank] > img.img-thumbnail
 anime-sugoi.com##center > br
+lnwmanga.com##div[id*=main-ads]
 opuree.com##html:style(overflow: auto !important;)
 do-anime.com##img[alt=macau8889]
