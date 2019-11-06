@@ -12,6 +12,7 @@
 ||kseries-online.com/vast/*$media,redirect=noop-1s.mp4
 ||kseries.tv/clip/LoadingCircleYouTube.mp4$media,redirect=noop-1s.mp4
 ||ksubtv.net/wp-content/plugins/ultimate-popunder/$script
+||movie2uhd.com/*.mp4$media,redirect=noop-1s.mp4
 ||otv.co.th/images/banner/
 ||series-d.com/vast/*$media,redirect=noop-1s.mp4
 ||series-nanime.com/adsvideo^
