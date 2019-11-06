@@ -1,4 +1,4 @@
-||*.gif$image,domain=037hdd.com|1080moviehd.com|2youhd.net|888movie.com|baan-series.com|doofree88.com|doofreeseries.com|doonungdee.online|imovie-hd.com|madooseries.com|movie1free.com|movie2free.com|movie2thai.com|movie2uhd.com|movie8free.com|movierj.com|new-mastermovie.com|owlseries.com|series-nanime.com|series4you.com|seriesclubs.com|star-seriesth.com|superseriesthai.com|tvseriesclub.com|utaseries.com|xn--72czp5e5a8b.online
+||*.gif$image,domain=037hdd.com|1080moviehd.com|2youhd.net|888movie.com|baan-series.com|doofree88.com|doofreeseries.com|doonungdee.online|iamiptv.com|imovie-hd.com|madooseries.com|movie1free.com|movie2free.com|movie2thai.com|movie2uhd.com|movie8free.com|movierj.com|new-mastermovie.com|owlseries.com|series-nanime.com|series4you.com|seriesclubs.com|star-seriesth.com|superseriesthai.com|tvseriesclub.com|utaseries.com|xn--72czp5e5a8b.online
 ||*.svg$image,domain=movie2free.com
 ||*.webp$image,domain=new-mastermovie.com
 ||adintrend.tv/images/banner/*
