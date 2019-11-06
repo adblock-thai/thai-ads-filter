@@ -34,6 +34,7 @@ bugaboo.tv##.bp-survey-overlay
 nungnew-hd.com##.code-block
 nungsub.com,pannung.com##.custom-html-widget.textwidget
 2youhd.net##.filmborder:style(height:unset !important;)
+doomovie-hd.com##.floating_ads_bt-mid_container
 doomovie-hd.com##.horizontal-ad-bar
 series-d.com##.imgkosana
 series-d.com##.kosana-banner
