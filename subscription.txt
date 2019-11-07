@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201911061145
-! Last modified: 06 Nov 2019 11:45 UTC
+! Version: 201911070127
+! Last modified: 07 Nov 2019 01:27 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -383,8 +383,7 @@ opuree.com##html:style(overflow: auto !important;)
 do-anime.com##img[alt=macau8889]
 
 !----- filters/category/movies_block.txt -----
-||*.gif$image,domain=037hdd.com|1080moviehd.com|2youhd.net|888movie.com|baan-series.com|doofree88.com|doofreeseries.com|doonungdee.online|iamiptv.com|imovie-hd.com|madooseries.com|movie1free.com|movie2free.com|movie2thai.com|movie2uhd.com|movie8free.com|movierj.com|new-mastermovie.com|owlseries.com|series-nanime.com|series4you.com|seriesclubs.com|star-seriesth.com|superseriesthai.com|tvseriesclub.com|utaseries.com|xn--72czp5e5a8b.online
-||*.svg$image,domain=movie2free.com
+||*.gif$image,domain=037hdd.com|1080moviehd.com|2youhd.net|888movie.com|baan-series.com|doofree88.com|doofreeseries.com|doonungdee.online|iamiptv.com|imovie-hd.com|madooseries.com|movie1free.com|movie2thai.com|movie2uhd.com|movie8free.com|movierj.com|new-mastermovie.com|owlseries.com|series-nanime.com|series4you.com|seriesclubs.com|star-seriesth.com|superseriesthai.com|tvseriesclub.com|utaseries.com|xn--72czp5e5a8b.online
 ||*.webp$image,domain=new-mastermovie.com
 ||adintrend.tv/images/banner/*
 ||ball.movierj.com
@@ -513,7 +512,6 @@ nungnew-hd.com##+js(addEventListener-defuser.js, mousedown)
 fanseries.co,kseries.tv##+js(addEventListener-defuser.js, mousedown, tabUnder)
 1080moviehd.com,baan-series.com,doofree88.com,ioiwork.com,leoplayer1.com,movie1free.com,nungsub.com,series4you.com##+js(nano-setInterval-booster.js)
 series-d.com##+js(nofab.js)
-movie2free.com##+js(setInterval-defuser.js, f(), _blank)
 doofree88.com,nung2hd.com##+js(window.open-defuser.js)
 movie2uhd.com##.ad
 movie2uhd.com##.ad-float
@@ -538,8 +536,6 @@ series-d.com##.kosana-container
 kseries-online.com##.kosana-container-m
 movie2z.com##.mainbtn img
 fanseriesthaisub.com##.margin-banner
-movie2free.com##.notice > div
-movie2free.com##.notice > h2
 888movie2u.com##.sgpb-popup-dialog-main-div-wrapper
 888movie2u.com##.sgpb-popup-overlay
 nungnew-hd.com##.sp-no-webp.img-responsive
@@ -552,14 +548,14 @@ fanseriesthaisub.com##a > img.w-100
 nungnew-hd.com##a[href*=pegloang]
 baan-series.com##a[rel*=d่ofollow] > img
 nungsub.com##a[rel*=nofollow] > div[class*=img]
-1080moviehd.com,2youhd.net,2youhdd.com,baan-series.com,doo4k.com,imovie-hd.com,movie2free.com,movie2freeth.com,movie2freevip.com,moviedoofee.com,newmovie-4k.com,nunglnw.com,nungnew-hd.com,nungsub.com,seriespop.com,sine.tv,utaseries.com##a[rel*=nofollow] > img
+1080moviehd.com,2youhd.net,2youhdd.com,baan-series.com,doo4k.com,imovie-hd.com,movie2freeth.com,movie2freevip.com,moviedoofee.com,newmovie-4k.com,nunglnw.com,nungnew-hd.com,nungsub.com,seriespop.com,sine.tv,utaseries.com##a[rel*=nofollow] > img
 movie2freevip.com##a[rel*=noreferrer] > img
 nungsub.com##a[rel=bookmark] > img[alt*=banner]
 series-nanime.com##a[rel=nofollow] > img
-donung.me,doonung-hd.com,madooseries.com,movie2free.com,movie2z.com,moviedoofee.com,movierj.com,nanamovies.com,nunglnw.com,series24hr.com##a[target=_blank] > img
+donung.me,doonung-hd.com,madooseries.com,movie2z.com,moviedoofee.com,movierj.com,nanamovies.com,nunglnw.com,series24hr.com##a[target=_blank] > img
 037-hd.com,xn--72czp7a9bc4b9c4e6b.com##a[target=_blank] > img.img-responsive
 doofreeseries.com##a[target=_blank] > img.size-full
-madooseries.com,movie2free.com##a[target=_new] > img
+madooseries.com##a[target=_new] > img
 nung2hd.com##div.boxads-bottom
 nung2hd.com##div.boxads-top
 seriesfreeonline.com##html:style(overflow: auto !important;)
@@ -590,6 +586,5 @@ gggcomputer.com##img[src*="banner"]
 @@||content.jwplatform.com/libraries/$script,domain=zone-anime.net
 @@||gplay.sine.tv/embed/
 @@||lnwplayer.com^$generichide
-@@||movie2free.com/wp-content/themes/next/images/nav-bullet*.gif
 @@||src.litix.io$script,domain=trueid.net
 @@||viu.com/ott/*/tracking/
