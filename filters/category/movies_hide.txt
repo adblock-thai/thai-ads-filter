@@ -17,7 +17,6 @@ nungnew-hd.com##+js(addEventListener-defuser.js, mousedown)
 fanseries.co,kseries.tv##+js(addEventListener-defuser.js, mousedown, tabUnder)
 1080moviehd.com,baan-series.com,doofree88.com,ioiwork.com,leoplayer1.com,movie1free.com,nungsub.com,series4you.com##+js(nano-setInterval-booster.js)
 series-d.com##+js(nofab.js)
-movie2free.com##+js(setInterval-defuser.js, f(), _blank)
 doofree88.com,nung2hd.com##+js(window.open-defuser.js)
 movie2uhd.com##.ad
 movie2uhd.com##.ad-float
@@ -42,8 +41,6 @@ series-d.com##.kosana-container
 kseries-online.com##.kosana-container-m
 movie2z.com##.mainbtn img
 fanseriesthaisub.com##.margin-banner
-movie2free.com##.notice > div
-movie2free.com##.notice > h2
 888movie2u.com##.sgpb-popup-dialog-main-div-wrapper
 888movie2u.com##.sgpb-popup-overlay
 nungnew-hd.com##.sp-no-webp.img-responsive
@@ -56,14 +53,14 @@ fanseriesthaisub.com##a > img.w-100
 nungnew-hd.com##a[href*=pegloang]
 baan-series.com##a[rel*=d่ofollow] > img
 nungsub.com##a[rel*=nofollow] > div[class*=img]
-1080moviehd.com,2youhd.net,2youhdd.com,baan-series.com,doo4k.com,imovie-hd.com,movie2free.com,movie2freeth.com,movie2freevip.com,moviedoofee.com,newmovie-4k.com,nunglnw.com,nungnew-hd.com,nungsub.com,seriespop.com,sine.tv,utaseries.com##a[rel*=nofollow] > img
+1080moviehd.com,2youhd.net,2youhdd.com,baan-series.com,doo4k.com,imovie-hd.com,movie2freeth.com,movie2freevip.com,moviedoofee.com,newmovie-4k.com,nunglnw.com,nungnew-hd.com,nungsub.com,seriespop.com,sine.tv,utaseries.com##a[rel*=nofollow] > img
 movie2freevip.com##a[rel*=noreferrer] > img
 nungsub.com##a[rel=bookmark] > img[alt*=banner]
 series-nanime.com##a[rel=nofollow] > img
-donung.me,doonung-hd.com,madooseries.com,movie2free.com,movie2z.com,moviedoofee.com,movierj.com,nanamovies.com,nunglnw.com,series24hr.com##a[target=_blank] > img
+donung.me,doonung-hd.com,madooseries.com,movie2z.com,moviedoofee.com,movierj.com,nanamovies.com,nunglnw.com,series24hr.com##a[target=_blank] > img
 037-hd.com,xn--72czp7a9bc4b9c4e6b.com##a[target=_blank] > img.img-responsive
 doofreeseries.com##a[target=_blank] > img.size-full
-madooseries.com,movie2free.com##a[target=_new] > img
+madooseries.com##a[target=_new] > img
 nung2hd.com##div.boxads-bottom
 nung2hd.com##div.boxads-top
 seriesfreeonline.com##html:style(overflow: auto !important;)

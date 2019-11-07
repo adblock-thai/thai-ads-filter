@@ -2,6 +2,5 @@
 @@||content.jwplatform.com/libraries/$script,domain=zone-anime.net
 @@||gplay.sine.tv/embed/
 @@||lnwplayer.com^$generichide
-@@||movie2free.com/wp-content/themes/next/images/nav-bullet*.gif
 @@||src.litix.io$script,domain=trueid.net
 @@||viu.com/ott/*/tracking/
