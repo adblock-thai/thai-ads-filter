@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201911070127
-! Last modified: 07 Nov 2019 01:27 UTC
+! Version: 201911111325
+! Last modified: 11 Nov 2019 13:25 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -397,6 +397,7 @@ do-anime.com##img[alt=macau8889]
 ||kseries.tv/clip/LoadingCircleYouTube.mp4$media,redirect=noop-1s.mp4
 ||ksubtv.net/wp-content/plugins/ultimate-popunder/$script
 ||movie2uhd.com/*.mp4$media,redirect=noop-1s.mp4
+||movieszaa.com/adsvideo/*$media,redirect=noop-1s.mp4,third-party
 ||otv.co.th/images/banner/
 ||series-d.com/vast/*$media,redirect=noop-1s.mp4
 ||series-nanime.com/adsvideo^
