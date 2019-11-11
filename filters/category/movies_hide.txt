@@ -9,6 +9,7 @@ seriesfreeonline.com###fuck-adb-enabled
 pannung.com,vojkudee.net###id01
 seriesfreeonline.com###kosana_click
 movie8free.com###slid02
+movieszaa.com###wrap > .box
 veecinema.com,xn--72czp7a9bc4b9c4e6b.com##+js(abort-current-inline-script.js, $, playervideo, hide)
 nungnew-hd.com##+js(abort-on-property-read.js, atob)
 seriesfreeonline.com##+js(abort-on-property-write.js, adBlockDetected)
