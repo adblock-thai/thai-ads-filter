@@ -64,5 +64,7 @@ doofreeseries.com##a[target=_blank] > img.size-full
 madooseries.com##a[target=_new] > img
 nung2hd.com##div.boxads-bottom
 nung2hd.com##div.boxads-top
+movie365-hd.com##div[class^="ad-"]
+movie365-hd.com##div[class^="ad_"]
 seriesfreeonline.com##html:style(overflow: auto !important;)
 037-hd.com##img.img-responsive[src*="banner"]
