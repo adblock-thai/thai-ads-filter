@@ -18,3 +18,4 @@
 ||series-nanime.com/adsvideo^
 ||test.dunplayer.online$media,redirect=noop-1s.mp4,third-party
 ||test.dunplayer.xyz$media,redirect=noop-1s.mp4,third-party
+||ufa365movie.com/*/banner/*$media,redirect=noop-1s.mp4
