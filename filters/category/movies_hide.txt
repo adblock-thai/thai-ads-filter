@@ -50,7 +50,7 @@ seriesclub-th.com##.td-header-rec-wrap
 seriesclubs.com##.twy-pubadban
 superseriesthai.com##a > img.img-fluid
 fanseriesthaisub.com##a > img.w-100
-037hdd.com,doofree88.com,uhuseries.com##a > img[src*=".gif"]
+037hdd.com,akaanime.com,doofree88.com,uhuseries.com##a > img[src*=".gif"]
 nungnew-hd.com##a[href*=pegloang]
 baan-series.com##a[rel*=d่ofollow] > img
 nungsub.com##a[rel*=nofollow] > div[class*=img]
