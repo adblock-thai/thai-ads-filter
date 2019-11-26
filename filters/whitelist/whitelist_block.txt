@@ -1,3 +1,4 @@
+@@/wp-content/plugins/ajax-load-more/core/img/ajax-loader.gif
 @@||037hdd.com/wp-content/themes/037HD.COM/images/nav-bullet-hov.gif
 @@||content.jwplatform.com/libraries/$script,domain=zone-anime.net
 @@||gplay.sine.tv/embed/
