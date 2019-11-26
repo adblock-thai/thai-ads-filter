@@ -10,6 +10,7 @@
 ||i.imgur.com^$media,redirect=noop-1s.mp4,third-party,domain=nungsub.com
 ||kseries-online.com/vast/*$media,redirect=noop-1s.mp4
 ||kseries.tv/clip/LoadingCircleYouTube.mp4$media,redirect=noop-1s.mp4
+||ksubtv.co/clip/LoadingCircleYouTube.mp4$media,redirect=noop-1s.mp4
 ||ksubtv.net/wp-content/plugins/ultimate-popunder/$script
 ||movie2uhd.com/*.mp4$media,redirect=noop-1s.mp4
 ||movieszaa.com/adsvideo/*$media,redirect=noop-1s.mp4
