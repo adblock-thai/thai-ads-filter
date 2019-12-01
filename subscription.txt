@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 201912011535
-! Last modified: 01 Dec 2019 15:35 UTC
+! Version: 201912011542
+! Last modified: 01 Dec 2019 15:42 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -399,6 +399,7 @@ do-anime.com##img[alt=macau8889]
 ||kseries.tv/clip/LoadingCircleYouTube.mp4$media,redirect=noop-1s.mp4
 ||ksubtv.co/clip/LoadingCircleYouTube.mp4$media,redirect=noop-1s.mp4
 ||ksubtv.net/wp-content/plugins/ultimate-popunder/$script
+||movie24.info/*/banner/*$media,redirect=noop-1s.mp4
 ||movie2uhd.com/*.mp4$media,redirect=noop-1s.mp4
 ||movieszaa.com/adsvideo/*$media,redirect=noop-1s.mp4
 ||otv.co.th/images/banner/
@@ -589,7 +590,7 @@ gggcomputer.com##img[src*="banner"]
 ||postbydnx.com/bn/*
 
 !----- filters/whitelist/whitelist_hide.txt -----
-9emb.com,aplayer.xyz,app.playerufa.com,bplayer.xyz#@##ads
+9emb.com,aplayer.xyz,app.playerufa.com,bplayer.xyz,playerlnw.com#@##ads
 
 !----- filters/whitelist/whitelist_block.txt -----
 @@/wp-content/plugins/ajax-load-more/core/img/ajax-loader.gif
