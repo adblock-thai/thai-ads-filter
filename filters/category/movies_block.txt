@@ -13,6 +13,7 @@
 ||kseries.tv/clip/LoadingCircleYouTube.mp4$media,redirect=noop-1s.mp4
 ||ksubtv.co/clip/LoadingCircleYouTube.mp4$media,redirect=noop-1s.mp4
 ||ksubtv.net/wp-content/plugins/ultimate-popunder/$script
+||movie24.info/*/banner/*$media,redirect=noop-1s.mp4
 ||movie2uhd.com/*.mp4$media,redirect=noop-1s.mp4
 ||movieszaa.com/adsvideo/*$media,redirect=noop-1s.mp4
 ||otv.co.th/images/banner/
