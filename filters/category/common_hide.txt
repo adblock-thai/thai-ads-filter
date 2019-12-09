@@ -1,4 +1,5 @@
 mawtoload.com##+js(abort-current-inline-script.js, app_get_url)
+axeload.com##+js(addEventListener-defuser.js, /^(?:mousedown|touchstart)$/, tabUnder)
 getlink-gotolink.blogspot.com##+js(nofab.js)
 imgtrue.com##.ad-banner
 pantip.com##.container .ads_box_type1
