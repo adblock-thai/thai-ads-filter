@@ -9,9 +9,14 @@ template_dir = "templates/"
 filter_paths = [
     {"path": "filters/", "template": "template.j2", "output": "subscription.txt"},
     {
-        "path": "annoyance_filters/",
+        "path": "filters_annoyance/",
         "template": "template_annoyance.j2",
         "output": "annoyance.txt",
+    },
+    {
+        "path": "filters_test/",
+        "template": "template_test.j2",
+        "output": "test_filters.txt",
     },
 ]
 

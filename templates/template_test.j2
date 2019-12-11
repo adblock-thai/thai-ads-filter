@@ -1,0 +1,16 @@
+! Title: Thai Adblock List Test
+! Description: Thai ads test filters
+! Version: {{version}}
+! Last modified: {{ timestamp }}
+! Expires: 1 days
+! Homepage: https://adblock-thai.github.io/
+! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
+! Reporting Issues: https://github.com/adblock-thai/thai-ads-filter/issues
+! Community: https://spectrum.chat/adblock-thailand
+! Download: https://adblock-thai.github.io/thai-ads-filter/test_filters.txt
+!
+!-------------- ads_filters --------------
+{% for file_name in file_list %}
+!----- {{file_name}} -----
+{% include file_name %}
+{% endfor %}
