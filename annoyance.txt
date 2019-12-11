@@ -1,7 +1,7 @@
 ! Title: Thai Annoyance Filter
 ! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups.
-! Version: 201912101445
-! Last modified: 10 Dec 2019 14:45 UTC
+! Version: 201912110142
+! Last modified: 11 Dec 2019 01:42 UTC
 ! Expires: 3 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -11,7 +11,7 @@
 !
 !-------------- annoyance_filters --------------
 
-!----- annoyance_filters/specific_hide.txt -----
+!----- filters_annoyance/specific_hide.txt -----
 thaiware.com###MainPopup
 blognone.com###above_comments
 blognone.com###block-views-jobs-blognone-com-block
@@ -31,23 +31,23 @@ thaiware.com##div[id^="fanbox"]
 thaiware.com##div[id^="fanclose"]
 animeloli.com##header
 
-!----- annoyance_filters/thirdparty.txt -----
+!----- filters_annoyance/thirdparty.txt -----
 
 
-!----- annoyance_filters/general_block.txt -----
+!----- filters_annoyance/general_block.txt -----
 itro-popup/scripts/itro-scripts.js$first-party,script
 ||pantip.com/api/forum-service/forum/get_promote_box?
 ||pantip.com/api/forum-service/forum/get_promote_tag?
 
-!----- annoyance_filters/specific_block.txt -----
+!----- filters_annoyance/specific_block.txt -----
 ||blogspot.com/*/LOGO-1-utaseries.co.png$image,redirect=1x1.gif
 ||cdn.onesignal.com^$important,script,third-party
 ||komchadluek.net/cookie_confirm$script
 ||mailchimp.com/js/signup-forms/popup/*$script,third-party
 ||richinfo.co/js/$script,third-party
 
-!----- annoyance_filters/general_hide.txt -----
+!----- filters_annoyance/general_hide.txt -----
 
 
-!----- annoyance_filters/whitelist.txt -----
+!----- filters_annoyance/whitelist.txt -----
 

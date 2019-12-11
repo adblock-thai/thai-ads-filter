@@ -1,0 +1,18 @@
+! Title: Thai Adblock List Test
+! Description: Thai ads test filters
+! Version: 201912110142
+! Last modified: 11 Dec 2019 01:42 UTC
+! Expires: 1 days
+! Homepage: https://adblock-thai.github.io/
+! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
+! Reporting Issues: https://github.com/adblock-thai/thai-ads-filter/issues
+! Community: https://spectrum.chat/adblock-thailand
+! Download: https://adblock-thai.github.io/thai-ads-filter/test_filters.txt
+!
+!-------------- ads_filters --------------
+
+!----- filters_test/filters.txt -----
+037hdd.com,2youhd.net,kuyhd.com,xn--72czp5e5a8b.online##.leftC > .filmborder:not(:has(.filmcontent))
+
+!----- filters_test/whitelist.txt -----
+
