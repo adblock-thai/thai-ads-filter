@@ -3,3 +3,5 @@
 ||komchadluek.net/cookie_confirm$script
 ||mailchimp.com/js/signup-forms/popup/*$script,third-party
 ||richinfo.co/js/$script,third-party
+! axeload.com facebook popup
+||axeload.com/wp-content/plugins/popup-by-supsystic/*
