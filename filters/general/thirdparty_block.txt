@@ -1,4 +1,3 @@
-||*.cdnstreamth.me/sagame66.mp4$media,redirect=noop-1s.mp4,third-party
 ||7mscorethai.com^$media,redirect=noop-1s.mp4,third-party
 ||amvata.com/widget/$third-party
 ||avenger98th.com/*banner.mp4$media,redirect=noop-1s.mp4,third-party
@@ -8,7 +7,6 @@
 ||cdn.digitaloceanspaces.com/dreamgame88.mp4$media,redirect=noop-1s.mp4,third-party
 ||cdn.osamime.ml^$media,redirect=noop-1s.mp4,third-party
 ||cdn.sexygame66.com^$media,redirect=noop-1s.mp4,third-party
-||cdnstreamth.me/sexygame66.mp4$media,redirect=noop-1s.mp4,third-party
 ||cornerhd.com^$media,redirect=noop-1s.mp4,third-party
 ||foxwood168.com^$media,redirect=noop-1s.mp4,third-party
 ||ft99.b-cdn.net^$third-party
