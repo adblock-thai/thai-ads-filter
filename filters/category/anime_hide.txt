@@ -25,6 +25,7 @@ merlin-anime.com##.merlin_banner
 airi-anime.com##.movie-container a[target="blank"] > img
 anime-super.com##.movie-container.container div.text-center
 kingsmanga.net##.new-kingsmanga-section
+sololeveling.net##.pages__ad
 animedd.xyz##.panel:has-text(Ads)
 opuree.com##.show.fade.modal-backdrop
 godcat-manga.com##.text-center.m-t-20.row
