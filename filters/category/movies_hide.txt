@@ -42,6 +42,7 @@ series-d.com##.imgkosana
 series-d.com##.kosana-banner
 series-d.com##.kosana-container
 kseries-online.com##.kosana-container-m
+037hdd.com,2youhd.net,kuyhd.com,xn--72czp5e5a8b.online##.leftC > .filmborder:not(:has(.filmcontent))
 movie2z.com##.mainbtn img
 fanseriesthaisub.com##.margin-banner
 888movie2u.com##.sgpb-popup-dialog-main-div-wrapper
