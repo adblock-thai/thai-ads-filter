@@ -3,6 +3,7 @@ madooseries.com###\34
 tvseriesclub.com###ads728x90top
 2youhd.net,2youhdd.com,doo4k.com,nungnew-hd.com###banner-left
 doo4k.com###banner-right
+fanseriesthaisub.com###block1
 nungsub.com###bsa-block-728--90
 series-d.com###bt-kosana
 series-d.com###float_ad
@@ -39,6 +40,7 @@ nungnew-hd.com##.code-block
 nungsub.com,pannung.com##.custom-html-widget.textwidget
 2youhd.net##.filmborder:style(height:unset !important;)
 doomovie-hd.com##.floating_ads_bt-mid_container
+fanseriesthaisub.com##.footer-advertise
 doomovie-hd.com##.horizontal-ad-bar
 series-d.com##.imgkosana
 dofree.co##.inzad_player
