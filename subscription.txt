@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 202001190536
-! Last modified: 19 Jan 2020 05:36 UTC
+! Version: 202001190538
+! Last modified: 19 Jan 2020 05:38 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -547,6 +547,7 @@ series-d.com##.imgkosana
 series-d.com##.kosana-banner
 series-d.com##.kosana-container
 kseries-online.com##.kosana-container-m
+037hdd.com,2youhd.net,kuyhd.com,xn--72czp5e5a8b.online##.leftC > .filmborder:not(:has(.filmcontent))
 movie2z.com##.mainbtn img
 fanseriesthaisub.com##.margin-banner
 888movie2u.com##.sgpb-popup-dialog-main-div-wrapper
