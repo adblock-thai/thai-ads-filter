@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 202001181657
-! Last modified: 18 Jan 2020 16:57 UTC
+! Version: 202001190315
+! Last modified: 19 Jan 2020 03:15 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -397,6 +397,7 @@ do-anime.com##img[alt=macau8889]
 ||i.imgur.com^$media,redirect=noop-1s.mp4,third-party,domain=nungsub.com
 ||kseries-online.com/vast/*$media,redirect=noop-1s.mp4
 ||ksubtv.net/wp-content/plugins/ultimate-popunder/$script
+||movie24.info/*/banner/*$image,redirect=2x2.png
 ||movie24.info/*/banner/*$media,redirect=noop-1s.mp4
 ||movie2uhd.com/*.mp4$media,redirect=noop-1s.mp4
 ||movieszaa.com/adsvideo/*$media,redirect=noop-1s.mp4
@@ -512,6 +513,7 @@ seriesfreeonline.com###fuck-adb-enabled
 pannung.com,vojkudee.net###id01
 ohztv.com###ifrap
 seriesfreeonline.com###kosana_click
+movie24.info###light1
 movie8free.com###slid02
 movieszaa.com###wrap > .box
 veecinema.com,xn--72czp7a9bc4b9c4e6b.com##+js(abort-current-inline-script.js, $, playervideo, hide)
@@ -558,7 +560,7 @@ fanseriesthaisub.com##a > img.w-100
 nungnew-hd.com##a[href*=pegloang]
 baan-series.com##a[rel*=d่ofollow] > img
 nungsub.com##a[rel*=nofollow] > div[class*=img]
-1080moviehd.com,2youhd.net,2youhdd.com,baan-series.com,doo4k.com,imovie-hd.com,movie2freeth.com,movie2freevip.com,moviedoofee.com,newmovie-4k.com,nunglnw.com,nungnew-hd.com,nungsub.com,seriespop.com,sine.tv,utaseries.com##a[rel*=nofollow] > img
+1080moviehd.com,2youhd.net,2youhdd.com,baan-series.com,doo4k.com,imovie-hd.com,movie24.info,movie2freeth.com,movie2freevip.com,moviedoofee.com,newmovie-4k.com,nunglnw.com,nungnew-hd.com,nungsub.com,seriespop.com,sine.tv,utaseries.com##a[rel*=nofollow] > img
 movie2freevip.com##a[rel*=noreferrer] > img
 nungsub.com##a[rel=bookmark] > img[alt*=banner]
 series-nanime.com##a[rel=nofollow] > img
