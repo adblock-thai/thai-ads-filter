@@ -6,6 +6,7 @@ doo4k.com###banner-right
 fanseriesthaisub.com###block1
 nungsub.com###bsa-block-728--90
 series-d.com###bt-kosana
+watchlakorn.in###cploading
 series-d.com###float_ad
 seriesfreeonline.com###fuck-adb-enabled
 pannung.com,vojkudee.net###id01
@@ -26,6 +27,7 @@ series-d.com##+js(nofab.js)
 doofree88.com,nung2hd.com##+js(window.open-defuser.js)
 movie2uhd.com##.ad
 movie2uhd.com##.ad-float
+watchlakorn.in##.ad_home
 movie2uhd.com##.adbr
 movie2uhd.com##.adcen
 movie2uhd.com##.adhl
