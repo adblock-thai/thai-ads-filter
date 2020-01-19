@@ -3,7 +3,7 @@ madooseries.com###\34
 tvseriesclub.com###ads728x90top
 2youhd.net,2youhdd.com,doo4k.com,nungnew-hd.com###banner-left
 doo4k.com###banner-right
-fanseriesthaisub.com###block1
+dayoffseries.com,fanseriesthaisub.com###block1
 nungsub.com###bsa-block-728--90
 series-d.com###bt-kosana
 watchlakorn.in###cploading
@@ -60,7 +60,7 @@ seriesclub-th.com##.td-header-rec-wrap
 seriesclubs.com##.twy-pubadban
 superseriesthai.com##a > img.img-fluid
 fanseriesthaisub.com##a > img.w-100
-037hdd.com,akaanime.com,baan-series.com,doofree88.com,doolunla.com,ioiwork.com,owlserieshd.com,series-d.com,uhuseries.com##a > img[src*=".gif"]
+037hdd.com,akaanime.com,baan-series.com,dayoffseries.com,doofree88.com,doolunla.com,ioiwork.com,owlserieshd.com,series-d.com,uhuseries.com##a > img[src*=".gif"]
 nungnew-hd.com##a[href*=pegloang]
 baan-series.com##a[rel*=d่ofollow] > img
 nungsub.com##a[rel*=nofollow] > div[class*=img]
