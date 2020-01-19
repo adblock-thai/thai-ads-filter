@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 202001190831
-! Last modified: 19 Jan 2020 08:31 UTC
+! Version: 202001190852
+! Last modified: 19 Jan 2020 08:52 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -403,6 +403,7 @@ do-anime.com##img[alt=macau8889]
 ||movie2uhd.com/*.mp4$media,redirect=noop-1s.mp4
 ||movieszaa.com/adsvideo/*$media,redirect=noop-1s.mp4
 ||otv.co.th/images/banner/
+||playerlunla.com/*.mp4$media,redirect=noop-1s.mp4
 ||series-d.com/vast/*$media,redirect=noop-1s.mp4
 ||series-nanime.com/adsvideo^
 ||test.dunplayer.online$media,redirect=noop-1s.mp4,third-party
@@ -510,6 +511,7 @@ tvseriesclub.com###ads728x90top
 doo4k.com###banner-right
 nungsub.com###bsa-block-728--90
 series-d.com###bt-kosana
+series-d.com###float_ad
 seriesfreeonline.com###fuck-adb-enabled
 pannung.com,vojkudee.net###id01
 ohztv.com###ifrap
@@ -560,7 +562,7 @@ seriesclub-th.com##.td-header-rec-wrap
 seriesclubs.com##.twy-pubadban
 superseriesthai.com##a > img.img-fluid
 fanseriesthaisub.com##a > img.w-100
-037hdd.com,akaanime.com,baan-series.com,doofree88.com,ioiwork.com,uhuseries.com##a > img[src*=".gif"]
+037hdd.com,akaanime.com,baan-series.com,doofree88.com,doolunla.com,ioiwork.com,series-d.com,uhuseries.com##a > img[src*=".gif"]
 nungnew-hd.com##a[href*=pegloang]
 baan-series.com##a[rel*=d่ofollow] > img
 nungsub.com##a[rel*=nofollow] > div[class*=img]
