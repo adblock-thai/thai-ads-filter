@@ -9,6 +9,7 @@ seriesfreeonline.com###fuck-adb-enabled
 pannung.com,vojkudee.net###id01
 ohztv.com###ifrap
 seriesfreeonline.com###kosana_click
+movie24.info###light1
 movie8free.com###slid02
 movieszaa.com###wrap > .box
 veecinema.com,xn--72czp7a9bc4b9c4e6b.com##+js(abort-current-inline-script.js, $, playervideo, hide)
@@ -55,7 +56,7 @@ fanseriesthaisub.com##a > img.w-100
 nungnew-hd.com##a[href*=pegloang]
 baan-series.com##a[rel*=d่ofollow] > img
 nungsub.com##a[rel*=nofollow] > div[class*=img]
-1080moviehd.com,2youhd.net,2youhdd.com,baan-series.com,doo4k.com,imovie-hd.com,movie2freeth.com,movie2freevip.com,moviedoofee.com,newmovie-4k.com,nunglnw.com,nungnew-hd.com,nungsub.com,seriespop.com,sine.tv,utaseries.com##a[rel*=nofollow] > img
+1080moviehd.com,2youhd.net,2youhdd.com,baan-series.com,doo4k.com,imovie-hd.com,movie24.info,movie2freeth.com,movie2freevip.com,moviedoofee.com,newmovie-4k.com,nunglnw.com,nungnew-hd.com,nungsub.com,seriespop.com,sine.tv,utaseries.com##a[rel*=nofollow] > img
 movie2freevip.com##a[rel*=noreferrer] > img
 nungsub.com##a[rel=bookmark] > img[alt*=banner]
 series-nanime.com##a[rel=nofollow] > img
