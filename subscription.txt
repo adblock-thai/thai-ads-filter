@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 202001190852
-! Last modified: 19 Jan 2020 08:52 UTC
+! Version: 202001190900
+! Last modified: 19 Jan 2020 09:00 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -509,6 +509,7 @@ madooseries.com###\34
 tvseriesclub.com###ads728x90top
 2youhd.net,2youhdd.com,doo4k.com,nungnew-hd.com###banner-left
 doo4k.com###banner-right
+fanseriesthaisub.com###block1
 nungsub.com###bsa-block-728--90
 series-d.com###bt-kosana
 series-d.com###float_ad
@@ -545,6 +546,7 @@ nungnew-hd.com##.code-block
 nungsub.com,pannung.com##.custom-html-widget.textwidget
 2youhd.net##.filmborder:style(height:unset !important;)
 doomovie-hd.com##.floating_ads_bt-mid_container
+fanseriesthaisub.com##.footer-advertise
 doomovie-hd.com##.horizontal-ad-bar
 series-d.com##.imgkosana
 dofree.co##.inzad_player
