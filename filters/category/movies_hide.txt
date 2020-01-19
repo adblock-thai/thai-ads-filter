@@ -10,6 +10,7 @@ pannung.com,vojkudee.net###id01
 ohztv.com###ifrap
 seriesfreeonline.com###kosana_click
 movie24.info###light1
+dofree.co###p9fe
 movie8free.com###slid02
 movieszaa.com###wrap > .box
 veecinema.com,xn--72czp7a9bc4b9c4e6b.com##+js(abort-current-inline-script.js, $, playervideo, hide)
@@ -39,6 +40,7 @@ nungsub.com,pannung.com##.custom-html-widget.textwidget
 doomovie-hd.com##.floating_ads_bt-mid_container
 doomovie-hd.com##.horizontal-ad-bar
 series-d.com##.imgkosana
+dofree.co##.inzad_player
 series-d.com##.kosana-banner
 series-d.com##.kosana-container
 kseries-online.com##.kosana-container-m
