@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 202001190900
-! Last modified: 19 Jan 2020 09:00 UTC
+! Version: 202001190917
+! Last modified: 19 Jan 2020 09:17 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -386,7 +386,7 @@ do-anime.com##img[alt=macau8889]
 !----- filters/category/movies_block.txt -----
 */LoadingCircleYouTube.mp4$media,redirect=noop-1s.mp4,domain=dooserieshd.com|kseries.tv|ksubtv.co|ohztv.com
 ||*.cdnstreamth.me/*.mp4$media,redirect=noop-1s.mp4,third-party
-||*.gif$image,domain=037hdd.com|1080moviehd.com|2youhd.net|888movie.com|akaanime.com|baan-series.com|doofree88.com|doofreeseries.com|doonungdee.online|dufree4k.com|iamiptv.com|imovie-hd.com|madooseries.com|movie1free.com|movie2thai.com|movie2uhd.com|movie356hd.com|movie365-hd.com|movie8free.com|movierj.com|new-mastermovie.com|owlseries.com|series-nanime.com|series4you.com|seriesclubs.com|star-seriesth.com|superseriesthai.com|tvseriesclub.com|ufa365movie.com|utaseries.com|xn--72czp5e5a8b.online
+||*.gif$image,domain=037hdd.com|1080moviehd.com|2youhd.net|888movie.com|akaanime.com|baan-series.com|doofree88.com|doofreeseries.com|doonungdee.online|dufree4k.com|iamiptv.com|imovie-hd.com|madooseries.com|movie1free.com|movie2thai.com|movie2uhd.com|movie356hd.com|movie365-hd.com|movie8free.com|movierj.com|new-mastermovie.com|owlseries.com|series-nanime.com|series4you.com|seriesclubs.com|star-seriesth.com|superseriesthai.com|tvseriesclub.com|ufa365movie.com|xn--72czp5e5a8b.online
 ||*.webp$image,domain=new-mastermovie.com
 ||adintrend.tv/images/banner/*
 ||ball.movierj.com
@@ -512,6 +512,7 @@ doo4k.com###banner-right
 fanseriesthaisub.com###block1
 nungsub.com###bsa-block-728--90
 series-d.com###bt-kosana
+watchlakorn.in###cploading
 series-d.com###float_ad
 seriesfreeonline.com###fuck-adb-enabled
 pannung.com,vojkudee.net###id01
@@ -532,6 +533,7 @@ series-d.com##+js(nofab.js)
 doofree88.com,nung2hd.com##+js(window.open-defuser.js)
 movie2uhd.com##.ad
 movie2uhd.com##.ad-float
+watchlakorn.in##.ad_home
 movie2uhd.com##.adbr
 movie2uhd.com##.adcen
 movie2uhd.com##.adhl
@@ -564,11 +566,11 @@ seriesclub-th.com##.td-header-rec-wrap
 seriesclubs.com##.twy-pubadban
 superseriesthai.com##a > img.img-fluid
 fanseriesthaisub.com##a > img.w-100
-037hdd.com,akaanime.com,baan-series.com,doofree88.com,doolunla.com,ioiwork.com,series-d.com,uhuseries.com##a > img[src*=".gif"]
+037hdd.com,akaanime.com,baan-series.com,doofree88.com,doolunla.com,ioiwork.com,owlserieshd.com,series-d.com,uhuseries.com##a > img[src*=".gif"]
 nungnew-hd.com##a[href*=pegloang]
 baan-series.com##a[rel*=d่ofollow] > img
 nungsub.com##a[rel*=nofollow] > div[class*=img]
-1080moviehd.com,2youhd.net,2youhdd.com,baan-series.com,doo4k.com,imovie-hd.com,movie24.info,movie2freeth.com,movie2freevip.com,moviedoofee.com,newmovie-4k.com,nunglnw.com,nungnew-hd.com,nungsub.com,seriespop.com,sine.tv,utaseries.com##a[rel*=nofollow] > img
+1080moviehd.com,2youhd.net,2youhdd.com,baan-series.com,doo4k.com,imovie-hd.com,movie24.info,movie2freeth.com,movie2freevip.com,moviedoofee.com,newmovie-4k.com,nunglnw.com,nungnew-hd.com,nungsub.com,seriespop.com,sine.tv,uhuseries.com##a[rel*=nofollow] > img
 movie2freevip.com##a[rel*=noreferrer] > img
 nungsub.com##a[rel=bookmark] > img[alt*=banner]
 series-nanime.com##a[rel=nofollow] > img
