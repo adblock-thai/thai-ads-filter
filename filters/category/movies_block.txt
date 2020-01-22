@@ -13,6 +13,7 @@ wonderlandthemovie.com/*/banner/*
 ||i.imgur.com^$media,redirect=noop-1s.mp4,third-party,domain=nungsub.com
 ||kseries-online.com/vast/*$media,redirect=noop-1s.mp4
 ||ksubtv.net/wp-content/plugins/ultimate-popunder/$script
+||movie-th.com/ads/*$media,redirect=noop-1s.mp4
 ||movie24.info/*/banner/*$image,redirect=2x2.png
 ||movie24.info/*/banner/*$media,redirect=noop-1s.mp4
 ||movie2uhd.com/*.mp4$media,redirect=noop-1s.mp4
