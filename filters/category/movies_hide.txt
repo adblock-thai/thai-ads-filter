@@ -62,7 +62,7 @@ seriesclubs.com##.twy-pubadban
 nungdung.com##.wrapper-ads
 superseriesthai.com##a > img.img-fluid
 fanseriesthaisub.com##a > img.w-100
-037hdd.com,akaanime.com,baan-series.com,dayoffseries.com,doofree88.com,doolunla.com,ioiwork.com,owlserieshd.com,series-d.com,uhuseries.com##a > img[src*=".gif"]
+037hdd.com,akaanime.com,baan-series.com,box-series.com,dayoffseries.com,doofree88.com,doolunla.com,ioiwork.com,owlserieshd.com,series-d.com,uhuseries.com##a > img[src*=".gif"]
 nungnew-hd.com##a[href*=pegloang]
 baan-series.com##a[rel*=d่ofollow] > img
 nungsub.com##a[rel*=nofollow] > div[class*=img]
@@ -70,7 +70,7 @@ nungsub.com##a[rel*=nofollow] > div[class*=img]
 movie2freevip.com##a[rel*=noreferrer] > img
 nungsub.com##a[rel=bookmark] > img[alt*=banner]
 series-nanime.com##a[rel=nofollow] > img
-donung.me,doonung-hd.com,madooseries.com,movie2z.com,moviedoofee.com,movierj.com,nanamovies.com,nunglnw.com,series24hr.com##a[target=_blank] > img
+box-series.com,donung.me,doonung-hd.com,madooseries.com,movie2z.com,moviedoofee.com,movierj.com,nanamovies.com,nunglnw.com,series24hr.com##a[target=_blank] > img
 037-hd.com,xn--72czp7a9bc4b9c4e6b.com##a[target=_blank] > img.img-responsive
 doofreeseries.com##a[target=_blank] > img.size-full
 madooseries.com##a[target=_new] > img
