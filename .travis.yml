@@ -23,14 +23,14 @@ before_script:
 
 script:
   - revision=$(git rev-parse --short HEAD)
-  - git clone -b gh-pages "https://$GITHUB_TOKEN@github.com/adblock-thai/thai-ads-filter" output
+  - git clone -b gh-pages "https://$GITHUB_TOKEN@github.com/adblock-thai/thai-ads-filter" output_filters
   - python FOP.py
   - python render.py
-  - cd output && git add --all .
+  - cd output_filters && git add --all .
   - git commit -m "⚡️ Publishing revision $revision"
   - git push --force origin gh-pages
   - cd ..
-  - rm -rf output
+  - rm -rf output_filters
   - |
     if ! git diff --name-only | grep -qE 'filter.*txt'
     then

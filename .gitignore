@@ -3,4 +3,5 @@ __pycache__/
 *.pyc
 .vscode
 output
+output_filters
 node_modules

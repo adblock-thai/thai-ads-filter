@@ -4,7 +4,7 @@ import os
 from time import gmtime, strftime
 import glob
 
-output_dir = "output/"
+output_dir = "output_filters/"
 template_dir = "templates/"
 filter_paths = [
     {"path": "filters/", "template": "template.j2", "output": "subscription.txt"},

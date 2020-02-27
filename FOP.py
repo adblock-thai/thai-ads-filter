@@ -72,7 +72,7 @@ BLANKPATTERN = re.compile(r"^\s*$")
 COMMITPATTERN = re.compile(r"^(A|M|P)\:\s(\((.+)\)\s)?(.*)$")
 
 # List the files that should not be sorted, either because they have a special sorting system or because they are not filter files
-IGNORE = ("output", "requirements.txt", "templates", "node_modules")
+IGNORE = ("output", "output_filters", "requirements.txt", "templates", "node_modules")
 
 # List all uBO options (excepting domain, which is handled separately), as of version 1.21.9b7
 # https://github.com/gorhill/uBlock/wiki/Resources-Library
