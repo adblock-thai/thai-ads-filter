@@ -31,6 +31,7 @@ watchlakorn.in##.ad_home
 movie-th.com##.adstop-movie
 popuplayer.com##.adtt
 pannung.com,xn--82cf0aw7bf9jbc7a0nyb.com##.banner-header
+moviemocha.com##.banner-top-fixed
 037hdd.com##.bireklam
 star-seriesth.com##.bottom-2x.text-center
 nung2hd.com##.boxads-bottom-end
@@ -60,7 +61,7 @@ movie2uhd.com##.widgettitle-banner + a[rel^="nofollow"][target="_blank"] > img
 nungdung.com##.wrapper-ads
 superseriesthai.com##a > img.img-fluid
 fanseriesthaisub.com##a > img.w-100
-037hdd.com,akaanime.com,baan-series.com,box-series.com,dayoffseries.com,doofree88.com,doolunla.com,ioiwork.com,owlserieshd.com,series-d.com,uhuseries.com##a > img[src*=".gif"]
+037hdd.com,akaanime.com,baan-series.com,box-series.com,dayoffseries.com,doofree88.com,doolunla.com,ioiwork.com,moviemocha.com,owlserieshd.com,series-d.com,uhuseries.com##a > img[src*=".gif"]
 nungnew-hd.com##a[href*=pegloang]
 baan-series.com##a[rel*=d่ofollow] > img
 nungsub.com##a[rel*=nofollow] > div[class*=img]
