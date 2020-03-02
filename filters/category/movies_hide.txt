@@ -53,7 +53,6 @@ movie2z.com##.mainbtn img
 fanseriesthaisub.com##.margin-banner
 888movie2u.com##.sgpb-popup-dialog-main-div-wrapper
 888movie2u.com##.sgpb-popup-overlay
-ch3plus.com##.sp-banner
 nungnew-hd.com##.sp-no-webp.img-responsive
 seriesclub-th.com##.td-a-rec-id-header_mob
 seriesclub-th.com##.td-header-rec-wrap
