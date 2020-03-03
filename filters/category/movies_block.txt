@@ -20,6 +20,7 @@ wonderlandthemovie.com/*/banner/*
 ||movie2uhd.com/*.mp4$media,redirect=noop-1s.mp4
 ||movieszaa.com/adsvideo/*$media,redirect=noop-1s.mp4
 ||otv.co.th/images/banner/
+||play-serieshd.com/ads/*$media,redirect=noop-1s.mp4
 ||playerlunla.com/*.mp4$media,redirect=noop-1s.mp4
 ||series-d.com/vast/*$media,redirect=noop-1s.mp4
 ||series-nanime.com/adsvideo^
