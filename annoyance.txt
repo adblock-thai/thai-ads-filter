@@ -1,7 +1,7 @@
 ! Title: Thai Annoyance Filter
 ! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups.
-! Version: 202003020431
-! Last modified: 02 Mar 2020 04:31 UTC
+! Version: 202003030132
+! Last modified: 03 Mar 2020 01:32 UTC
 ! Expires: 3 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
