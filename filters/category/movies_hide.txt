@@ -58,7 +58,7 @@ seriesclub-th.com##.td-a-rec-id-header_mob
 seriesclub-th.com##.td-header-rec-wrap
 seriesclubs.com##.twy-pubadban
 movie2uhd.com##.widgettitle-banner + a[rel^="nofollow"][target="_blank"] > img
-nungdung.com##.wrapper-ads
+do9movie.com,nungdung.com##.wrapper-ads
 superseriesthai.com##a > img.img-fluid
 fanseriesthaisub.com##a > img.w-100
 037hdd.com,akaanime.com,baan-series.com,box-series.com,dayoffseries.com,doofree88.com,doolunla.com,ioiwork.com,moviemocha.com,owlserieshd.com,series-d.com,uhuseries.com##a > img[src*=".gif"]
