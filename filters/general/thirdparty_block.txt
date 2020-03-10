@@ -9,6 +9,7 @@
 ||cdn.oct2bet.com$media,redirect=noop-1s.mp4,third-party
 ||cdn.osamime.ml^$media,redirect=noop-1s.mp4,third-party
 ||cdn.playhub777.com$media,redirect=noop-1s.mp4,third-party
+||cdn.playhub888.com$media,redirect=noop-1s.mp4,third-party
 ||cdn.sexygame66.com^$media,redirect=noop-1s.mp4,third-party
 ||cornerhd.com^$media,redirect=noop-1s.mp4,third-party
 ||foxwood168.com^$media,redirect=noop-1s.mp4,third-party
