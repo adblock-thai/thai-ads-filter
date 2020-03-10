@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List Test
 ! Description: Thai ads test filters
-! Version: 202003051247
-! Last modified: 05 Mar 2020 12:47 UTC
+! Version: 202003101450
+! Last modified: 10 Mar 2020 14:50 UTC
 ! Expires: 1 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
