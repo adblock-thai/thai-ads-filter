@@ -1,5 +1,6 @@
 thethaiger.com###pop-overlay
 newstawan.com###sgpb-popup-dialog-main-div
+khaosod.co.th##.ads_position_wrapper
 morning-news.bectero.com##.ads_zonea
 thairath.co.th##.show.modal
 thairath.co.th##.show.modal-backdrop

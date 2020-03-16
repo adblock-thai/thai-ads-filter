@@ -10,6 +10,7 @@ voicetv.co.th##.is-active.content-bar > .navbar
 pantip.com##.pt-snackbar
 prachatai.com##.st-sticky-share-buttons
 prachatai.com##.support-pay
+khaosod.co.th##.udsg__content > p:has(img[src*="line-apps.com/n/line_add_friends"])
 blognone.com##div[class*="node sticky"]
 thaiware.com##div[id^="fan-exit"]
 thaiware.com##div[id^="fanback"]
