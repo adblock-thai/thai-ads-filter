@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 202003101450
-! Last modified: 10 Mar 2020 14:50 UTC
+! Version: 202003160816
+! Last modified: 16 Mar 2020 08:16 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -493,6 +493,7 @@ pantip.com##td > a[href*="ads.pantip.com"]
 !----- filters/category/news_hide.txt -----
 thethaiger.com###pop-overlay
 newstawan.com###sgpb-popup-dialog-main-div
+khaosod.co.th##.ads_position_wrapper
 morning-news.bectero.com##.ads_zonea
 thairath.co.th##.show.modal
 thairath.co.th##.show.modal-backdrop
