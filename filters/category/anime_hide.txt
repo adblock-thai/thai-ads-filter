@@ -1,6 +1,7 @@
 box-manga.com,mangath.co###ads728x90top
 anime-i.com###ani688
 lnwmanga.com###divAdsBg
+cat-translator.com###fixedban
 xn--l3ckaa2bza6cca2a6b5c8evc0g.com###i_popup_box_x
 animeloli.com###link_h_movie_ad
 gg-anime.com###main > center
