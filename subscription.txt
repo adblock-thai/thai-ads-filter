@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 202004190951
-! Last modified: 19 Apr 2020 09:51 UTC
+! Version: 202004191003
+! Last modified: 19 Apr 2020 10:03 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -276,6 +276,7 @@ player/plugins/vast-*.js$script
 ||get4u.net^$media,redirect=noop-1s.mp4,third-party
 ||goalclub.live^$media,redirect=noop-1s.mp4,third-party
 ||goalclub.tv^$media,redirect=noop-1s.mp4,third-party
+||googles.video/**/ssgame66.mp4$3p,media,redirect=noop-1s.mp4
 ||lsm45.com^$media,redirect=noop-1s.mp4,third-party
 ||magiclampz.com^$media,redirect=noop-1s.mp4,third-party
 ||movie365-hd.com/ads/*$media,redirect=noop-1s.mp4
@@ -432,6 +433,7 @@ wonderlandthemovie.com/*/banner/*
 ||movie24.info/*/banner/*$media,redirect=noop-1s.mp4
 ||movie2uhd.com/*.mp4$media,redirect=noop-1s.mp4
 ||movieszaa.com/adsvideo/*$media,redirect=noop-1s.mp4
+||newmovie-hd.org/ads/**.mp4$media,redirect=noop-1s.mp4
 ||otv.co.th/images/banner/
 ||play-serieshd.com/ads/*$media,redirect=noop-1s.mp4
 ||playerlunla.com/*.mp4$media,redirect=noop-1s.mp4
