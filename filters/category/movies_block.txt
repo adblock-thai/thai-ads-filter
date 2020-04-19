@@ -1,7 +1,7 @@
 */LoadingCircleYouTube.mp4$media,redirect=noop-1s.mp4,domain=dooserieshd.com|kseries.tv|ksubtv.co|ohztv.com
 wonderlandthemovie.com/*/banner/*
 ||*.cdnstreamth.me/*.mp4$media,redirect=noop-1s.mp4,third-party
-||*.gif$image,domain=037hdd.com|1080moviehd.com|2youhd.net|888movie.com|akaanime.com|baan-series.com|do9movie.com|doofree88.com|doofreeseries.com|doonungdee.online|doonungonline.com|dufree4k.com|iamiptv.com|imovie-hd.com|madooseries.com|movie-th.com|movie1free.com|movie2fin.com|movie2thai.com|movie2uhd.com|movie356hd.com|movie365-hd.com|movie8free.com|moviemocha.com|movierj.com|new-mastermovie.com|owlseries.com|series-nanime.com|series4you.com|seriesclubs.com|star-seriesth.com|superseriesthai.com|tvseriesclub.com|ufa365movie.com|xn--72czp5e5a8b.online
+||*.gif$image,domain=037hdd.com|1080moviehd.com|2youhd.net|888movie.com|akaanime.com|baan-series.com|do9movie.com|doofree88.com|doofreeseries.com|doonungdee.online|doonungonline.com|dufree4k.com|iamiptv.com|imovie-hd.com|madooseries.com|movie-th.com|movie1free.com|movie2fin.com|movie2thai.com|movie2uhd.com|movie356hd.com|movie365-hd.com|movie8free.com|moviemocha.com|movierj.com|new-mastermovie.com|owlseries.com|series-nanime.com|series4you.com|seriesclubs.com|star-seriesth.com|superseriesthai.com|thmovieshd.com|tvseriesclub.com|ufa365movie.com|xn--72czp5e5a8b.online
 ||*.webp$image,domain=new-mastermovie.com
 ||adintrend.tv/images/banner/*
 ||ball.movierj.com

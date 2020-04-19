@@ -2,6 +2,7 @@
 ||7mscorethai.com^$media,redirect=noop-1s.mp4,third-party
 ||amvata.com/widget/$third-party
 ||avenger98th.com/*banner.mp4$media,redirect=noop-1s.mp4,third-party
+||b-cdn.net/**/ads/**.mp4$media,redirect=noop-1s.mp4,third-party
 ||bannung.com^$media,redirect=noop-1s.mp4,third-party
 ||baover-vdo.com^$media,redirect=noop-1s.mp4,third-party
 ||baover.ml^$media,redirect=noop-1s.mp4,third-party
