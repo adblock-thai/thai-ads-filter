@@ -21,6 +21,7 @@
 ||get4u.net^$media,redirect=noop-1s.mp4,third-party
 ||goalclub.live^$media,redirect=noop-1s.mp4,third-party
 ||goalclub.tv^$media,redirect=noop-1s.mp4,third-party
+||googles.video/**/ssgame66.mp4$3p,media,redirect=noop-1s.mp4
 ||lsm45.com^$media,redirect=noop-1s.mp4,third-party
 ||magiclampz.com^$media,redirect=noop-1s.mp4,third-party
 ||movie365-hd.com/ads/*$media,redirect=noop-1s.mp4

@@ -19,6 +19,7 @@ wonderlandthemovie.com/*/banner/*
 ||movie24.info/*/banner/*$media,redirect=noop-1s.mp4
 ||movie2uhd.com/*.mp4$media,redirect=noop-1s.mp4
 ||movieszaa.com/adsvideo/*$media,redirect=noop-1s.mp4
+||newmovie-hd.org/ads/**.mp4$media,redirect=noop-1s.mp4
 ||otv.co.th/images/banner/
 ||play-serieshd.com/ads/*$media,redirect=noop-1s.mp4
 ||playerlunla.com/*.mp4$media,redirect=noop-1s.mp4
