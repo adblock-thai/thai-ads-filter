@@ -79,3 +79,5 @@ movie365-hd.com##div[class^="ad-"]
 movie365-hd.com##div[class^="ad_"]
 seriesfreeonline.com##html:style(overflow: auto !important;)
 037-hd.com##img.img-responsive[src*="banner"]
+037hdmovie.com##a[rel^="nofollow"] > img
+037hdmovie.com###banner-left
