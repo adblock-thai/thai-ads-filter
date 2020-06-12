@@ -1,7 +1,7 @@
 madooseries.com###\33
 madooseries.com###\34
 tvseriesclub.com###ads728x90top
-2youhd.net,2youhdd.com,doo4k.com,nungnew-hd.com###banner-left
+037hdmovie.com,2youhd.net,2youhdd.com,doo4k.com,nungnew-hd.com###banner-left
 doo4k.com###banner-right
 dayoffseries.com,fanseriesthaisub.com###block1
 nungsub.com###bsa-block-728--90
@@ -69,6 +69,7 @@ nungsub.com##a[rel*=nofollow] > div[class*=img]
 movie2freevip.com##a[rel*=noreferrer] > img
 nungsub.com##a[rel=bookmark] > img[alt*=banner]
 nanime-play.com,series-nanime.com##a[rel=nofollow] > img
+037hdmovie.com##a[rel^="nofollow"] > img
 box-series.com,donung.me,doonung-hd.com,madooseries.com,movie2z.com,moviedoofee.com,movierj.com,nanamovies.com,nunglnw.com,series24hr.com##a[target=_blank] > img
 037-hd.com,xn--72czp7a9bc4b9c4e6b.com##a[target=_blank] > img.img-responsive
 doofreeseries.com##a[target=_blank] > img.size-full
@@ -79,5 +80,3 @@ movie365-hd.com##div[class^="ad-"]
 movie365-hd.com##div[class^="ad_"]
 seriesfreeonline.com##html:style(overflow: auto !important;)
 037-hd.com##img.img-responsive[src*="banner"]
-037hdmovie.com##a[rel^="nofollow"] > img
-037hdmovie.com###banner-left
