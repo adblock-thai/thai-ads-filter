@@ -45,7 +45,7 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/16535467?v=4",
       "profile": "https://twitter.com/kowith337",
       "contributions": [
-        "filter"
+        "code"
       ]
     },
     {
@@ -54,7 +54,8 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/19259262?v=4",
       "profile": "http://anime-thai.net/",
       "contributions": [
-        "filter"
+        "code",
+        "bug"
       ]
     }
   ],
