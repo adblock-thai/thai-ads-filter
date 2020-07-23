@@ -65,9 +65,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/pakonda"><img src="https://avatars1.githubusercontent.com/u/6489925?v=4" width="100px;" alt="pakonda"/><br /><sub><b>pakonda</b></sub></a><br /><a href="https://github.com/adblock-thai/thai-ads-filter/commits?author=pakonda" title="Code">💻</a> <a href="https://github.com/adblock-thai/thai-ads-filter/commits?author=pakonda" title="Documentation">📖</a> <a href="#filter-pakonda" title="People who help create filter list">🚫</a> <a href="#blog-pakonda" title="Blogposts">📝</a></td>
-    <td align="center"><a href="https://github.com/powwadol"><img src="https://avatars0.githubusercontent.com/u/42528750?v=4" width="100px;" alt="Michio"/><br /><sub><b>Michio</b></sub></a><br /><a href="https://github.com/adblock-thai/thai-ads-filter/commits?author=powwadol" title="Code">💻</a></td>
-    <td align="center"><a href="https://twitter.com/kowith337"><img src="https://avatars3.githubusercontent.com/u/16535467?v=4" width="100px;" alt="Kowith Singkornkeeree"/><br /><sub><b>Kowith Singkornkeeree</b></sub></a><br /><a href="#filter-kowith337" title="People who help create filter list">🚫</a></td>
+    <td align="center"><a href="https://github.com/pakonda"><img src="https://avatars1.githubusercontent.com/u/6489925?v=4?s=100" width="100px;" alt=""/><br /><sub><b>pakonda</b></sub></a><br /><a href="https://github.com/adblock-thai/thai-ads-filter/commits?author=pakonda" title="Code">💻</a> <a href="https://github.com/adblock-thai/thai-ads-filter/commits?author=pakonda" title="Documentation">📖</a> <a href="#filter-pakonda" title="People who help create filter list">🚫</a> <a href="#blog-pakonda" title="Blogposts">📝</a></td>
+    <td align="center"><a href="https://github.com/powwadol"><img src="https://avatars0.githubusercontent.com/u/42528750?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Michio</b></sub></a><br /><a href="https://github.com/adblock-thai/thai-ads-filter/commits?author=powwadol" title="Code">💻</a></td>
+    <td align="center"><a href="https://twitter.com/kowith337"><img src="https://avatars3.githubusercontent.com/u/16535467?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kowith Singkornkeeree</b></sub></a><br /><a href="#filter-kowith337" title="People who help create filter list">🚫</a></td>
+    <td align="center"><a href="http://anime-thai.net/"><img src="https://avatars3.githubusercontent.com/u/19259262?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Danupol Intranurux</b></sub></a><br /><a href="#filter-LagSeeN" title="People who help create filter list">🚫</a></td>
   </tr>
 </table>
 
