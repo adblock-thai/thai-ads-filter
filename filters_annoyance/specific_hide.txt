@@ -4,6 +4,7 @@ blognone.com###block-views-jobs-blognone-com-block
 ch3plus.com###cookie_policy
 music.siamza.com###fanback
 stackoverflow.com###js-gdpr-consent-banner
+matichon.co.th###pdpa-popup
 sudsapda.com###share-buttons
 posttoday.com##.enews-notice
 voicetv.co.th##.is-active.content-bar > .navbar
