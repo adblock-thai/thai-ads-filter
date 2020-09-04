@@ -31,7 +31,6 @@
 ##.adsever
 ##.adv_A
 ##.ajax-banner
-##.banner
 ##.banner-left
 ##.banner-right
 ##.banner-side
