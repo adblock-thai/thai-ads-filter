@@ -1,4 +1,4 @@
-goal.in.th,gol.in.th,gool.in.th## table > tbody > tr > td > a[target=_blank] > img[src*=gif]
+goal.in.th,gol.in.th,gool.in.th##table > tbody > tr > td:has(> a[target=_blank]:first-child > img[src*=gif])
 fifa55hot.net###bghead
 soccersuck.com###ssCoverBG
 baanpolballs.com##.ads_forum
