@@ -11,8 +11,8 @@
 
 | List | Description  | Suitable | Subscribe | Direct Link |
 |:---------:|:-------------:|:--------:|:-------:|:--------:|
-Thai Ads Filters <br />![ads filter size] | A filter for [uBO](https://github.com/gorhill/uBlock) that aims to remove regional Thai ads, tracking, scams and badware. | ![uBO][uBO] ![NANO][NANO] ![ADNU][ADNU] | [Click][Thai Ads Filter Subscribe] | [Link][Thai Ads Filter Direct]
-Thai Annoyance Filters <br /> ![annoy filter size] | A filter that aims to remove annoyances and unnecessary bloat. | ![uBO][uBO] ![NANO][NANO] ![ADNU][ADNU] | [Click][Thai Annoyance Filter Subscribe] | [Link][Thai Annoyance Filter Direct]
+Thai Ads Filters <br />![ads filter size] | A filter for [uBO](https://github.com/gorhill/uBlock) that aims to remove regional Thai ads, tracking, scams and badware. | ![uBO][uBO] ![AG][AG] ![ADNU][ADNU] | [Click][Thai Ads Filter Subscribe] | [Link][Thai Ads Filter Direct]
+Thai Annoyance Filters <br /> ![annoy filter size] | A filter that aims to remove annoyances and unnecessary bloat. | ![uBO][uBO] ![AG][AG] ![ADNU][ADNU] | [Click][Thai Annoyance Filter Subscribe] | [Link][Thai Annoyance Filter Direct]
 
 [Thai Ads Filter Subscribe]: https://subscribe.adblockplus.org/?location=https://adblock-thai.github.io/thai-ads-filter/subscription.txt&amp;title=Thai%20Adblock%20List
 [Thai Ads Filter Direct]: https://adblock-thai.github.io/thai-ads-filter/subscription.txt
@@ -26,7 +26,6 @@ Thai Annoyance Filters <br /> ![annoy filter size] | A filter that aims to remov
 [AG]: https://adblock-thai.github.io/adblock_logo/adguard_new.png
 [ADB]: https://adblock-thai.github.io/adblock_logo/adblock.png
 [ABP]: https://adblock-thai.github.io/adblock_logo/adblock_plus.png
-[NANO]: https://adblock-thai.github.io/adblock_logo/nano.png
 [ADNU]: https://adblock-thai.github.io/adblock_logo/ad_nauseam.png
 
 ## 🛠 Installation
@@ -35,10 +34,8 @@ Thai Annoyance Filters <br /> ![annoy filter size] | A filter that aims to remov
 |----------|:-------------:|
 | Chrome   |  [Link](https://adblock-thai.github.io/how-to-install-adblock-for-chrome) |
 | Firefox  |  [Link](https://adblock-thai.github.io/how-to-install-adblock-for-firefox)   |
+| Edge Chrome  |  [Link](https://adblock-thai.github.io/how-to-install-adblock-for-edge-chrome)   |
 
-## 💬 Need help?
-
-- https://spectrum.chat/adblock-thailand
 
 ## 📝 Useful documents
 
@@ -47,8 +44,6 @@ Thai Annoyance Filters <br /> ![annoy filter size] | A filter that aims to remov
   - [uBlock's network filtering engine](https://github.com/gorhill/uBlock/wiki/Overview-of-uBlock's-network-filtering-engine)
   - [uBO Resources Library](https://github.com/gorhill/uBlock/wiki/Resources-Library)
   - [uBO Static filter syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax)
-- Nano Adblocker
-  - [NanoAdblocker Resources](https://github.com/NanoAdblocker/NanoFilters/blob/master/NanoFiltersSource/NanoResources.txt)
 - Adblock Plus
   - [ABP filter syntax](https://help.eyeo.com/en/adblockplus/how-to-write-filters)
   - [ABP cheatsheet](https://adblockplus.org/filter-cheatsheet)
