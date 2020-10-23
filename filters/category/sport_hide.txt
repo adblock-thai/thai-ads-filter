@@ -1,4 +1,3 @@
-goal.in.th,gol.in.th,gool.in.th##table > tbody > tr > td:has(> a[target=_blank]:first-child > img[src*=gif])
 fifa55hot.net###bghead
 soccersuck.com###ssCoverBG
 baanpolballs.com##.ads_forum
@@ -8,3 +7,4 @@ beinsport.biz##.onPlayer_banner
 baanpolballs.com,fifa55hot.net##a[rel*=nofollow] > img
 soccersuck.com##a[rel=nofollow][target=_blank] > img
 fifa55hot.net##a[target=_blank] > img
+goal.in.th,gol.in.th,gool.in.th##table > tbody > tr > td:has( > a[target=_blank]:first-child > img[src*=gif])
