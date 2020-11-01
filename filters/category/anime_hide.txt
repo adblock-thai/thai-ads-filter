@@ -36,9 +36,11 @@ opuree.com##.show.fade.modal-backdrop
 godcat-manga.com##.text-center.m-t-20.row
 nico-anime.com##a > img.img-responsive
 gg-anime.com##a[href*=bet] > img
+anime-master.com##a[rel*=nofollow]
 anime-live.com,animedd.xyz,kingsmanga.net,lnwmanga.com,zone-anime.net##a[rel*=nofollow] > img
 lnwanime.com##a[rel*=noopener] > img
 kingsmanga.net##a[rel*=noreferrer] > img
+anime-master.com##a[target*=blank] > img
 newb-anime.com##a[target*=blank][rel*=noopener] > img
 anime-sugoi.com,animedd.xyz,animeloli.com,niceoppai.net,zone-anime.net##a[target=_blank] > img
 a-tsuki.net,anime-live.com##a[target=_blank] > img.img-thumbnail
