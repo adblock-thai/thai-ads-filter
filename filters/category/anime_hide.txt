@@ -24,6 +24,7 @@ flix-anime.com##.active-mobile.kosana-container-m
 gg-anime.com##.entry-content > a > img
 boss-anime.com##.img-fluid
 flix-anime.com,misa-anime.com##.img-kosana
+fairyanime.com##.kosana-banner
 merlin-anime.com##.merlin_ads
 merlin-anime.com##.merlin_banner
 boss-anime.com##.module_home_x
