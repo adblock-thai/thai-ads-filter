@@ -1,7 +1,7 @@
 ! Title: Thai Adblock List
 ! Description: Thai ads filters
-! Version: 202011060353
-! Last modified: 06 Nov 2020 03:53 UTC
+! Version: 202011091006
+! Last modified: 09 Nov 2020 10:06 UTC
 ! Expires: 2 days
 ! Homepage: https://adblock-thai.github.io/
 ! License: https://github.com/adblock-thai/thai-ads-filter/blob/master/LICENSE
@@ -281,6 +281,7 @@ player/plugins/vast-*.js$script
 ||movie365-hd.com/ads/*$media,redirect=noop-1s.mp4
 ||pinkqx.co/scg9*$media,redirect=noop-1s.mp4,third-party
 ||playerlnw.com/video/biobet*.mp4$media,redirect=noop-1s.mp4
+||prettygame77.com/mvaba/*$media,redirect=noop-1s.mp4,third-party
 ||sa168vip.com$media,redirect=noop-1s.mp4,third-party
 ||sagame36.com^$media,redirect=noop-1s.mp4,third-party
 ||sagame66.co^$media,redirect=noop-1s.mp4,third-party
@@ -296,6 +297,7 @@ player/plugins/vast-*.js$script
 ||ufa191.video^$media,redirect=noop-1s.mp4,third-party
 ||ufabet365.com^$media,redirect=noop-1s.mp4,third-party
 ||ufabet678.com^$media,redirect=noop-1s.mp4,third-party
+||vdoad3.online/vdo/*$media,redirect=noop-1s.mp4,third-party
 ||video.laterxxx.com^$third-party
 ||win2url.com/js/*$script,third-party
 
@@ -572,6 +574,8 @@ movie2uhd.com##+js(json-prune, MU_ads)
 1080moviehd.com,baan-series.com,doofree88.com,ioiwork.com,leoplayer1.com,movie1free.com,nungsub.com,series4you.com,thmovieshd.com##+js(nano-setInterval-booster.js)
 series-d.com##+js(nofab.js)
 doofree88.com,nung2hd.com##+js(window.open-defuser.js)
+movie2uhd.com##.ad
+movie2uhd.com##.ad > .adcen
 movie2uhd.com##.ad-float
 watchlakorn.in##.ad_home
 movie-th.com##.adstop-movie
@@ -620,6 +624,7 @@ box-series.com,donung.me,doonung-hd.com,madooseries.com,movie2z.com,moviedoofee.
 037-hd.com,xn--72czp7a9bc4b9c4e6b.com##a[target=_blank] > img.img-responsive
 doofreeseries.com##a[target=_blank] > img.size-full
 madooseries.com##a[target=_new] > img
+movie2uhd.com##div.adhl
 nung2hd.com##div.boxads-bottom
 nung2hd.com##div.boxads-top
 movie365-hd.com##div[class^="ad-"]
