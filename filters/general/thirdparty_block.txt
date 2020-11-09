@@ -27,6 +27,7 @@
 ||movie365-hd.com/ads/*$media,redirect=noop-1s.mp4
 ||pinkqx.co/scg9*$media,redirect=noop-1s.mp4,third-party
 ||playerlnw.com/video/biobet*.mp4$media,redirect=noop-1s.mp4
+||prettygame77.com/mvaba/*$media,redirect=noop-1s.mp4,third-party
 ||sa168vip.com$media,redirect=noop-1s.mp4,third-party
 ||sagame36.com^$media,redirect=noop-1s.mp4,third-party
 ||sagame66.co^$media,redirect=noop-1s.mp4,third-party
@@ -42,5 +43,6 @@
 ||ufa191.video^$media,redirect=noop-1s.mp4,third-party
 ||ufabet365.com^$media,redirect=noop-1s.mp4,third-party
 ||ufabet678.com^$media,redirect=noop-1s.mp4,third-party
+||vdoad3.online/vdo/*$media,redirect=noop-1s.mp4,third-party
 ||video.laterxxx.com^$third-party
 ||win2url.com/js/*$script,third-party

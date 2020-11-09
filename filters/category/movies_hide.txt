@@ -26,6 +26,8 @@ movie2uhd.com##+js(json-prune, MU_ads)
 1080moviehd.com,baan-series.com,doofree88.com,ioiwork.com,leoplayer1.com,movie1free.com,nungsub.com,series4you.com,thmovieshd.com##+js(nano-setInterval-booster.js)
 series-d.com##+js(nofab.js)
 doofree88.com,nung2hd.com##+js(window.open-defuser.js)
+movie2uhd.com##.ad
+movie2uhd.com##.ad > .adcen
 movie2uhd.com##.ad-float
 watchlakorn.in##.ad_home
 movie-th.com##.adstop-movie
@@ -74,6 +76,7 @@ box-series.com,donung.me,doonung-hd.com,madooseries.com,movie2z.com,moviedoofee.
 037-hd.com,xn--72czp7a9bc4b9c4e6b.com##a[target=_blank] > img.img-responsive
 doofreeseries.com##a[target=_blank] > img.size-full
 madooseries.com##a[target=_new] > img
+movie2uhd.com##div.adhl
 nung2hd.com##div.boxads-bottom
 nung2hd.com##div.boxads-top
 movie365-hd.com##div[class^="ad-"]
