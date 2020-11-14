@@ -6,6 +6,7 @@ music.siamza.com###fanback
 stackoverflow.com###js-gdpr-consent-banner
 matichon.co.th###pdpa-popup
 sudsapda.com###share-buttons
+thestandard.co##.cookie-notice-container
 posttoday.com##.enews-notice
 voicetv.co.th##.is-active.content-bar > .navbar
 pantip.com##.pt-snackbar
