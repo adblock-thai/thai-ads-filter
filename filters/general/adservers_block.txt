@@ -184,7 +184,6 @@ gadspmz.com
 ||thstats.com$third-party
 ||thtrackingap.com
 ||tityx.com
-||travelpayouts.com
 ||truehits.in.th$third-party
 ||truehits.net$third-party
 ||tynt.com
