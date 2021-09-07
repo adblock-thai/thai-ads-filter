@@ -84,3 +84,4 @@ movie365-hd.com##div[class^="ad_"]
 seriesfreeonline.com##html:style(overflow: auto !important;)
 037-hd.com##img.img-responsive[src*="banner"]
 www.dooseries.tv##a[rel*="nofollow"] > img
+nunghub.com##[rel*="noopener"] > img
