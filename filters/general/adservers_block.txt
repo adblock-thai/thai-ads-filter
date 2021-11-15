@@ -119,7 +119,7 @@ gadspmz.com
 ||mtburn.com
 ||mtburn.jp
 ||nanobricks.io$third-party
-||newrelic.com
+||newrelic.com$third-party
 ||nr-data.com
 ||nr-data.net
 ||nuffnang.co.th
