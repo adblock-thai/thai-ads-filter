@@ -21,3 +21,6 @@
 ##a[href*="https://www.pg133.com/"] > img
 ##a[href*="https://track.cdnyz.com/"] > img
 ##a[href*="https://xn--c3c0ccqo3crb2s.com/"] > img
+##a[href*="https://aff.123aff.in/"] > img
+##a[href*="https://slot8899.com/"] > img
+##a[href*="https://slotheng.com"] > img
