@@ -13,3 +13,14 @@
 ##a[href*="ufa678.com"] > img
 ##a[href*=macau-uta-popup]
 ##div[id^=div-gpt-ad-]
+##a[href*="https://ufanance.com/"] > img
+##a[href*="https://8xbet.io/"] > img
+##a[href*="https://www.512xiaojin.com/"] > img
+##a[href*="https://www.usa567.cc/"] > img
+##a[href*="https://9bar.studio/"] > img
+##a[href*="https://www.pg133.com/"] > img
+##a[href*="https://track.cdnyz.com/"] > img
+##a[href*="https://xn--c3c0ccqo3crb2s.com/"] > img
+##a[href*="https://aff.123aff.in/"] > img
+##a[href*="https://slot8899.com/"] > img
+##a[href*="https://slotheng.com"] > img
